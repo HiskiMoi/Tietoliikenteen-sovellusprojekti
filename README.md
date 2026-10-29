@@ -24,3 +24,6 @@ J-Segger
 
 Github
 - Toimii projektin ja dokumennoinnin etusivuna.
+
+Arkkitehtuurikuva (work in progress)
+![Arkkitehtuurikuva](documents/arkkitehtuurikuva.png)
