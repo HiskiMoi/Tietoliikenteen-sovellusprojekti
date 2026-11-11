@@ -1,0 +1,97 @@
+ELF Header:
+  Magic:   7f 45 4c 46 01 01 01 00 00 00 00 00 00 00 00 00 
+  Class:                             ELF32
+  Data:                              2's complement, little endian
+  Version:                           1 (current)
+  OS/ABI:                            UNIX - System V
+  ABI Version:                       0
+  Type:                              EXEC (Executable file)
+  Machine:                           ARM
+  Version:                           0x1
+  Entry point address:               0x364d
+  Start of program headers:          52 (bytes into file)
+  Start of section headers:          4149280 (bytes into file)
+  Flags:                             0x5000200, Version5 EABI, soft-float ABI
+  Size of this header:               52 (bytes)
+  Size of program headers:           32 (bytes)
+  Number of program headers:         7
+  Size of section headers:           40 (bytes)
+  Number of section headers:         49
+  Section header string table index: 48
+
+Section Headers:
+  [Nr] Name              Type            Addr     Off    Size   ES Flg Lk Inf Al
+  [ 0]                   NULL            00000000 000000 000000 00      0   0  0
+  [ 1] rom_start         PROGBITS        00000000 000120 000154 00  AX  0   0  4
+  [ 2] text              PROGBITS        00000154 000274 01770c 00  AX  0   0  4
+  [ 3] .ARM.exidx        ARM_EXIDX       00017860 017980 000008 00  AL  2   0  4
+  [ 4] initlevel         PROGBITS        00017868 017988 0000d0 00   A  0   0  4
+  [ 5] device_area       PROGBITS        00017938 017a58 000118 00   A  0   0  4
+  [ 6] sw_isr_table      PROGBITS        00017a50 017b70 000228 00   A  0   0  4
+  [ 7] _static_thre[...] PROGBITS        00017c78 017d98 000030 00   A  0   0  8
+  [ 8] adc_driver_a[...] PROGBITS        00017ca8 017dc8 00000c 00   A  0   0  4
+  [ 9] entropy_driv[...] PROGBITS        00017cb4 017dd4 000008 00   A  0   0  4
+  [10] gpio_driver_[...] PROGBITS        00017cbc 017ddc 000024 00   A  0   0  4
+  [11] mbox_driver_[...] PROGBITS        00017ce0 017e00 000014 00   A  0   0  4
+  [12] bt_hci_drive[...] PROGBITS        00017cf4 017e14 00000c 00   A  0   0  4
+  [13] clock_contro[...] PROGBITS        00017d00 017e20 00001c 00   A  0   0  4
+  [14] uart_driver_[...] PROGBITS        00017d1c 017e3c 00000c 00   A  0   0  4
+  [15] bt_l2cap_fix[...] PROGBITS        00017d28 017e48 000018 00   A  0   0  4
+  [16] bt_gatt_serv[...] PROGBITS        00017d40 017e60 000018 00   A  0   0  4
+  [17] log_const_area    PROGBITS        00017d58 017e78 0000f8 00   A  0   0  4
+  [18] log_backend_area  PROGBITS        00017e50 017f70 000010 00   A  0   0  4
+  [19] zephyr_dbg_info   PROGBITS        00017e60 017f80 000044 00   A  0   0  4
+  [20] tbss              NOBITS          00017ea4 017fc4 000004 00 WAT  0   0  4
+  [21] rodata            PROGBITS        00017eb0 017fd0 00346c 00   A  0   0 16
+  [22] .ramfunc          PROGBITS        20000000 01bc74 000000 00   W  0   0  1
+  [23] datas             PROGBITS        20000000 01b440 000576 00  WA  0   0  8
+  [24] device_states     PROGBITS        20000576 01b9b6 000016 00  WA  0   0  1
+  [25] log_mpsc_pbu[...] PROGBITS        2000058c 01b9cc 000038 00  WA  0   0  4
+  [26] log_msg_ptr_area  PROGBITS        200005c4 01ba04 000004 00  WA  0   0  4
+  [27] k_mem_slab_area   PROGBITS        200005c8 01ba08 000054 00  WA  0   0  4
+  [28] k_heap_area       PROGBITS        2000061c 01ba5c 000014 00  WA  0   0  4
+  [29] k_mutex_area      PROGBITS        20000630 01ba70 0000a0 00  WA  0   0  4
+  [30] k_sem_area        PROGBITS        200006d0 01bb10 000030 00  WA  0   0  4
+  [31] k_fifo_area       PROGBITS        20000700 01bb40 000010 00  WA  0   0  4
+  [32] net_buf_pool_area PROGBITS        20000710 01bb50 000120 00  WA  0   0  4
+  [33] .comment          PROGBITS        00000000 01bc74 00003f 01  MS  0   0  1
+  [34] .debug_aranges    PROGBITS        00000000 01bcb8 0042c8 00      0   0  8
+  [35] .debug_info       PROGBITS        00000000 01ff80 25a90b 00      0   0  1
+  [36] .debug_abbrev     PROGBITS        00000000 27a88b 022991 00      0   0  1
+  [37] .debug_line       PROGBITS        00000000 29d21c 06f8f4 00      0   0  1
+  [38] .debug_frame      PROGBITS        00000000 30cb10 00b798 00      0   0  4
+  [39] .debug_str        PROGBITS        00000000 3182a8 01f0d2 01  MS  0   0  1
+  [40] .debug_loc        PROGBITS        00000000 33737a 0866be 00      0   0  1
+  [41] .debug_ranges     PROGBITS        00000000 3bda38 012b28 00      0   0  1
+  [42] .ARM.attributes   ARM_ATTRIBUTES  00000000 3d0560 000038 00      0   0  1
+  [43] .last_section     PROGBITS        0001bb4c 01bc70 000004 00  WA  0   0  4
+  [44] bss               NOBITS          20000830 01bc78 00246c 00  WA  0   0  8
+  [45] noinit            NOBITS          20002ca0 01bc78 005270 00  WA  0   0  8
+  [46] .symtab           SYMTAB          00000000 3d0598 014fc0 10     47 3463  4
+  [47] .strtab           STRTAB          00000000 3e5558 00f81c 00      0   0  1
+  [48] .shstrtab         STRTAB          00000000 3f4d74 0002a9 00      0   0  1
+Key to Flags:
+  W (write), A (alloc), X (execute), M (merge), S (strings), I (info),
+  L (link order), O (extra OS processing required), G (group), T (TLS),
+  C (compressed), x (unknown), o (OS specific), E (exclude),
+  D (mbind), y (purecode), p (processor specific)
+
+Program Headers:
+  Type           Offset   VirtAddr   PhysAddr   FileSiz MemSiz  Flg Align
+  ARM_EXIDX      0x017980 0x00017860 0x00017860 0x00008 0x00008 R   0x4
+  LOAD           0x000120 0x00000000 0x00000000 0x1b31c 0x1b31c RWE 0x10
+  LOAD           0x01b440 0x20000000 0x0001b31c 0x00830 0x00830 RW  0x8
+  LOAD           0x01bc70 0x0001bb4c 0x0001bb4c 0x00004 0x00004 RW  0x4
+  LOAD           0x000000 0x20000830 0x20000830 0x00000 0x076e0 RW  0x8
+  TLS            0x017fc4 0x00017ea4 0x00017ea4 0x00000 0x00004 R   0x4
+  GNU_STACK      0x000000 0x00000000 0x00000000 0x00000 0x00000 RW  0x10
+
+ Section to Segment mapping:
+  Segment Sections...
+   00     .ARM.exidx 
+   01     rom_start text .ARM.exidx initlevel device_area sw_isr_table _static_thread_data_area adc_driver_api_area entropy_driver_api_area gpio_driver_api_area mbox_driver_api_area bt_hci_driver_api_area clock_control_driver_api_area uart_driver_api_area bt_l2cap_fixed_chan_area bt_gatt_service_static_area log_const_area log_backend_area zephyr_dbg_info rodata 
+   02     datas device_states log_mpsc_pbuf_area log_msg_ptr_area k_mem_slab_area k_heap_area k_mutex_area k_sem_area k_fifo_area net_buf_pool_area 
+   03     .last_section 
+   04     bss noinit 
+   05     tbss 
+   06     
