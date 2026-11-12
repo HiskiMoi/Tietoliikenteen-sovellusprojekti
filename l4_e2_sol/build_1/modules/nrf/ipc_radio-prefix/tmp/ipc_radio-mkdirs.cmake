@@ -10,18 +10,18 @@ if(NOT EXISTS "C:/ncs/v3.4.2/nrf/applications/ipc_radio")
   file(MAKE_DIRECTORY "C:/ncs/v3.4.2/nrf/applications/ipc_radio")
 endif()
 file(MAKE_DIRECTORY
-  "C:/l4_e2_sol/build_1/ipc_radio"
-  "C:/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix"
-  "C:/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/tmp"
-  "C:/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp"
-  "C:/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src"
-  "C:/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp"
+  "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio"
+  "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix"
+  "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/tmp"
+  "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp"
+  "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src"
+  "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "C:/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/${subDir}")
+    file(MAKE_DIRECTORY "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "C:/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp${cfgdir}") # cfgdir has leading slash
 endif()

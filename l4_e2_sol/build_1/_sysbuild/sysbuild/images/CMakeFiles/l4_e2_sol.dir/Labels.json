@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/l4_e2_sol/build_1/_sysbuild/sysbuild/images/CMakeFiles/l4_e2_sol"
+			"file" : "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/_sysbuild/sysbuild/images/CMakeFiles/l4_e2_sol"
 		},
 		{
-			"file" : "C:/l4_e2_sol/build_1/_sysbuild/sysbuild/images/CMakeFiles/l4_e2_sol.rule"
+			"file" : "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/_sysbuild/sysbuild/images/CMakeFiles/l4_e2_sol.rule"
 		},
 		{
-			"file" : "C:/l4_e2_sol/build_1/_sysbuild/sysbuild/images/CMakeFiles/l4_e2_sol-complete.rule"
+			"file" : "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/_sysbuild/sysbuild/images/CMakeFiles/l4_e2_sol-complete.rule"
 		},
 		{
-			"file" : "C:/l4_e2_sol/build_1/_sysbuild/sysbuild/images/l4_e2_sol-prefix/src/l4_e2_sol-stamp/l4_e2_sol-build.rule"
+			"file" : "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/_sysbuild/sysbuild/images/l4_e2_sol-prefix/src/l4_e2_sol-stamp/l4_e2_sol-build.rule"
 		},
 		{
-			"file" : "C:/l4_e2_sol/build_1/_sysbuild/sysbuild/images/l4_e2_sol-prefix/src/l4_e2_sol-stamp/l4_e2_sol-configure.rule"
+			"file" : "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/_sysbuild/sysbuild/images/l4_e2_sol-prefix/src/l4_e2_sol-stamp/l4_e2_sol-configure.rule"
 		},
 		{
-			"file" : "C:/l4_e2_sol/build_1/_sysbuild/sysbuild/images/l4_e2_sol-prefix/src/l4_e2_sol-stamp/l4_e2_sol-download.rule"
+			"file" : "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/_sysbuild/sysbuild/images/l4_e2_sol-prefix/src/l4_e2_sol-stamp/l4_e2_sol-download.rule"
 		},
 		{
-			"file" : "C:/l4_e2_sol/build_1/_sysbuild/sysbuild/images/l4_e2_sol-prefix/src/l4_e2_sol-stamp/l4_e2_sol-install.rule"
+			"file" : "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/_sysbuild/sysbuild/images/l4_e2_sol-prefix/src/l4_e2_sol-stamp/l4_e2_sol-install.rule"
 		},
 		{
-			"file" : "C:/l4_e2_sol/build_1/_sysbuild/sysbuild/images/l4_e2_sol-prefix/src/l4_e2_sol-stamp/l4_e2_sol-mkdir.rule"
+			"file" : "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/_sysbuild/sysbuild/images/l4_e2_sol-prefix/src/l4_e2_sol-stamp/l4_e2_sol-mkdir.rule"
 		},
 		{
-			"file" : "C:/l4_e2_sol/build_1/_sysbuild/sysbuild/images/l4_e2_sol-prefix/src/l4_e2_sol-stamp/l4_e2_sol-patch.rule"
+			"file" : "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/_sysbuild/sysbuild/images/l4_e2_sol-prefix/src/l4_e2_sol-stamp/l4_e2_sol-patch.rule"
 		},
 		{
-			"file" : "C:/l4_e2_sol/build_1/_sysbuild/sysbuild/images/l4_e2_sol-prefix/src/l4_e2_sol-stamp/l4_e2_sol-update.rule"
+			"file" : "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/_sysbuild/sysbuild/images/l4_e2_sol-prefix/src/l4_e2_sol-stamp/l4_e2_sol-update.rule"
 		}
 	],
 	"target" : 

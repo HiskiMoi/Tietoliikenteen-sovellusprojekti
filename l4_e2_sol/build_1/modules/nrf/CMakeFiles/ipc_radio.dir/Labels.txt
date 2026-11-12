@@ -1,13 +1,13 @@
 # Target labels
  ipc_radio
 # Source files and their labels
-C:/l4_e2_sol/build_1/modules/nrf/CMakeFiles/ipc_radio
-C:/l4_e2_sol/build_1/modules/nrf/CMakeFiles/ipc_radio.rule
-C:/l4_e2_sol/build_1/modules/nrf/CMakeFiles/ipc_radio-complete.rule
-C:/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-build.rule
-C:/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-configure.rule
-C:/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-download.rule
-C:/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-install.rule
-C:/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-mkdir.rule
-C:/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-patch.rule
-C:/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-update.rule
+C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/modules/nrf/CMakeFiles/ipc_radio
+C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/modules/nrf/CMakeFiles/ipc_radio.rule
+C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/modules/nrf/CMakeFiles/ipc_radio-complete.rule
+C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-build.rule
+C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-configure.rule
+C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-download.rule
+C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-install.rule
+C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-mkdir.rule
+C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-patch.rule
+C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/modules/nrf/ipc_radio-prefix/src/ipc_radio-stamp/ipc_radio-update.rule

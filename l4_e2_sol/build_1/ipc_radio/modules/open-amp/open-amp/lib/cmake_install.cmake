@@ -39,22 +39,22 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/l4_e2_sol/build_1/ipc_radio/modules/open-amp/open-amp/lib/virtio/cmake_install.cmake")
+  include("C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/modules/open-amp/open-amp/lib/virtio/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/l4_e2_sol/build_1/ipc_radio/modules/open-amp/open-amp/lib/rpmsg/cmake_install.cmake")
+  include("C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/modules/open-amp/open-amp/lib/rpmsg/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/l4_e2_sol/build_1/ipc_radio/modules/open-amp/open-amp/lib/remoteproc/cmake_install.cmake")
+  include("C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/modules/open-amp/open-amp/lib/remoteproc/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/l4_e2_sol/build_1/ipc_radio/modules/open-amp/open-amp/lib/utils/cmake_install.cmake")
+  include("C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/modules/open-amp/open-amp/lib/utils/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -62,12 +62,12 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "C:/l4_e2_sol/build_1/ipc_radio/modules/open-amp/open-amp/include/generated/openamp")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/modules/open-amp/open-amp/include/generated/openamp")
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/l4_e2_sol/build_1/ipc_radio/modules/open-amp/open-amp/lib/install_local_manifest.txt"
+  file(WRITE "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/modules/open-amp/open-amp/lib/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

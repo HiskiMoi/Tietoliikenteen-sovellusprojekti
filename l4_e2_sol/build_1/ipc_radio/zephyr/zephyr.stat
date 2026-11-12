@@ -10,7 +10,7 @@ ELF Header:
   Version:                           0x1
   Entry point address:               0x1017f4d
   Start of program headers:          52 (bytes into file)
-  Start of section headers:          1602476 (bytes into file)
+  Start of section headers:          1605324 (bytes into file)
   Flags:                             0x5000200, Version5 EABI, soft-float ABI
   Size of this header:               52 (bytes)
   Size of program headers:           32 (bytes)
@@ -47,18 +47,18 @@ Section Headers:
   [23] .debug_aranges    PROGBITS        00000000 024398 002170 00      0   0  8
   [24] .debug_info       PROGBITS        00000000 026508 081ab1 00      0   0  1
   [25] .debug_abbrev     PROGBITS        00000000 0a7fb9 012da5 00      0   0  1
-  [26] .debug_line       PROGBITS        00000000 0bad5e 038a83 00      0   0  1
-  [27] .debug_frame      PROGBITS        00000000 0f37e4 0055ac 00      0   0  4
-  [28] .debug_str        PROGBITS        00000000 0f8d90 018985 01  MS  0   0  1
-  [29] .debug_loc        PROGBITS        00000000 111715 04141b 00      0   0  1
-  [30] .debug_ranges     PROGBITS        00000000 152b30 0095b0 00      0   0  1
-  [31] .ARM.attributes   ARM_ATTRIBUTES  00000000 15c0e0 000036 00      0   0  1
+  [26] .debug_line       PROGBITS        00000000 0bad5e 0394fa 00      0   0  1
+  [27] .debug_frame      PROGBITS        00000000 0f4258 0055ac 00      0   0  4
+  [28] .debug_str        PROGBITS        00000000 0f9804 018a30 01  MS  0   0  1
+  [29] .debug_loc        PROGBITS        00000000 112234 04141b 00      0   0  1
+  [30] .debug_ranges     PROGBITS        00000000 15364f 0095b0 00      0   0  1
+  [31] .ARM.attributes   ARM_ATTRIBUTES  00000000 15cbff 000036 00      0   0  1
   [32] .last_section     PROGBITS        01024278 024374 000004 00  WA  0   0  4
   [33] bss               NOBITS          210002f8 024378 005e88 00  WA  0   0  8
   [34] noinit            NOBITS          21006180 024378 005490 00  WA  0   0  8
-  [35] .symtab           SYMTAB          00000000 15c118 016620 10     36 3624  4
-  [36] .strtab           STRTAB          00000000 172738 014aa2 00      0   0  1
-  [37] .shstrtab         STRTAB          00000000 1871da 0001d1 00      0   0  1
+  [35] .symtab           SYMTAB          00000000 15cc38 016620 10     36 3624  4
+  [36] .strtab           STRTAB          00000000 173258 014aa2 00      0   0  1
+  [37] .shstrtab         STRTAB          00000000 187cfa 0001d1 00      0   0  1
 Key to Flags:
   W (write), A (alloc), X (execute), M (merge), S (strings), I (info),
   L (link order), O (extra OS processing required), G (group), T (TLS),

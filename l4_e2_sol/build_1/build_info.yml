@@ -9,19 +9,19 @@ cmake:
     revision: ''
   images:
    - name: 'l4_e2_sol'
-     source-dir: 'C:/l4_e2_sol'
+     source-dir: 'C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol'
      type: 'MAIN'
    - name: 'ipc_radio'
      source-dir: ''
   kconfig:
     files:
-     - 'C:/l4_e2_sol/build_1/_sysbuild/empty.conf'
-     - 'C:/l4_e2_sol/build_1/_sysbuild/empty.conf'
+     - 'C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/_sysbuild/empty.conf'
+     - 'C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/_sysbuild/empty.conf'
     user-files:
-     - 'C:/l4_e2_sol/build_1/_sysbuild/empty.conf'
+     - 'C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/_sysbuild/empty.conf'
   sysbuild: 'true'
 version: '0.1.0'
 west:
-  command: 'C:\ncs\toolchains\5f5ef0cea0\opt\bin\Scripts\west build --build-dir c:/l4_e2_sol/build_1 c:/l4_e2_sol --pristine --board nrf5340dk/nrf5340/cpuapp -- -DCONFIG_DEBUG_THREAD_INFO=y -DCONF_FILE=prj.conf -DDTC_OVERLAY_FILE=nrf5340dk_nrf5340_cpuapp.overlay'
+  command: 'C:\ncs\toolchains\5f5ef0cea0\opt\bin\Scripts\west build --build-dir c:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1 c:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol --pristine --board nrf5340dk/nrf5340/cpuapp -- -DCONFIG_DEBUG_THREAD_INFO=y -DCONF_FILE=prj.conf -DDTC_OVERLAY_FILE=nrf5340dk_nrf5340_cpuapp.overlay'
   topdir: 'c:\ncs\v3.4.2'
   version: '1.5.0'

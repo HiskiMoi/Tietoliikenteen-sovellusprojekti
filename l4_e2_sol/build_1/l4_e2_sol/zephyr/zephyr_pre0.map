@@ -577,7 +577,7 @@ Discarded input sections
  .data          0x00000000        0x0 zephyr/CMakeFiles/zephyr_pre0.dir/misc/empty_file.c.obj
  .bss           0x00000000        0x0 zephyr/CMakeFiles/zephyr_pre0.dir/misc/empty_file.c.obj
  .debug_line    0x00000000        0x0 zephyr/CMakeFiles/zephyr_pre0.dir/misc/empty_file.c.obj
- .debug_str     0x00000000      0x1eb zephyr/CMakeFiles/zephyr_pre0.dir/misc/empty_file.c.obj
+ .debug_str     0x00000000      0x224 zephyr/CMakeFiles/zephyr_pre0.dir/misc/empty_file.c.obj
  .comment       0x00000000       0x20 zephyr/CMakeFiles/zephyr_pre0.dir/misc/empty_file.c.obj
  .text          0x00000000        0x0 zephyr/CMakeFiles/offsets.dir/./arch/arm/core/offsets/offsets.c.obj
  .data          0x00000000        0x0 zephyr/CMakeFiles/offsets.dir/./arch/arm/core/offsets/offsets.c.obj
@@ -605,7 +605,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 zephyr/libzephyr.a(validate_libc.c.obj)
  .debug_line    0x00000000       0x4e zephyr/libzephyr.a(validate_libc.c.obj)
- .debug_str     0x00000000      0x28d zephyr/libzephyr.a(validate_libc.c.obj)
+ .debug_str     0x00000000      0x2c6 zephyr/libzephyr.a(validate_libc.c.obj)
  .comment       0x00000000       0x20 zephyr/libzephyr.a(validate_libc.c.obj)
  .text          0x00000000        0x0 zephyr/libzephyr.a(heap.c.obj)
  .data          0x00000000        0x0 zephyr/libzephyr.a(heap.c.obj)
@@ -651,8 +651,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x50 zephyr/libzephyr.a(clock.c.obj)
  .debug_ranges  0x00000000      0x150 zephyr/libzephyr.a(clock.c.obj)
- .debug_line    0x00000000      0xa30 zephyr/libzephyr.a(clock.c.obj)
- .debug_str     0x00000000      0x882 zephyr/libzephyr.a(clock.c.obj)
+ .debug_line    0x00000000      0xa69 zephyr/libzephyr.a(clock.c.obj)
+ .debug_str     0x00000000      0x8bb zephyr/libzephyr.a(clock.c.obj)
  .comment       0x00000000       0x20 zephyr/libzephyr.a(clock.c.obj)
  .debug_frame   0x00000000       0xf4 zephyr/libzephyr.a(clock.c.obj)
  .text          0x00000000        0x0 zephyr/libzephyr.a(printk.c.obj)
@@ -679,8 +679,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x38 zephyr/libzephyr.a(sem.c.obj)
  .debug_ranges  0x00000000       0x70 zephyr/libzephyr.a(sem.c.obj)
- .debug_line    0x00000000      0x320 zephyr/libzephyr.a(sem.c.obj)
- .debug_str     0x00000000      0x3e9 zephyr/libzephyr.a(sem.c.obj)
+ .debug_line    0x00000000      0x359 zephyr/libzephyr.a(sem.c.obj)
+ .debug_str     0x00000000      0x422 zephyr/libzephyr.a(sem.c.obj)
  .comment       0x00000000       0x20 zephyr/libzephyr.a(sem.c.obj)
  .debug_frame   0x00000000       0x68 zephyr/libzephyr.a(sem.c.obj)
  .text          0x00000000        0x0 zephyr/libzephyr.a(thread_entry.c.obj)
@@ -702,7 +702,7 @@ Discarded input sections
                 0x00000000       0x28 zephyr/libzephyr.a(cbprintf_complete.c.obj)
  .debug_ranges  0x00000000      0x2a8 zephyr/libzephyr.a(cbprintf_complete.c.obj)
  .debug_line    0x00000000      0xd36 zephyr/libzephyr.a(cbprintf_complete.c.obj)
- .debug_str     0x00000000      0x6b3 zephyr/libzephyr.a(cbprintf_complete.c.obj)
+ .debug_str     0x00000000      0x6ec zephyr/libzephyr.a(cbprintf_complete.c.obj)
  .comment       0x00000000       0x20 zephyr/libzephyr.a(cbprintf_complete.c.obj)
  .debug_frame   0x00000000       0x68 zephyr/libzephyr.a(cbprintf_complete.c.obj)
  .text          0x00000000        0x0 zephyr/libzephyr.a(assert.c.obj)
@@ -735,7 +735,7 @@ Discarded input sections
                 0x00000000       0x20 zephyr/libzephyr.a(dec.c.obj)
  .debug_ranges  0x00000000       0x10 zephyr/libzephyr.a(dec.c.obj)
  .debug_line    0x00000000      0x1cc zephyr/libzephyr.a(dec.c.obj)
- .debug_str     0x00000000      0x2c0 zephyr/libzephyr.a(dec.c.obj)
+ .debug_str     0x00000000      0x2f9 zephyr/libzephyr.a(dec.c.obj)
  .comment       0x00000000       0x20 zephyr/libzephyr.a(dec.c.obj)
  .debug_frame   0x00000000       0x30 zephyr/libzephyr.a(dec.c.obj)
  .text          0x00000000        0x0 zephyr/libzephyr.a(hex.c.obj)
@@ -754,7 +754,7 @@ Discarded input sections
                 0x00000000       0x38 zephyr/libzephyr.a(hex.c.obj)
  .debug_ranges  0x00000000       0x40 zephyr/libzephyr.a(hex.c.obj)
  .debug_line    0x00000000      0x33b zephyr/libzephyr.a(hex.c.obj)
- .debug_str     0x00000000      0x2c7 zephyr/libzephyr.a(hex.c.obj)
+ .debug_str     0x00000000      0x300 zephyr/libzephyr.a(hex.c.obj)
  .comment       0x00000000       0x20 zephyr/libzephyr.a(hex.c.obj)
  .debug_frame   0x00000000       0x74 zephyr/libzephyr.a(hex.c.obj)
  .text          0x00000000        0x0 zephyr/libzephyr.a(rb.c.obj)
@@ -790,7 +790,7 @@ Discarded input sections
                 0x00000000       0x78 zephyr/libzephyr.a(rb.c.obj)
  .debug_ranges  0x00000000      0x528 zephyr/libzephyr.a(rb.c.obj)
  .debug_line    0x00000000     0x1326 zephyr/libzephyr.a(rb.c.obj)
- .debug_str     0x00000000      0x4b7 zephyr/libzephyr.a(rb.c.obj)
+ .debug_str     0x00000000      0x4f0 zephyr/libzephyr.a(rb.c.obj)
  .comment       0x00000000       0x20 zephyr/libzephyr.a(rb.c.obj)
  .debug_frame   0x00000000      0x180 zephyr/libzephyr.a(rb.c.obj)
  .text          0x00000000        0x0 zephyr/libzephyr.a(set.c.obj)
@@ -807,7 +807,7 @@ Discarded input sections
                 0x00000000       0x28 zephyr/libzephyr.a(set.c.obj)
  .debug_ranges  0x00000000       0x18 zephyr/libzephyr.a(set.c.obj)
  .debug_line    0x00000000      0x1f2 zephyr/libzephyr.a(set.c.obj)
- .debug_str     0x00000000      0x2d2 zephyr/libzephyr.a(set.c.obj)
+ .debug_str     0x00000000      0x30b zephyr/libzephyr.a(set.c.obj)
  .comment       0x00000000       0x20 zephyr/libzephyr.a(set.c.obj)
  .debug_frame   0x00000000       0x38 zephyr/libzephyr.a(set.c.obj)
  .text          0x00000000        0x0 zephyr/libzephyr.a(timeutil.c.obj)
@@ -838,7 +838,7 @@ Discarded input sections
                 0x00000000       0x60 zephyr/libzephyr.a(timeutil.c.obj)
  .debug_ranges  0x00000000       0xc8 zephyr/libzephyr.a(timeutil.c.obj)
  .debug_line    0x00000000      0x75b zephyr/libzephyr.a(timeutil.c.obj)
- .debug_str     0x00000000      0x5c1 zephyr/libzephyr.a(timeutil.c.obj)
+ .debug_str     0x00000000      0x5fa zephyr/libzephyr.a(timeutil.c.obj)
  .comment       0x00000000       0x20 zephyr/libzephyr.a(timeutil.c.obj)
  .debug_frame   0x00000000      0x138 zephyr/libzephyr.a(timeutil.c.obj)
  .text          0x00000000        0x0 zephyr/libzephyr.a(bitarray.c.obj)
@@ -891,7 +891,7 @@ Discarded input sections
                 0x00000000       0xb8 zephyr/libzephyr.a(bitarray.c.obj)
  .debug_ranges  0x00000000      0x2d0 zephyr/libzephyr.a(bitarray.c.obj)
  .debug_line    0x00000000     0x17e1 zephyr/libzephyr.a(bitarray.c.obj)
- .debug_str     0x00000000      0x6a8 zephyr/libzephyr.a(bitarray.c.obj)
+ .debug_str     0x00000000      0x6e1 zephyr/libzephyr.a(bitarray.c.obj)
  .comment       0x00000000       0x20 zephyr/libzephyr.a(bitarray.c.obj)
  .debug_frame   0x00000000      0x290 zephyr/libzephyr.a(bitarray.c.obj)
  .text          0x00000000        0x0 zephyr/libzephyr.a(bitmask.c.obj)
@@ -906,7 +906,7 @@ Discarded input sections
                 0x00000000       0x20 zephyr/libzephyr.a(bitmask.c.obj)
  .debug_ranges  0x00000000       0x38 zephyr/libzephyr.a(bitmask.c.obj)
  .debug_line    0x00000000      0x2ff zephyr/libzephyr.a(bitmask.c.obj)
- .debug_str     0x00000000      0x30a zephyr/libzephyr.a(bitmask.c.obj)
+ .debug_str     0x00000000      0x343 zephyr/libzephyr.a(bitmask.c.obj)
  .comment       0x00000000       0x20 zephyr/libzephyr.a(bitmask.c.obj)
  .debug_frame   0x00000000       0x30 zephyr/libzephyr.a(bitmask.c.obj)
  .text          0x00000000        0x0 zephyr/libzephyr.a(getopt.c.obj)
@@ -946,7 +946,7 @@ Discarded input sections
                 0x00000000       0x28 zephyr/libzephyr.a(getopt_common.c.obj)
  .debug_ranges  0x00000000       0x18 zephyr/libzephyr.a(getopt_common.c.obj)
  .debug_line    0x00000000      0x215 zephyr/libzephyr.a(getopt_common.c.obj)
- .debug_str     0x00000000      0x5c9 zephyr/libzephyr.a(getopt_common.c.obj)
+ .debug_str     0x00000000      0x602 zephyr/libzephyr.a(getopt_common.c.obj)
  .comment       0x00000000       0x20 zephyr/libzephyr.a(getopt_common.c.obj)
  .debug_frame   0x00000000       0x30 zephyr/libzephyr.a(getopt_common.c.obj)
  .text          0x00000000        0x0 zephyr/libzephyr.a(onoff.c.obj)
@@ -997,7 +997,7 @@ Discarded input sections
                 0x00000000       0x60 zephyr/libzephyr.a(ring_buffer.c.obj)
  .debug_ranges  0x00000000       0xd8 zephyr/libzephyr.a(ring_buffer.c.obj)
  .debug_line    0x00000000      0x719 zephyr/libzephyr.a(ring_buffer.c.obj)
- .debug_str     0x00000000      0x4d3 zephyr/libzephyr.a(ring_buffer.c.obj)
+ .debug_str     0x00000000      0x50c zephyr/libzephyr.a(ring_buffer.c.obj)
  .comment       0x00000000       0x20 zephyr/libzephyr.a(ring_buffer.c.obj)
  .debug_frame   0x00000000      0x144 zephyr/libzephyr.a(ring_buffer.c.obj)
  .text          0x00000000        0x0 zephyr/libzephyr.a(last_section_id.c.obj)
@@ -1027,7 +1027,7 @@ Discarded input sections
                 0x00000000       0x48 zephyr/libzephyr.a(uuid.c.obj)
  .debug_ranges  0x00000000       0x80 zephyr/libzephyr.a(uuid.c.obj)
  .debug_line    0x00000000      0x416 zephyr/libzephyr.a(uuid.c.obj)
- .debug_str     0x00000000      0x35e zephyr/libzephyr.a(uuid.c.obj)
+ .debug_str     0x00000000      0x397 zephyr/libzephyr.a(uuid.c.obj)
  .comment       0x00000000       0x20 zephyr/libzephyr.a(uuid.c.obj)
  .debug_frame   0x00000000       0x90 zephyr/libzephyr.a(uuid.c.obj)
  .text          0x00000000        0x0 zephyr/libzephyr.a(configs.c.obj)
@@ -1180,7 +1180,7 @@ Discarded input sections
                 0x00000000       0x38 zephyr/libzephyr.a(log_cache.c.obj)
  .debug_ranges  0x00000000      0x278 zephyr/libzephyr.a(log_cache.c.obj)
  .debug_line    0x00000000      0x8b6 zephyr/libzephyr.a(log_cache.c.obj)
- .debug_str     0x00000000      0x514 zephyr/libzephyr.a(log_cache.c.obj)
+ .debug_str     0x00000000      0x54d zephyr/libzephyr.a(log_cache.c.obj)
  .comment       0x00000000       0x20 zephyr/libzephyr.a(log_cache.c.obj)
  .debug_frame   0x00000000       0x70 zephyr/libzephyr.a(log_cache.c.obj)
  .text          0x00000000        0x0 zephyr/libzephyr.a(log_msg.c.obj)
@@ -1220,7 +1220,7 @@ Discarded input sections
                 0x00000000       0x40 zephyr/libzephyr.a(tracing_none.c.obj)
  .debug_ranges  0x00000000       0x30 zephyr/libzephyr.a(tracing_none.c.obj)
  .debug_line    0x00000000       0xa9 zephyr/libzephyr.a(tracing_none.c.obj)
- .debug_str     0x00000000      0x2fc zephyr/libzephyr.a(tracing_none.c.obj)
+ .debug_str     0x00000000      0x335 zephyr/libzephyr.a(tracing_none.c.obj)
  .comment       0x00000000       0x20 zephyr/libzephyr.a(tracing_none.c.obj)
  .debug_frame   0x00000000       0x60 zephyr/libzephyr.a(tracing_none.c.obj)
  .text          0x00000000        0x0 zephyr/libzephyr.a(gap_svc.c.obj)
@@ -1315,7 +1315,7 @@ Discarded input sections
                 0x00000000      0x148 zephyr/libzephyr.a(hci_vs_sdc.c.obj)
  .debug_ranges  0x00000000      0x138 zephyr/libzephyr.a(hci_vs_sdc.c.obj)
  .debug_line    0x00000000      0x8af zephyr/libzephyr.a(hci_vs_sdc.c.obj)
- .debug_str     0x00000000     0x1ba2 zephyr/libzephyr.a(hci_vs_sdc.c.obj)
+ .debug_str     0x00000000     0x1bdb zephyr/libzephyr.a(hci_vs_sdc.c.obj)
  .comment       0x00000000       0x20 zephyr/libzephyr.a(hci_vs_sdc.c.obj)
  .debug_frame   0x00000000      0x2e8 zephyr/libzephyr.a(hci_vs_sdc.c.obj)
  .text          0x00000000        0x0 zephyr/libzephyr.a(host_extensions.c.obj)
@@ -1326,7 +1326,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 zephyr/libzephyr.a(host_extensions.c.obj)
  .debug_line    0x00000000       0x65 zephyr/libzephyr.a(host_extensions.c.obj)
- .debug_str     0x00000000      0x2a4 zephyr/libzephyr.a(host_extensions.c.obj)
+ .debug_str     0x00000000      0x2dd zephyr/libzephyr.a(host_extensions.c.obj)
  .comment       0x00000000       0x20 zephyr/libzephyr.a(host_extensions.c.obj)
  .text          0x00000000        0x0 zephyr/libzephyr.a(nrf_cc3xx_platform_abort_zephyr.c.obj)
  .data          0x00000000        0x0 zephyr/libzephyr.a(nrf_cc3xx_platform_abort_zephyr.c.obj)
@@ -1346,7 +1346,7 @@ Discarded input sections
                 0x00000000       0x20 zephyr/arch/common/libarch__common.a(sw_isr_common.c.obj)
  .debug_ranges  0x00000000       0x10 zephyr/arch/common/libarch__common.a(sw_isr_common.c.obj)
  .debug_line    0x00000000       0x70 zephyr/arch/common/libarch__common.a(sw_isr_common.c.obj)
- .debug_str     0x00000000      0x2b1 zephyr/arch/common/libarch__common.a(sw_isr_common.c.obj)
+ .debug_str     0x00000000      0x2ea zephyr/arch/common/libarch__common.a(sw_isr_common.c.obj)
  .comment       0x00000000       0x20 zephyr/arch/common/libarch__common.a(sw_isr_common.c.obj)
  .debug_frame   0x00000000       0x20 zephyr/arch/common/libarch__common.a(sw_isr_common.c.obj)
  .text          0x00000000        0x0 zephyr/arch/common/libarch__common.a(init.c.obj)
@@ -1386,7 +1386,7 @@ Discarded input sections
                 0x00000000       0x28 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fpu.c.obj)
  .debug_ranges  0x00000000       0x18 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fpu.c.obj)
  .debug_line    0x00000000      0x19b zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fpu.c.obj)
- .debug_str     0x00000000      0x312 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fpu.c.obj)
+ .debug_str     0x00000000      0x34b zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fpu.c.obj)
  .comment       0x00000000       0x20 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fpu.c.obj)
  .debug_frame   0x00000000       0x30 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fpu.c.obj)
  .text          0x00000000        0x0 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(reset.S.obj)
@@ -1480,7 +1480,7 @@ Discarded input sections
                 0x00000000       0x20 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(assert.c.obj)
  .debug_ranges  0x00000000       0x10 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(assert.c.obj)
  .debug_line    0x00000000       0xd3 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(assert.c.obj)
- .debug_str     0x00000000      0x2af zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(assert.c.obj)
+ .debug_str     0x00000000      0x2e8 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(assert.c.obj)
  .comment       0x00000000       0x20 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(assert.c.obj)
  .debug_frame   0x00000000       0x28 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(assert.c.obj)
  .text          0x00000000        0x0 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(cbprintf.c.obj)
@@ -1500,7 +1500,7 @@ Discarded input sections
                 0x00000000       0x20 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(chk_fail.c.obj)
  .debug_ranges  0x00000000       0x10 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(chk_fail.c.obj)
  .debug_line    0x00000000      0x2d6 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(chk_fail.c.obj)
- .debug_str     0x00000000      0x373 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(chk_fail.c.obj)
+ .debug_str     0x00000000      0x3ac zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(chk_fail.c.obj)
  .comment       0x00000000       0x20 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(chk_fail.c.obj)
  .debug_frame   0x00000000       0x28 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(chk_fail.c.obj)
  .text          0x00000000        0x0 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(errno_wrap.c.obj)
@@ -1511,7 +1511,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(errno_wrap.c.obj)
  .debug_line    0x00000000       0x54 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(errno_wrap.c.obj)
- .debug_str     0x00000000      0x29c zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(errno_wrap.c.obj)
+ .debug_str     0x00000000      0x2d5 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(errno_wrap.c.obj)
  .comment       0x00000000       0x20 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(errno_wrap.c.obj)
  .text          0x00000000        0x0 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(exit.c.obj)
  .data          0x00000000        0x0 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(exit.c.obj)
@@ -1547,8 +1547,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x68 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(locks.c.obj)
  .debug_ranges  0x00000000       0x88 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(locks.c.obj)
- .debug_line    0x00000000      0x567 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(locks.c.obj)
- .debug_str     0x00000000      0x968 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(locks.c.obj)
+ .debug_line    0x00000000      0x5a0 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(locks.c.obj)
+ .debug_str     0x00000000      0x9a1 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(locks.c.obj)
  .comment       0x00000000       0x20 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(locks.c.obj)
  .debug_frame   0x00000000       0xc4 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(locks.c.obj)
  .text          0x00000000        0x0 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(stdio.c.obj)
@@ -1571,7 +1571,7 @@ Discarded input sections
                 0x00000000       0x20 zephyr/lib/libc/common/liblib__libc__common.a(abort.c.obj)
  .debug_ranges  0x00000000       0x10 zephyr/lib/libc/common/liblib__libc__common.a(abort.c.obj)
  .debug_line    0x00000000      0x347 zephyr/lib/libc/common/liblib__libc__common.a(abort.c.obj)
- .debug_str     0x00000000      0x382 zephyr/lib/libc/common/liblib__libc__common.a(abort.c.obj)
+ .debug_str     0x00000000      0x3bb zephyr/lib/libc/common/liblib__libc__common.a(abort.c.obj)
  .comment       0x00000000       0x20 zephyr/lib/libc/common/liblib__libc__common.a(abort.c.obj)
  .debug_frame   0x00000000       0x28 zephyr/lib/libc/common/liblib__libc__common.a(abort.c.obj)
  .text          0x00000000        0x0 zephyr/lib/libc/common/liblib__libc__common.a(time.c.obj)
@@ -1585,7 +1585,7 @@ Discarded input sections
                 0x00000000       0x20 zephyr/lib/libc/common/liblib__libc__common.a(time.c.obj)
  .debug_ranges  0x00000000       0x10 zephyr/lib/libc/common/liblib__libc__common.a(time.c.obj)
  .debug_line    0x00000000      0x22c zephyr/lib/libc/common/liblib__libc__common.a(time.c.obj)
- .debug_str     0x00000000      0x2f4 zephyr/lib/libc/common/liblib__libc__common.a(time.c.obj)
+ .debug_str     0x00000000      0x32d zephyr/lib/libc/common/liblib__libc__common.a(time.c.obj)
  .comment       0x00000000       0x20 zephyr/lib/libc/common/liblib__libc__common.a(time.c.obj)
  .debug_frame   0x00000000       0x30 zephyr/lib/libc/common/liblib__libc__common.a(time.c.obj)
  .text          0x00000000        0x0 zephyr/lib/libc/common/liblib__libc__common.a(malloc.c.obj)
@@ -1620,7 +1620,7 @@ Discarded input sections
                 0x00000000       0x30 zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(fnmatch.c.obj)
  .debug_ranges  0x00000000       0xf0 zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(fnmatch.c.obj)
  .debug_line    0x00000000      0x85d zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(fnmatch.c.obj)
- .debug_str     0x00000000      0x36e zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(fnmatch.c.obj)
+ .debug_str     0x00000000      0x3a7 zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(fnmatch.c.obj)
  .comment       0x00000000       0x20 zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(fnmatch.c.obj)
  .debug_frame   0x00000000       0x68 zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(fnmatch.c.obj)
  .text          0x00000000        0x0 zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(getentropy.c.obj)
@@ -1634,8 +1634,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(getentropy.c.obj)
  .debug_ranges  0x00000000       0x10 zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(getentropy.c.obj)
- .debug_line    0x00000000      0x325 zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(getentropy.c.obj)
- .debug_str     0x00000000      0x42b zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(getentropy.c.obj)
+ .debug_line    0x00000000      0x35e zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(getentropy.c.obj)
+ .debug_str     0x00000000      0x464 zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(getentropy.c.obj)
  .comment       0x00000000       0x20 zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(getentropy.c.obj)
  .debug_frame   0x00000000       0x2c zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(getentropy.c.obj)
  .text          0x00000000        0x0 zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(getopt_shim.c.obj)
@@ -1659,7 +1659,7 @@ Discarded input sections
                 0x00000000       0x38 zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(getopt_shim.c.obj)
  .debug_ranges  0x00000000       0x28 zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(getopt_shim.c.obj)
  .debug_line    0x00000000      0x22e zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(getopt_shim.c.obj)
- .debug_str     0x00000000      0x58e zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(getopt_shim.c.obj)
+ .debug_str     0x00000000      0x5c7 zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(getopt_shim.c.obj)
  .comment       0x00000000       0x20 zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(getopt_shim.c.obj)
  .debug_frame   0x00000000       0x50 zephyr/lib/posix/c_lib_ext/liblib__posix__c_lib_ext.a(getopt_shim.c.obj)
  .text          0x00000000        0x0 zephyr/lib/net_buf/liblib__net_buf.a(buf.c.obj)
@@ -1812,7 +1812,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_base_addresses.c.obj)
  .debug_line    0x00000000       0x5a zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_base_addresses.c.obj)
- .debug_str     0x00000000      0x299 zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_base_addresses.c.obj)
+ .debug_str     0x00000000      0x2d2 zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_base_addresses.c.obj)
  .comment       0x00000000       0x20 zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_base_addresses.c.obj)
  .text          0x00000000        0x0 zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_binding_headers.c.obj)
  .data          0x00000000        0x0 zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_binding_headers.c.obj)
@@ -1822,7 +1822,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_binding_headers.c.obj)
  .debug_line    0x00000000       0x5b zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_binding_headers.c.obj)
- .debug_str     0x00000000      0x29a zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_binding_headers.c.obj)
+ .debug_str     0x00000000      0x2d3 zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_binding_headers.c.obj)
  .comment       0x00000000       0x20 zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_binding_headers.c.obj)
  .text          0x00000000        0x0 zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_enabled_instances.c.obj)
  .data          0x00000000        0x0 zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_enabled_instances.c.obj)
@@ -1832,7 +1832,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_enabled_instances.c.obj)
  .debug_line    0x00000000       0x5d zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_enabled_instances.c.obj)
- .debug_str     0x00000000      0x29c zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_enabled_instances.c.obj)
+ .debug_str     0x00000000      0x2d5 zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_enabled_instances.c.obj)
  .comment       0x00000000       0x20 zephyr/soc/soc/nrf5340/libsoc__nordic.a(validate_enabled_instances.c.obj)
  .text          0x00000000        0x0 zephyr/soc/soc/nrf5340/libsoc__nordic.a(soc.c.obj)
  .data          0x00000000        0x0 zephyr/soc/soc/nrf5340/libsoc__nordic.a(soc.c.obj)
@@ -1853,7 +1853,7 @@ Discarded input sections
                 0x00000000       0x20 zephyr/soc/soc/nrf5340/libsoc__nordic.a(reboot.c.obj)
  .debug_ranges  0x00000000       0x10 zephyr/soc/soc/nrf5340/libsoc__nordic.a(reboot.c.obj)
  .debug_line    0x00000000      0x1ed zephyr/soc/soc/nrf5340/libsoc__nordic.a(reboot.c.obj)
- .debug_str     0x00000000      0x40f zephyr/soc/soc/nrf5340/libsoc__nordic.a(reboot.c.obj)
+ .debug_str     0x00000000      0x448 zephyr/soc/soc/nrf5340/libsoc__nordic.a(reboot.c.obj)
  .comment       0x00000000       0x20 zephyr/soc/soc/nrf5340/libsoc__nordic.a(reboot.c.obj)
  .debug_frame   0x00000000       0x20 zephyr/soc/soc/nrf5340/libsoc__nordic.a(reboot.c.obj)
  .text          0x00000000        0x0 zephyr/soc/soc/nrf5340/libsoc__nordic.a(gppi_init.c.obj)
@@ -1878,8 +1878,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x28 zephyr/subsys/random/libsubsys__random.a(random_xoshiro128.c.obj)
  .debug_ranges  0x00000000       0x60 zephyr/subsys/random/libsubsys__random.a(random_xoshiro128.c.obj)
- .debug_line    0x00000000      0x545 zephyr/subsys/random/libsubsys__random.a(random_xoshiro128.c.obj)
- .debug_str     0x00000000      0x4ab zephyr/subsys/random/libsubsys__random.a(random_xoshiro128.c.obj)
+ .debug_line    0x00000000      0x57e zephyr/subsys/random/libsubsys__random.a(random_xoshiro128.c.obj)
+ .debug_str     0x00000000      0x4e4 zephyr/subsys/random/libsubsys__random.a(random_xoshiro128.c.obj)
  .comment       0x00000000       0x20 zephyr/subsys/random/libsubsys__random.a(random_xoshiro128.c.obj)
  .debug_frame   0x00000000       0x54 zephyr/subsys/random/libsubsys__random.a(random_xoshiro128.c.obj)
  .text          0x00000000        0x0 zephyr/subsys/random/libsubsys__random.a(random_entropy_device.c.obj)
@@ -1893,8 +1893,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 zephyr/subsys/random/libsubsys__random.a(random_entropy_device.c.obj)
  .debug_ranges  0x00000000       0x10 zephyr/subsys/random/libsubsys__random.a(random_entropy_device.c.obj)
- .debug_line    0x00000000      0x3b8 zephyr/subsys/random/libsubsys__random.a(random_entropy_device.c.obj)
- .debug_str     0x00000000      0x4ae zephyr/subsys/random/libsubsys__random.a(random_entropy_device.c.obj)
+ .debug_line    0x00000000      0x3f1 zephyr/subsys/random/libsubsys__random.a(random_entropy_device.c.obj)
+ .debug_str     0x00000000      0x4e7 zephyr/subsys/random/libsubsys__random.a(random_entropy_device.c.obj)
  .comment       0x00000000       0x20 zephyr/subsys/random/libsubsys__random.a(random_entropy_device.c.obj)
  .debug_frame   0x00000000       0x2c zephyr/subsys/random/libsubsys__random.a(random_entropy_device.c.obj)
  .text          0x00000000        0x0 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(addr.c.obj)
@@ -1912,7 +1912,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(dummy.c.obj)
  .debug_line    0x00000000       0x55 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(dummy.c.obj)
- .debug_str     0x00000000      0x294 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(dummy.c.obj)
+ .debug_str     0x00000000      0x2cd zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(dummy.c.obj)
  .comment       0x00000000       0x20 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(dummy.c.obj)
  .text          0x00000000        0x0 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(bt_str.c.obj)
  .data          0x00000000        0x0 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(bt_str.c.obj)
@@ -2030,7 +2030,7 @@ Discarded input sections
                 0x00000000       0x30 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_common.c.obj)
  .debug_ranges  0x00000000       0x50 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_common.c.obj)
  .debug_line    0x00000000      0x4f8 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_common.c.obj)
- .debug_str     0x00000000      0x512 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_common.c.obj)
+ .debug_str     0x00000000      0x54b zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_common.c.obj)
  .comment       0x00000000       0x20 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_common.c.obj)
  .debug_frame   0x00000000       0x64 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_common.c.obj)
  .text          0x00000000        0x0 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
@@ -2268,7 +2268,7 @@ Discarded input sections
                 0x00000000       0x28 zephyr/drivers/timer/libdrivers__timer.a(sys_clock_init.c.obj)
  .debug_ranges  0x00000000       0x18 zephyr/drivers/timer/libdrivers__timer.a(sys_clock_init.c.obj)
  .debug_line    0x00000000      0x15d zephyr/drivers/timer/libdrivers__timer.a(sys_clock_init.c.obj)
- .debug_str     0x00000000      0x2da zephyr/drivers/timer/libdrivers__timer.a(sys_clock_init.c.obj)
+ .debug_str     0x00000000      0x313 zephyr/drivers/timer/libdrivers__timer.a(sys_clock_init.c.obj)
  .comment       0x00000000       0x20 zephyr/drivers/timer/libdrivers__timer.a(sys_clock_init.c.obj)
  .debug_frame   0x00000000       0x30 zephyr/drivers/timer/libdrivers__timer.a(sys_clock_init.c.obj)
  .text          0x00000000        0x0 zephyr/drivers/timer/libdrivers__timer.a(nrf_rtc_timer.c.obj)
@@ -2371,7 +2371,7 @@ Discarded input sections
                 0x00000000       0x50 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_ram_ctrl.c.obj)
  .debug_ranges  0x00000000       0x60 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_ram_ctrl.c.obj)
  .debug_line    0x00000000      0x458 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_ram_ctrl.c.obj)
- .debug_str     0x00000000      0x88c modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_ram_ctrl.c.obj)
+ .debug_str     0x00000000      0x8c5 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_ram_ctrl.c.obj)
  .comment       0x00000000       0x20 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_ram_ctrl.c.obj)
  .debug_frame   0x00000000       0x90 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_ram_ctrl.c.obj)
  .text          0x00000000        0x0 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_gppi_dppi.c.obj)
@@ -2480,7 +2480,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_xo.c.obj)
  .debug_line    0x00000000       0x62 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_xo.c.obj)
- .debug_str     0x00000000      0x2a1 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_xo.c.obj)
+ .debug_str     0x00000000      0x2da modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_xo.c.obj)
  .comment       0x00000000       0x20 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_xo.c.obj)
  .text          0x00000000        0x0 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_xo24m.c.obj)
  .data          0x00000000        0x0 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_xo24m.c.obj)
@@ -2490,7 +2490,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_xo24m.c.obj)
  .debug_line    0x00000000       0x65 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_xo24m.c.obj)
- .debug_str     0x00000000      0x2a4 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_xo24m.c.obj)
+ .debug_str     0x00000000      0x2dd modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_xo24m.c.obj)
  .comment       0x00000000       0x20 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_xo24m.c.obj)
  .text          0x00000000        0x0 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_gpiote.c.obj)
  .data          0x00000000        0x0 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_gpiote.c.obj)
@@ -2586,8 +2586,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x28 modules/libmetal/libmetal/lib/libmetal.a(dma.c.obj)
  .debug_ranges  0x00000000       0x18 modules/libmetal/libmetal/lib/libmetal.a(dma.c.obj)
- .debug_line    0x00000000      0x2dd modules/libmetal/libmetal/lib/libmetal.a(dma.c.obj)
- .debug_str     0x00000000      0x500 modules/libmetal/libmetal/lib/libmetal.a(dma.c.obj)
+ .debug_line    0x00000000      0x316 modules/libmetal/libmetal/lib/libmetal.a(dma.c.obj)
+ .debug_str     0x00000000      0x539 modules/libmetal/libmetal/lib/libmetal.a(dma.c.obj)
  .comment       0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(dma.c.obj)
  .debug_frame   0x00000000       0x4c modules/libmetal/libmetal/lib/libmetal.a(dma.c.obj)
  .text          0x00000000        0x0 modules/libmetal/libmetal/lib/libmetal.a(device.c.obj)
@@ -2636,8 +2636,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x48 modules/libmetal/libmetal/lib/libmetal.a(irq.c.obj)
  .debug_ranges  0x00000000       0x68 modules/libmetal/libmetal/lib/libmetal.a(irq.c.obj)
- .debug_line    0x00000000      0x448 modules/libmetal/libmetal/lib/libmetal.a(irq.c.obj)
- .debug_str     0x00000000      0x6a9 modules/libmetal/libmetal/lib/libmetal.a(irq.c.obj)
+ .debug_line    0x00000000      0x481 modules/libmetal/libmetal/lib/libmetal.a(irq.c.obj)
+ .debug_str     0x00000000      0x6e2 modules/libmetal/libmetal/lib/libmetal.a(irq.c.obj)
  .comment       0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(irq.c.obj)
  .debug_frame   0x00000000       0xc0 modules/libmetal/libmetal/lib/libmetal.a(irq.c.obj)
  .text          0x00000000        0x0 modules/libmetal/libmetal/lib/libmetal.a(log.c.obj)
@@ -2658,8 +2658,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x40 modules/libmetal/libmetal/lib/libmetal.a(log.c.obj)
  .debug_ranges  0x00000000       0x30 modules/libmetal/libmetal/lib/libmetal.a(log.c.obj)
- .debug_line    0x00000000      0x1a5 modules/libmetal/libmetal/lib/libmetal.a(log.c.obj)
- .debug_str     0x00000000      0x455 modules/libmetal/libmetal/lib/libmetal.a(log.c.obj)
+ .debug_line    0x00000000      0x217 modules/libmetal/libmetal/lib/libmetal.a(log.c.obj)
+ .debug_str     0x00000000      0x48e modules/libmetal/libmetal/lib/libmetal.a(log.c.obj)
  .comment       0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(log.c.obj)
  .debug_frame   0x00000000       0x70 modules/libmetal/libmetal/lib/libmetal.a(log.c.obj)
  .text          0x00000000        0x0 modules/libmetal/libmetal/lib/libmetal.a(shmem.c.obj)
@@ -2675,8 +2675,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x28 modules/libmetal/libmetal/lib/libmetal.a(shmem.c.obj)
  .debug_ranges  0x00000000       0x30 modules/libmetal/libmetal/lib/libmetal.a(shmem.c.obj)
- .debug_line    0x00000000      0x3f3 modules/libmetal/libmetal/lib/libmetal.a(shmem.c.obj)
- .debug_str     0x00000000      0x5f5 modules/libmetal/libmetal/lib/libmetal.a(shmem.c.obj)
+ .debug_line    0x00000000      0x465 modules/libmetal/libmetal/lib/libmetal.a(shmem.c.obj)
+ .debug_str     0x00000000      0x62e modules/libmetal/libmetal/lib/libmetal.a(shmem.c.obj)
  .comment       0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(shmem.c.obj)
  .debug_frame   0x00000000       0x4c modules/libmetal/libmetal/lib/libmetal.a(shmem.c.obj)
  .text          0x00000000        0x0 modules/libmetal/libmetal/lib/libmetal.a(softirq.c.obj)
@@ -2710,8 +2710,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x40 modules/libmetal/libmetal/lib/libmetal.a(softirq.c.obj)
  .debug_ranges  0x00000000       0xd8 modules/libmetal/libmetal/lib/libmetal.a(softirq.c.obj)
- .debug_line    0x00000000      0x404 modules/libmetal/libmetal/lib/libmetal.a(softirq.c.obj)
- .debug_str     0x00000000      0x858 modules/libmetal/libmetal/lib/libmetal.a(softirq.c.obj)
+ .debug_line    0x00000000      0x476 modules/libmetal/libmetal/lib/libmetal.a(softirq.c.obj)
+ .debug_str     0x00000000      0x891 modules/libmetal/libmetal/lib/libmetal.a(softirq.c.obj)
  .comment       0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(softirq.c.obj)
  .debug_frame   0x00000000       0x78 modules/libmetal/libmetal/lib/libmetal.a(softirq.c.obj)
  .text          0x00000000        0x0 modules/libmetal/libmetal/lib/libmetal.a(version.c.obj)
@@ -2733,7 +2733,7 @@ Discarded input sections
                 0x00000000       0x38 modules/libmetal/libmetal/lib/libmetal.a(version.c.obj)
  .debug_ranges  0x00000000       0x28 modules/libmetal/libmetal/lib/libmetal.a(version.c.obj)
  .debug_line    0x00000000       0xba modules/libmetal/libmetal/lib/libmetal.a(version.c.obj)
- .debug_str     0x00000000      0x23d modules/libmetal/libmetal/lib/libmetal.a(version.c.obj)
+ .debug_str     0x00000000      0x276 modules/libmetal/libmetal/lib/libmetal.a(version.c.obj)
  .comment       0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(version.c.obj)
  .debug_frame   0x00000000       0x50 modules/libmetal/libmetal/lib/libmetal.a(version.c.obj)
  .text          0x00000000        0x0 modules/libmetal/libmetal/lib/libmetal.a(alloc.c.obj)
@@ -2744,7 +2744,7 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x18 modules/libmetal/libmetal/lib/libmetal.a(alloc.c.obj)
  .debug_line    0x00000000       0x66 modules/libmetal/libmetal/lib/libmetal.a(alloc.c.obj)
- .debug_str     0x00000000      0x2a5 modules/libmetal/libmetal/lib/libmetal.a(alloc.c.obj)
+ .debug_str     0x00000000      0x2de modules/libmetal/libmetal/lib/libmetal.a(alloc.c.obj)
  .comment       0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(alloc.c.obj)
  .text          0x00000000        0x0 modules/libmetal/libmetal/lib/libmetal.a(condition.c.obj)
  .data          0x00000000        0x0 modules/libmetal/libmetal/lib/libmetal.a(condition.c.obj)
@@ -2757,8 +2757,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(condition.c.obj)
  .debug_ranges  0x00000000       0x10 modules/libmetal/libmetal/lib/libmetal.a(condition.c.obj)
- .debug_line    0x00000000      0x56d modules/libmetal/libmetal/lib/libmetal.a(condition.c.obj)
- .debug_str     0x00000000      0x58d modules/libmetal/libmetal/lib/libmetal.a(condition.c.obj)
+ .debug_line    0x00000000      0x618 modules/libmetal/libmetal/lib/libmetal.a(condition.c.obj)
+ .debug_str     0x00000000      0x5c6 modules/libmetal/libmetal/lib/libmetal.a(condition.c.obj)
  .comment       0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(condition.c.obj)
  .debug_frame   0x00000000       0x30 modules/libmetal/libmetal/lib/libmetal.a(condition.c.obj)
  .text          0x00000000        0x0 modules/libmetal/libmetal/lib/libmetal.a(device.c.obj)
@@ -2781,7 +2781,7 @@ Discarded input sections
                 0x00000000       0x28 modules/libmetal/libmetal/lib/libmetal.a(irq.c.obj)
  .debug_ranges  0x00000000       0x18 modules/libmetal/libmetal/lib/libmetal.a(irq.c.obj)
  .debug_line    0x00000000      0x2d3 modules/libmetal/libmetal/lib/libmetal.a(irq.c.obj)
- .debug_str     0x00000000      0x34e modules/libmetal/libmetal/lib/libmetal.a(irq.c.obj)
+ .debug_str     0x00000000      0x387 modules/libmetal/libmetal/lib/libmetal.a(irq.c.obj)
  .comment       0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(irq.c.obj)
  .debug_frame   0x00000000       0x30 modules/libmetal/libmetal/lib/libmetal.a(irq.c.obj)
  .text          0x00000000        0x0 modules/libmetal/libmetal/lib/libmetal.a(log.c.obj)
@@ -2798,8 +2798,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(shmem.c.obj)
  .debug_ranges  0x00000000       0x10 modules/libmetal/libmetal/lib/libmetal.a(shmem.c.obj)
- .debug_line    0x00000000      0x24b modules/libmetal/libmetal/lib/libmetal.a(shmem.c.obj)
- .debug_str     0x00000000      0x42a modules/libmetal/libmetal/lib/libmetal.a(shmem.c.obj)
+ .debug_line    0x00000000      0x284 modules/libmetal/libmetal/lib/libmetal.a(shmem.c.obj)
+ .debug_str     0x00000000      0x463 modules/libmetal/libmetal/lib/libmetal.a(shmem.c.obj)
  .comment       0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(shmem.c.obj)
  .debug_frame   0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(shmem.c.obj)
  .text          0x00000000        0x0 modules/libmetal/libmetal/lib/libmetal.a(time.c.obj)
@@ -2812,8 +2812,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(time.c.obj)
  .debug_ranges  0x00000000       0x10 modules/libmetal/libmetal/lib/libmetal.a(time.c.obj)
- .debug_line    0x00000000      0x1c6 modules/libmetal/libmetal/lib/libmetal.a(time.c.obj)
- .debug_str     0x00000000      0x2ef modules/libmetal/libmetal/lib/libmetal.a(time.c.obj)
+ .debug_line    0x00000000      0x1ff modules/libmetal/libmetal/lib/libmetal.a(time.c.obj)
+ .debug_str     0x00000000      0x328 modules/libmetal/libmetal/lib/libmetal.a(time.c.obj)
  .comment       0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(time.c.obj)
  .debug_frame   0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(time.c.obj)
  .text          0x00000000        0x0 modules/libmetal/libmetal/lib/libmetal.a(sys.c.obj)
@@ -2827,7 +2827,7 @@ Discarded input sections
                 0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(sys.c.obj)
  .debug_ranges  0x00000000       0x10 modules/libmetal/libmetal/lib/libmetal.a(sys.c.obj)
  .debug_line    0x00000000       0xf0 modules/libmetal/libmetal/lib/libmetal.a(sys.c.obj)
- .debug_str     0x00000000      0x2d7 modules/libmetal/libmetal/lib/libmetal.a(sys.c.obj)
+ .debug_str     0x00000000      0x310 modules/libmetal/libmetal/lib/libmetal.a(sys.c.obj)
  .comment       0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(sys.c.obj)
  .debug_frame   0x00000000       0x20 modules/libmetal/libmetal/lib/libmetal.a(sys.c.obj)
  .text          0x00000000        0x0 modules/open-amp/open-amp/lib/libopen_amp.a(version.c.obj)
@@ -2849,7 +2849,7 @@ Discarded input sections
                 0x00000000       0x38 modules/open-amp/open-amp/lib/libopen_amp.a(version.c.obj)
  .debug_ranges  0x00000000       0x28 modules/open-amp/open-amp/lib/libopen_amp.a(version.c.obj)
  .debug_line    0x00000000       0xba modules/open-amp/open-amp/lib/libopen_amp.a(version.c.obj)
- .debug_str     0x00000000      0x255 modules/open-amp/open-amp/lib/libopen_amp.a(version.c.obj)
+ .debug_str     0x00000000      0x28e modules/open-amp/open-amp/lib/libopen_amp.a(version.c.obj)
  .comment       0x00000000       0x20 modules/open-amp/open-amp/lib/libopen_amp.a(version.c.obj)
  .debug_frame   0x00000000       0x50 modules/open-amp/open-amp/lib/libopen_amp.a(version.c.obj)
  .text          0x00000000        0x0 modules/open-amp/open-amp/lib/libopen_amp.a(virtio.c.obj)
@@ -2917,8 +2917,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x50 modules/open-amp/open-amp/lib/libopen_amp.a(elf_loader.c.obj)
  .debug_ranges  0x00000000      0x788 modules/open-amp/open-amp/lib/libopen_amp.a(elf_loader.c.obj)
- .debug_line    0x00000000     0x133f modules/open-amp/open-amp/lib/libopen_amp.a(elf_loader.c.obj)
- .debug_str     0x00000000      0xea7 modules/open-amp/open-amp/lib/libopen_amp.a(elf_loader.c.obj)
+ .debug_line    0x00000000     0x13b1 modules/open-amp/open-amp/lib/libopen_amp.a(elf_loader.c.obj)
+ .debug_str     0x00000000      0xee0 modules/open-amp/open-amp/lib/libopen_amp.a(elf_loader.c.obj)
  .comment       0x00000000       0x20 modules/open-amp/open-amp/lib/libopen_amp.a(elf_loader.c.obj)
  .debug_frame   0x00000000       0xec modules/open-amp/open-amp/lib/libopen_amp.a(elf_loader.c.obj)
  .text          0x00000000        0x0 modules/open-amp/open-amp/lib/libopen_amp.a(remoteproc.c.obj)
@@ -2994,8 +2994,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0xe8 modules/open-amp/open-amp/lib/libopen_amp.a(remoteproc.c.obj)
  .debug_ranges  0x00000000      0x358 modules/open-amp/open-amp/lib/libopen_amp.a(remoteproc.c.obj)
- .debug_line    0x00000000     0x207c modules/open-amp/open-amp/lib/libopen_amp.a(remoteproc.c.obj)
- .debug_str     0x00000000     0x12d6 modules/open-amp/open-amp/lib/libopen_amp.a(remoteproc.c.obj)
+ .debug_line    0x00000000     0x2127 modules/open-amp/open-amp/lib/libopen_amp.a(remoteproc.c.obj)
+ .debug_str     0x00000000     0x130f modules/open-amp/open-amp/lib/libopen_amp.a(remoteproc.c.obj)
  .comment       0x00000000       0x20 modules/open-amp/open-amp/lib/libopen_amp.a(remoteproc.c.obj)
  .debug_frame   0x00000000      0x374 modules/open-amp/open-amp/lib/libopen_amp.a(remoteproc.c.obj)
  .text          0x00000000        0x0 modules/open-amp/open-amp/lib/libopen_amp.a(remoteproc_virtio.c.obj)
@@ -3045,8 +3045,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0xa8 modules/open-amp/open-amp/lib/libopen_amp.a(remoteproc_virtio.c.obj)
  .debug_ranges  0x00000000      0x338 modules/open-amp/open-amp/lib/libopen_amp.a(remoteproc_virtio.c.obj)
- .debug_line    0x00000000      0xf43 modules/open-amp/open-amp/lib/libopen_amp.a(remoteproc_virtio.c.obj)
- .debug_str     0x00000000      0xeed modules/open-amp/open-amp/lib/libopen_amp.a(remoteproc_virtio.c.obj)
+ .debug_line    0x00000000      0xfee modules/open-amp/open-amp/lib/libopen_amp.a(remoteproc_virtio.c.obj)
+ .debug_str     0x00000000      0xf26 modules/open-amp/open-amp/lib/libopen_amp.a(remoteproc_virtio.c.obj)
  .comment       0x00000000       0x20 modules/open-amp/open-amp/lib/libopen_amp.a(remoteproc_virtio.c.obj)
  .debug_frame   0x00000000      0x268 modules/open-amp/open-amp/lib/libopen_amp.a(remoteproc_virtio.c.obj)
  .text          0x00000000        0x0 modules/open-amp/open-amp/lib/libopen_amp.a(rsc_table_parser.c.obj)
@@ -3072,8 +3072,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x48 modules/open-amp/open-amp/lib/libopen_amp.a(rsc_table_parser.c.obj)
  .debug_ranges  0x00000000       0x70 modules/open-amp/open-amp/lib/libopen_amp.a(rsc_table_parser.c.obj)
- .debug_line    0x00000000      0x72b modules/open-amp/open-amp/lib/libopen_amp.a(rsc_table_parser.c.obj)
- .debug_str     0x00000000      0xa11 modules/open-amp/open-amp/lib/libopen_amp.a(rsc_table_parser.c.obj)
+ .debug_line    0x00000000      0x79d modules/open-amp/open-amp/lib/libopen_amp.a(rsc_table_parser.c.obj)
+ .debug_str     0x00000000      0xa4a modules/open-amp/open-amp/lib/libopen_amp.a(rsc_table_parser.c.obj)
  .comment       0x00000000       0x20 modules/open-amp/open-amp/lib/libopen_amp.a(rsc_table_parser.c.obj)
  .debug_frame   0x00000000       0xac modules/open-amp/open-amp/lib/libopen_amp.a(rsc_table_parser.c.obj)
  .text          0x00000000        0x0 modules/open-amp/open-amp/lib/libopen_amp.a(utilities.c.obj)
@@ -3545,7 +3545,7 @@ Discarded input sections
                 0x00000000       0x20 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto_client.c.obj)
  .debug_ranges  0x00000000       0x10 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto_client.c.obj)
  .debug_line    0x00000000      0x237 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto_client.c.obj)
- .debug_str     0x00000000      0x404 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto_client.c.obj)
+ .debug_str     0x00000000      0x43d modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto_client.c.obj)
  .comment       0x00000000       0x20 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto_client.c.obj)
  .debug_frame   0x00000000       0x20 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto_client.c.obj)
  .text          0x00000000        0x0 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto_slot_management.c.obj)
@@ -3716,7 +3716,7 @@ Discarded input sections
                 0x00000000       0x30 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(constant_time.c.obj)
  .debug_ranges  0x00000000      0x128 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(constant_time.c.obj)
  .debug_line    0x00000000      0x47b modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(constant_time.c.obj)
- .debug_str     0x00000000      0x437 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(constant_time.c.obj)
+ .debug_str     0x00000000      0x470 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(constant_time.c.obj)
  .comment       0x00000000       0x20 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(constant_time.c.obj)
  .debug_frame   0x00000000       0x78 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(constant_time.c.obj)
  .text          0x00000000        0x0 modules/nrf/subsys/nrf_security/src/drivers/nrf_oberon/liboberon_psa_driver.a(oberon_mac.c.obj)
@@ -8179,7 +8179,7 @@ tbss            0x00017ea4        0x4
                 [!provide]                        PROVIDE (__tls_end = __tbss_end)
                 [!provide]                        PROVIDE (__tls_size = (__tbss_end - __tdata_start))
 
-rodata          0x00017eb0     0x346c
+rodata          0x00017eb0     0x3480
  *(SORT_BY_ALIGNMENT(.rodata))
  .rodata        0x00017eb0        0x8 zephyr/libzephyr.a(ipc_static_vrings.c.obj)
  .rodata        0x00017eb8       0x48 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
@@ -8413,438 +8413,438 @@ rodata          0x00017eb0     0x346c
  .rodata.__compound_literal.0
                 0x00018798        0x4 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
  .rodata.on_disconnected.str1.1
-                0x0001879c     0x29fe app/libapp.a(main.c.obj)
+                0x0001879c     0x2a12 app/libapp.a(main.c.obj)
                                  0x1a (size before relaxing)
  .rodata.on_connected.str1.1
-                0x0001b19a       0x27 app/libapp.a(main.c.obj)
+                0x0001b1ae       0x27 app/libapp.a(main.c.obj)
  .rodata.adv_work_handler.str1.1
-                0x0001b19a       0x48 app/libapp.a(main.c.obj)
+                0x0001b1ae       0x48 app/libapp.a(main.c.obj)
  .rodata.button_changed.str1.1
-                0x0001b19a       0x2d app/libapp.a(main.c.obj)
+                0x0001b1ae       0x2d app/libapp.a(main.c.obj)
  .rodata.send_data_thread.str1.1
-                0x0001b19a       0x63 app/libapp.a(main.c.obj)
+                0x0001b1ae       0x63 app/libapp.a(main.c.obj)
  .rodata.recycled_cb.str1.1
-                0x0001b19a       0x49 app/libapp.a(main.c.obj)
+                0x0001b1ae       0x49 app/libapp.a(main.c.obj)
  .rodata.main.str1.1
-                0x0001b19a      0x105 app/libapp.a(main.c.obj)
+                0x0001b1ae      0x105 app/libapp.a(main.c.obj)
  .rodata.str1.1
-                0x0001b19a       0x2e app/libapp.a(main.c.obj)
+                0x0001b1ae       0x42 app/libapp.a(main.c.obj)
  .rodata.__compound_literal.15
-                0x0001b19a       0x11 app/libapp.a(my_lbs.c.obj)
+                0x0001b1ae       0x11 app/libapp.a(my_lbs.c.obj)
  .rodata.__compound_literal.13
-                0x0001b1ab       0x11 app/libapp.a(my_lbs.c.obj)
+                0x0001b1bf       0x11 app/libapp.a(my_lbs.c.obj)
  .rodata.__compound_literal.11
-                0x0001b1bc       0x11 app/libapp.a(my_lbs.c.obj)
+                0x0001b1d0       0x11 app/libapp.a(my_lbs.c.obj)
  .rodata.__compound_literal.9
-                0x0001b1cd       0x11 app/libapp.a(my_lbs.c.obj)
+                0x0001b1e1       0x11 app/libapp.a(my_lbs.c.obj)
  .rodata.__compound_literal.5
-                0x0001b1de       0x11 app/libapp.a(my_lbs.c.obj)
+                0x0001b1f2       0x11 app/libapp.a(my_lbs.c.obj)
  .rodata.__compound_literal.3
-                0x0001b1ef       0x11 app/libapp.a(my_lbs.c.obj)
+                0x0001b203       0x11 app/libapp.a(my_lbs.c.obj)
  .rodata.__compound_literal.1
-                0x0001b200       0x11 app/libapp.a(my_lbs.c.obj)
+                0x0001b214       0x11 app/libapp.a(my_lbs.c.obj)
  .rodata.initializeADC.str1.1
-                0x0001b211       0x43 app/libapp.a(adc.c.obj)
+                0x0001b225       0x43 app/libapp.a(adc.c.obj)
  .rodata.readADCValue.str1.1
-                0x0001b211       0x58 app/libapp.a(adc.c.obj)
+                0x0001b225       0x58 app/libapp.a(adc.c.obj)
  .rodata.inplace_realloc.isra.0.str1.1
-                0x0001b211       0x4d zephyr/libzephyr.a(heap.c.obj)
+                0x0001b225       0x4d zephyr/libzephyr.a(heap.c.obj)
  .rodata.sys_heap_free.str1.1
-                0x0001b211       0x25 zephyr/libzephyr.a(heap.c.obj)
+                0x0001b225       0x25 zephyr/libzephyr.a(heap.c.obj)
  .rodata.str1.1
-                0x0001b211        0x8 zephyr/libzephyr.a(heap.c.obj)
+                0x0001b225        0x8 zephyr/libzephyr.a(heap.c.obj)
  .rodata.cbprintf_package_convert.str1.1
-                0x0001b211       0xa3 zephyr/libzephyr.a(cbprintf_packaged.c.obj)
+                0x0001b225       0xa3 zephyr/libzephyr.a(cbprintf_packaged.c.obj)
  .rodata.str1.1
-                0x0001b211       0x11 zephyr/libzephyr.a(cbprintf_packaged.c.obj)
+                0x0001b225       0x11 zephyr/libzephyr.a(cbprintf_packaged.c.obj)
  .rodata.str1.1
-                0x0001b211        0xb zephyr/libzephyr.a(getopt.c.obj)
+                0x0001b225        0xb zephyr/libzephyr.a(getopt.c.obj)
  .rodata.ipc_service_open_instance.str1.1
-                0x0001b211       0x2f zephyr/libzephyr.a(ipc_service.c.obj)
+                0x0001b225       0x2f zephyr/libzephyr.a(ipc_service.c.obj)
  .rodata.ipc_service_register_endpoint.str1.1
-                0x0001b211       0x2c zephyr/libzephyr.a(ipc_service.c.obj)
+                0x0001b225       0x2c zephyr/libzephyr.a(ipc_service.c.obj)
  .rodata.ipc_service_deregister_endpoint.str1.1
-                0x0001b211       0x2a zephyr/libzephyr.a(ipc_service.c.obj)
+                0x0001b225       0x2a zephyr/libzephyr.a(ipc_service.c.obj)
  .rodata.str1.1
-                0x0001b211        0xc zephyr/libzephyr.a(ipc_service.c.obj)
+                0x0001b225        0xc zephyr/libzephyr.a(ipc_service.c.obj)
  .rodata.open.str1.1
-                0x0001b211        0xc zephyr/libzephyr.a(ipc_rpmsg_static_vrings.c.obj)
+                0x0001b225        0xc zephyr/libzephyr.a(ipc_rpmsg_static_vrings.c.obj)
  .rodata.ns_bind_cb.str1.1
-                0x0001b211        0x1 zephyr/libzephyr.a(ipc_rpmsg_static_vrings.c.obj)
+                0x0001b225        0x1 zephyr/libzephyr.a(ipc_rpmsg_static_vrings.c.obj)
  .rodata.str1.1
-                0x0001b211        0x5 zephyr/libzephyr.a(ipc_rpmsg_static_vrings.c.obj)
+                0x0001b225        0x5 zephyr/libzephyr.a(ipc_rpmsg_static_vrings.c.obj)
  .rodata.enable_logger.str1.1
-                0x0001b211        0x8 zephyr/libzephyr.a(log_core.c.obj)
+                0x0001b225        0x8 zephyr/libzephyr.a(log_core.c.obj)
  .rodata.str1.1
-                0x0001b211        0x4 zephyr/libzephyr.a(log_core.c.obj)
+                0x0001b225        0x4 zephyr/libzephyr.a(log_core.c.obj)
  .rodata.str1.1
-                0x0001b211        0x9 zephyr/libzephyr.a(log_mgmt.c.obj)
+                0x0001b225        0x9 zephyr/libzephyr.a(log_mgmt.c.obj)
  .rodata.z_impl_z_log_msg_static_create.str1.1
-                0x0001b211       0x3f zephyr/libzephyr.a(log_msg.c.obj)
+                0x0001b225       0x3f zephyr/libzephyr.a(log_msg.c.obj)
  .rodata.z_log_msg_runtime_vcreate.str1.1
-                0x0001b211       0x38 zephyr/libzephyr.a(log_msg.c.obj)
+                0x0001b225       0x38 zephyr/libzephyr.a(log_msg.c.obj)
  .rodata.newline_print.str1.1
-                0x0001b211        0x5 zephyr/libzephyr.a(log_output.c.obj)
+                0x0001b225        0x5 zephyr/libzephyr.a(log_output.c.obj)
  .rodata.log_output_process.str1.1
-                0x0001b211       0x51 zephyr/libzephyr.a(log_output.c.obj)
+                0x0001b225       0x51 zephyr/libzephyr.a(log_output.c.obj)
  .rodata.log_output_dropped_process.str1.1
-                0x0001b211        0x3 zephyr/libzephyr.a(log_output.c.obj)
+                0x0001b225        0x3 zephyr/libzephyr.a(log_output.c.obj)
  .rodata.postfix.0
-                0x0001b211       0x1c zephyr/libzephyr.a(log_output.c.obj)
+                0x0001b225       0x1c zephyr/libzephyr.a(log_output.c.obj)
  .rodata.prefix.1
-                0x0001b22d        0xc zephyr/libzephyr.a(log_output.c.obj)
+                0x0001b241        0xc zephyr/libzephyr.a(log_output.c.obj)
  .rodata.str1.1
-                0x0001b239       0x20 zephyr/libzephyr.a(log_output.c.obj)
+                0x0001b24d       0x20 zephyr/libzephyr.a(log_output.c.obj)
  .rodata.str1.1
-                0x0001b239       0x1a zephyr/libzephyr.a(log_backend_uart.c.obj)
+                0x0001b24d       0x1a zephyr/libzephyr.a(log_backend_uart.c.obj)
  .rodata.ncs_boot_banner.str1.1
-                0x0001b239       0x62 zephyr/libzephyr.a(banner.c.obj)
+                0x0001b24d       0x62 zephyr/libzephyr.a(banner.c.obj)
  .rodata.mutex_free_platform.str1.1
-                0x0001b239       0x26 zephyr/libzephyr.a(nrf_cc3xx_platform_mutex_zephyr.c.obj)
+                0x0001b24d       0x26 zephyr/libzephyr.a(nrf_cc3xx_platform_mutex_zephyr.c.obj)
  .rodata.mutex_init_platform.str1.1
-                0x0001b239       0x2d zephyr/libzephyr.a(nrf_cc3xx_platform_mutex_zephyr.c.obj)
+                0x0001b24d       0x2d zephyr/libzephyr.a(nrf_cc3xx_platform_mutex_zephyr.c.obj)
  .rodata.z_arm_fatal_error.str1.1
-                0x0001b239       0xae zephyr/arch/arch/arm/core/libarch__arm__core.a(fatal.c.obj)
+                0x0001b24d       0xae zephyr/arch/arch/arm/core/libarch__arm__core.a(fatal.c.obj)
  .rodata.usage_fault.isra.0.str1.1
-                0x0001b239       0xf7 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fault.c.obj)
+                0x0001b24d       0xf7 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fault.c.obj)
  .rodata.mem_manage_fault.isra.0.str1.1
-                0x0001b239       0xd8 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fault.c.obj)
+                0x0001b24d       0xd8 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fault.c.obj)
  .rodata.bus_fault.isra.0.str1.1
-                0x0001b239       0x88 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fault.c.obj)
+                0x0001b24d       0x88 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fault.c.obj)
  .rodata.z_arm_fault.str1.1
-                0x0001b239      0x111 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fault.c.obj)
+                0x0001b24d      0x111 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fault.c.obj)
  .rodata.str1.1
-                0x0001b239        0x4 zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_core_mpu.c.obj)
+                0x0001b24d        0x4 zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_core_mpu.c.obj)
  .rodata.region_allocate_and_init.str1.1
-                0x0001b239       0x26 zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_mpu.c.obj)
+                0x0001b24d       0x26 zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_mpu.c.obj)
  .rodata.mpu_configure_regions_and_partition.constprop.0.str1.1
-                0x0001b239       0x49 zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_mpu.c.obj)
+                0x0001b24d       0x49 zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_mpu.c.obj)
  .rodata.str1.1
-                0x0001b239        0xf zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_mpu_regions.c.obj)
+                0x0001b24d        0xf zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_mpu_regions.c.obj)
  .rodata._exit.str1.1
-                0x0001b239        0x5 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(exit.c.obj)
+                0x0001b24d        0x5 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(exit.c.obj)
  .rodata.str1.1
-                0x0001b239        0x8 zephyr/lib/net_buf/liblib__net_buf.a(buf.c.obj)
+                0x0001b24d        0x8 zephyr/lib/net_buf/liblib__net_buf.a(buf.c.obj)
  .rodata.str1.1
-                0x0001b239        0xf zephyr/lib/net_buf/liblib__net_buf.a(buf_simple.c.obj)
+                0x0001b24d        0xf zephyr/lib/net_buf/liblib__net_buf.a(buf_simple.c.obj)
  .rodata.str1.1
-                0x0001b239        0x4 zephyr/soc/soc/nrf5340/libsoc__nordic.a(soc.c.obj)
+                0x0001b24d        0x4 zephyr/soc/soc/nrf5340/libsoc__nordic.a(soc.c.obj)
  .rodata.forwarded_psels.0
-                0x0001b239        0x4 zephyr/soc/soc/nrf5340/libsoc__nordic.a(nrf53_cpunet_mgmt.c.obj)
+                0x0001b24d        0x4 zephyr/soc/soc/nrf5340/libsoc__nordic.a(nrf53_cpunet_mgmt.c.obj)
  .rodata.bt_addr_le_tmp_str.str1.1
-                0x0001b23d       0x4c zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(addr.c.obj)
+                0x0001b251       0x4c zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(addr.c.obj)
  .rodata.bt_addr_le_none
-                0x0001b23d        0x7 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(addr.c.obj)
-                0x0001b23d                bt_addr_le_none
+                0x0001b251        0x7 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(addr.c.obj)
+                0x0001b251                bt_addr_le_none
  .rodata.bt_addr_le_any
-                0x0001b244        0x7 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(addr.c.obj)
-                0x0001b244                bt_addr_le_any
+                0x0001b258        0x7 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(addr.c.obj)
+                0x0001b258                bt_addr_le_any
  .rodata.bt_addr_none
-                0x0001b24b        0x6 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(addr.c.obj)
-                0x0001b24b                bt_addr_none
+                0x0001b25f        0x6 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(addr.c.obj)
+                0x0001b25f                bt_addr_none
  .rodata.bt_addr_any
-                0x0001b251        0x6 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(addr.c.obj)
-                0x0001b251                bt_addr_any
- .rodata.hex.2  0x0001b257       0x11 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(bt_str.c.obj)
+                0x0001b265        0x6 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(addr.c.obj)
+                0x0001b265                bt_addr_any
+ .rodata.hex.2  0x0001b26b       0x11 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(bt_str.c.obj)
  .rodata.long_wq_init.str1.1
-                0x0001b268        0x9 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(long_wq.c.obj)
+                0x0001b27c        0x9 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(long_wq.c.obj)
  .rodata.bt_uuid_base
-                0x0001b268       0x10 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(uuid.c.obj)
+                0x0001b27c       0x10 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(uuid.c.obj)
  .rodata.CSWTCH.387
-                0x0001b278       0x20 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(buf.c.obj)
+                0x0001b28c       0x20 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(buf.c.obj)
  .rodata.str1.1
-                0x0001b298        0x7 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(buf.c.obj)
+                0x0001b2ac        0x7 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(buf.c.obj)
  .rodata.str1.1
-                0x0001b298        0x8 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(data.c.obj)
+                0x0001b2ac        0x8 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(data.c.obj)
  .rodata.hci_data_buf_overflow.str1.1
-                0x0001b298       0x28 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x28 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.hci_disconn_complete.str1.1
-                0x0001b298       0x26 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x26 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.le_phy_update_complete.str1.1
-                0x0001b298       0x24 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x24 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.hci_hardware_error.str1.1
-                0x0001b298       0x22 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x22 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.rx_queue_put.str1.1
-                0x0001b298       0x1d zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x1d zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.bt_tx_processor_init.str1.1
-                0x0001b298       0x10 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x10 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.le_conn_param_neg_reply.part.0.str1.1
-                0x0001b298       0x1a zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x1a zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.handle_event.part.0.str1.1
-                0x0001b298       0x22 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x22 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.hci_num_completed_packets.str1.1
-                0x0001b298       0x5e zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x5e zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.handle_event_common.str1.1
-                0x0001b298       0x22 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x22 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.bt_hci_recv.str1.1
-                0x0001b298       0xba zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0xba zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.rx_work_handler.str1.1
-                0x0001b298       0xa9 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0xa9 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.hci_vendor_event.str1.1
-                0x0001b298       0x32 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x32 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.hci_cmd_done.part.0.str1.1
-                0x0001b298       0x89 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x89 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.le_conn_update_complete.str1.1
-                0x0001b298       0x7a zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x7a zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.enh_conn_complete_error_handle.str1.1
-                0x0001b298       0x3e zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x3e zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.bt_hci_get_ver_str.str1.1
-                0x0001b298        0x8 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac        0x8 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.bt_finalize_init.str1.1
-                0x0001b298       0x9f zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x9f zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.bt_get_name.str1.1
-                0x0001b298        0x8 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x1c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.bt_hci_cmd_send.str1.1
-                0x0001b298       0x22 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x22 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.bt_send_one_host_num_completed_packets.str1.1
-                0x0001b298       0x4f zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x4f zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.bt_hci_host_num_completed_packets.str1.1
-                0x0001b298       0x78 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x78 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.bt_hci_cmd_send_sync.str1.1
-                0x0001b298       0x64 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x64 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.bt_hci_le_enh_conn_complete.str1.1
-                0x0001b298       0x1c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x1c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.bt_init.str1.1
-                0x0001b298      0x18f zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac      0x18f zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.bt_enable.str1.1
-                0x0001b298       0x3d zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x3d zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.hci_cmd_complete.str1.1
-                0x0001b298       0x38 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x38 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.tx_processor.str1.1
-                0x0001b298       0x1b zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac       0x1b zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.str1.1
-                0x0001b298      0x125 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+                0x0001b2ac      0x125 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
  .rodata.set_random_address.str1.1
-                0x0001b298        0xf zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
+                0x0001b2ac        0xf zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
  .rodata.bt_id_create.str1.1
-                0x0001b298       0x2e zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
+                0x0001b2ac       0x2e zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
  .rodata.bt_id_read_public_addr.str1.1
-                0x0001b298       0x37 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
+                0x0001b2ac       0x37 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
  .rodata.bt_setup_random_id_addr.str1.1
-                0x0001b298       0x75 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
+                0x0001b2ac       0x75 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
  .rodata.bt_id_set_adv_own_addr.str1.1
-                0x0001b298       0x1f zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
+                0x0001b2ac       0x1f zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
  .rodata.bt_id_init.str1.1
-                0x0001b298       0x3c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
+                0x0001b2ac       0x3c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
  .rodata.str1.1
-                0x0001b298        0x6 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
+                0x0001b2ac        0x6 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
  .rodata.hci_set_ad.constprop.0.str1.1
-                0x0001b298       0x19 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(adv.c.obj)
+                0x0001b2ac       0x19 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(adv.c.obj)
  .rodata.bt_le_adv_start.str1.1
-                0x0001b298       0x1b zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(adv.c.obj)
+                0x0001b2ac       0x1b zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(adv.c.obj)
  .rodata.adv_timeout.str1.1
-                0x0001b298       0x1f zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(adv.c.obj)
+                0x0001b2ac       0x1f zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(adv.c.obj)
  .rodata.str1.1
-                0x0001b298        0x7 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(adv.c.obj)
+                0x0001b2ac        0x7 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(adv.c.obj)
  .rodata.bt_crypto_init.str1.1
-                0x0001b298       0x1c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(crypto_psa.c.obj)
+                0x0001b2ac       0x1c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(crypto_psa.c.obj)
  .rodata.bt_rand.str1.1
-                0x0001b298       0x20 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(crypto_psa.c.obj)
+                0x0001b2ac       0x20 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(crypto_psa.c.obj)
  .rodata.str1.1
-                0x0001b298        0xf zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(crypto_psa.c.obj)
+                0x0001b2ac        0xf zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(crypto_psa.c.obj)
  .rodata.perform_auto_initiated_procedures.part.0.str1.1
-                0x0001b298       0x3a zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
+                0x0001b2ac       0x3a zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
  .rodata.bt_conn_recv.str1.1
-                0x0001b298       0x9b zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
+                0x0001b2ac       0x9b zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
  .rodata.bt_conn_tx_processor.str1.1
-                0x0001b298       0x6e zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
+                0x0001b2ac       0x6e zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
  .rodata.bt_conn_set_state.str1.1
-                0x0001b298       0x75 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
+                0x0001b2ac       0x75 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
  .rodata.bt_conn_lookup_handle.str1.1
-                0x0001b298       0x17 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
+                0x0001b2ac       0x17 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
  .rodata.bt_conn_create_pdu_timeout.str1.1
-                0x0001b298       0x29 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
+                0x0001b2ac       0x29 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
  .rodata.disconnect_after_tx_failure.str1.1
-                0x0001b298       0x21 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
+                0x0001b2ac       0x21 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
  .rodata.bt_conn_exists_le.str1.1
-                0x0001b298       0x39 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
+                0x0001b2ac       0x39 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
  .rodata.bt_conn_dst_tmp_str.str1.1
-                0x0001b298       0x4c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
+                0x0001b2ac       0x4c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
  .rodata.deferred_work.str1.1
-                0x0001b298       0x4f zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
+                0x0001b2ac       0x4f zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
  .rodata.str1.1
-                0x0001b298       0x9e zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
+                0x0001b2ac       0x9e zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
  .rodata.l2cap_create_le_sig_pdu.part.0.str1.1
-                0x0001b298       0x28 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
+                0x0001b2ac       0x28 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
  .rodata.l2cap_accept.part.0.str1.1
-                0x0001b298       0x27 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
+                0x0001b2ac       0x27 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
  .rodata.bt_l2cap_send_pdu.str1.1
-                0x0001b298       0x20 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
+                0x0001b2ac       0x20 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
  .rodata.l2cap_data_pull.str1.1
-                0x0001b298       0x18 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
+                0x0001b2ac       0x18 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
  .rodata.l2cap_recv.part.0.str1.1
-                0x0001b298       0x95 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
+                0x0001b2ac       0x95 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
  .rodata.l2cap_recv.str1.1
-                0x0001b298       0x1e zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
+                0x0001b2ac       0x1e zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
  .rodata.bt_l2cap_recv.str1.1
-                0x0001b298       0x49 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
+                0x0001b2ac       0x49 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
  .rodata.str1.1
-                0x0001b298       0x40 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
+                0x0001b2ac       0x40 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
  .rodata.chan_send.str1.1
-                0x0001b298       0x50 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+                0x0001b2ac       0x50 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
  .rodata.att_tx_destroy.str1.1
-                0x0001b298       0x29 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+                0x0001b2ac       0x29 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
  .rodata.send_err_rsp.part.0.str1.1
-                0x0001b298       0x1d zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+                0x0001b2ac       0x1d zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
  .rodata.bt_att_chan_create_pdu.str1.1
-                0x0001b298       0x25 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+                0x0001b2ac       0x25 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
  .rodata.att_write_rsp.constprop.0.str1.1
-                0x0001b298       0x19 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+                0x0001b2ac       0x19 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
  .rodata.bt_att_recv.str1.1
-                0x0001b298       0x54 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+                0x0001b2ac       0x54 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
  .rodata.att_create_rsp_pdu.str1.1
-                0x0001b298       0x28 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+                0x0001b2ac       0x28 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
  .rodata.find_type_cb.str1.1
-                0x0001b298       0x3e zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+                0x0001b2ac       0x3e zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
  .rodata.bt_att_accept.str1.1
-                0x0001b298       0x4a zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+                0x0001b2ac       0x4a zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
  .rodata.att_get.str1.1
-                0x0001b298       0x29 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+                0x0001b2ac       0x29 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
  .rodata.att_tx_destroy_work_handler.str1.1
-                0x0001b298       0x3a zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+                0x0001b2ac       0x3a zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
  .rodata.bt_att_create_pdu.str1.1
-                0x0001b298       0x1b zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+                0x0001b2ac       0x1b zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
  .rodata.att_handle_rsp.isra.0.str1.1
-                0x0001b298       0x17 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+                0x0001b2ac       0x17 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
  .rodata.att_disconnect.str1.1
-                0x0001b298       0x1e zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+                0x0001b2ac       0x1e zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
  .rodata.att_timeout.str1.1
-                0x0001b298       0x2c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+                0x0001b2ac       0x2c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
  .rodata.__func__.1
-                0x0001b298       0x1c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+                0x0001b2ac       0x1c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
  .rodata.str1.1
-                0x0001b2b4        0x7 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+                0x0001b2c8        0x7 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
  .rodata.sc_save.str1.1
-                0x0001b2b4       0x1f zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
+                0x0001b2c8       0x1f zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
  .rodata.db_hash_update.str1.1
-                0x0001b2b4       0x16 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
+                0x0001b2c8       0x16 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
  .rodata.bt_gatt_attr_write_ccc.str1.1
-                0x0001b2b4       0x1a zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
+                0x0001b2c8       0x1a zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
  .rodata.cf_write.str1.1
-                0x0001b2b4       0x2c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
+                0x0001b2c8       0x2c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
  .rodata.db_hash_gen.str1.1
-                0x0001b2b4       0x5d zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
+                0x0001b2c8       0x5d zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
  .rodata.bt_gatt_is_subscribed.str1.1
-                0x0001b2b4       0x53 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
+                0x0001b2c8       0x53 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
  .rodata.update_ccc.str1.1
-                0x0001b2b4       0x31 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
+                0x0001b2c8       0x31 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
  .rodata.str1.1
-                0x0001b2b4        0x8 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
+                0x0001b2c8        0x8 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
  .rodata.bt_smp_accept.part.0.str1.1
-                0x0001b2b4       0x25 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(smp_null.c.obj)
+                0x0001b2c8       0x25 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(smp_null.c.obj)
  .rodata.str1.1
-                0x0001b2b4        0x7 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(smp_null.c.obj)
- .rodata.gains  0x0001b2b4       0x2a zephyr/drivers/adc/libdrivers__adc.a(adc_common.c.obj)
+                0x0001b2c8        0x7 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(smp_null.c.obj)
+ .rodata.gains  0x0001b2c8       0x2a zephyr/drivers/adc/libdrivers__adc.a(adc_common.c.obj)
  .rodata.adc_context_start_sampling.part.0.constprop.0.str1.1
-                0x0001b2de       0x1a zephyr/drivers/adc/libdrivers__adc.a(adc_nrfx_saadc.c.obj)
+                0x0001b2f2       0x1a zephyr/drivers/adc/libdrivers__adc.a(adc_nrfx_saadc.c.obj)
  .rodata.init_saadc.part.0.isra.0.str1.1
-                0x0001b2de       0x20 zephyr/drivers/adc/libdrivers__adc.a(adc_nrfx_saadc.c.obj)
+                0x0001b2f2       0x20 zephyr/drivers/adc/libdrivers__adc.a(adc_nrfx_saadc.c.obj)
  .rodata.event_handler.str1.1
-                0x0001b2de       0x19 zephyr/drivers/adc/libdrivers__adc.a(adc_nrfx_saadc.c.obj)
+                0x0001b2f2       0x19 zephyr/drivers/adc/libdrivers__adc.a(adc_nrfx_saadc.c.obj)
  .rodata.adc_nrfx_read.str1.1
-                0x0001b2de       0xed zephyr/drivers/adc/libdrivers__adc.a(adc_nrfx_saadc.c.obj)
+                0x0001b2f2       0xed zephyr/drivers/adc/libdrivers__adc.a(adc_nrfx_saadc.c.obj)
  .rodata.adc_nrfx_channel_setup.str1.1
-                0x0001b2de       0xa5 zephyr/drivers/adc/libdrivers__adc.a(adc_nrfx_saadc.c.obj)
+                0x0001b2f2       0xa5 zephyr/drivers/adc/libdrivers__adc.a(adc_nrfx_saadc.c.obj)
  .rodata.str1.1
-                0x0001b2de       0x18 zephyr/drivers/adc/libdrivers__adc.a(adc_nrfx_saadc.c.obj)
+                0x0001b2f2       0x18 zephyr/drivers/adc/libdrivers__adc.a(adc_nrfx_saadc.c.obj)
  .rodata.bt_ipc_send.str1.1
-                0x0001b2de       0x18 zephyr/drivers/bluetooth/libdrivers__bluetooth.a(ipc.c.obj)
+                0x0001b2f2       0x18 zephyr/drivers/bluetooth/libdrivers__bluetooth.a(ipc.c.obj)
  .rodata.hci_ept_recv.str1.1
-                0x0001b2de      0x1b0 zephyr/drivers/bluetooth/libdrivers__bluetooth.a(ipc.c.obj)
+                0x0001b2f2      0x1b0 zephyr/drivers/bluetooth/libdrivers__bluetooth.a(ipc.c.obj)
  .rodata.bt_ipc_open.str1.1
-                0x0001b2de       0x99 zephyr/drivers/bluetooth/libdrivers__bluetooth.a(ipc.c.obj)
+                0x0001b2f2       0x99 zephyr/drivers/bluetooth/libdrivers__bluetooth.a(ipc.c.obj)
  .rodata.bt_ipc_close.str1.1
-                0x0001b2de       0x76 zephyr/drivers/bluetooth/libdrivers__bluetooth.a(ipc.c.obj)
+                0x0001b2f2       0x76 zephyr/drivers/bluetooth/libdrivers__bluetooth.a(ipc.c.obj)
  .rodata.str1.1
-                0x0001b2de       0x25 zephyr/drivers/bluetooth/libdrivers__bluetooth.a(ipc.c.obj)
+                0x0001b2f2       0x25 zephyr/drivers/bluetooth/libdrivers__bluetooth.a(ipc.c.obj)
  .rodata.str1.1
-                0x0001b2de       0x15 zephyr/drivers/bluetooth/libdrivers__bluetooth.a(nrf53_support.c.obj)
+                0x0001b2f2       0x15 zephyr/drivers/bluetooth/libdrivers__bluetooth.a(nrf53_support.c.obj)
  .rodata.str1.1
-                0x0001b2de       0x3a zephyr/drivers/clock_control/libdrivers__clock_control.a(clock_control_nrf.c.obj)
+                0x0001b2f2       0x3a zephyr/drivers/clock_control/libdrivers__clock_control.a(clock_control_nrf.c.obj)
  .rodata.str1.1
-                0x0001b2de        0xf zephyr/drivers/entropy/libdrivers__entropy.a(entropy_bt_hci.c.obj)
+                0x0001b2f2        0xf zephyr/drivers/entropy/libdrivers__entropy.a(entropy_bt_hci.c.obj)
  .rodata.str1.1
-                0x0001b2de       0x10 zephyr/drivers/entropy/libdrivers__entropy.a(entropy_cc3xx.c.obj)
+                0x0001b2f2       0x10 zephyr/drivers/entropy/libdrivers__entropy.a(entropy_cc3xx.c.obj)
  .rodata.str1.1
-                0x0001b2de       0x18 zephyr/drivers/gpio/libdrivers__gpio.a(gpio_nrfx.c.obj)
+                0x0001b2f2       0x18 zephyr/drivers/gpio/libdrivers__gpio.a(gpio_nrfx.c.obj)
  .rodata.mbox_nrf_init.str1.1
-                0x0001b2de       0x58 zephyr/drivers/mbox/libdrivers__mbox.a(mbox_nrfx_ipc.c.obj)
+                0x0001b2f2       0x58 zephyr/drivers/mbox/libdrivers__mbox.a(mbox_nrfx_ipc.c.obj)
  .rodata.mbox_nrf_set_enabled.str1.1
-                0x0001b2de       0x30 zephyr/drivers/mbox/libdrivers__mbox.a(mbox_nrfx_ipc.c.obj)
+                0x0001b2f2       0x30 zephyr/drivers/mbox/libdrivers__mbox.a(mbox_nrfx_ipc.c.obj)
  .rodata.mbox_nrf_send.str1.1
-                0x0001b2de       0x1b zephyr/drivers/mbox/libdrivers__mbox.a(mbox_nrfx_ipc.c.obj)
+                0x0001b2f2       0x1b zephyr/drivers/mbox/libdrivers__mbox.a(mbox_nrfx_ipc.c.obj)
  .rodata.mbox_dispatcher.str1.1
-                0x0001b2de       0x39 zephyr/drivers/mbox/libdrivers__mbox.a(mbox_nrfx_ipc.c.obj)
+                0x0001b2f2       0x39 zephyr/drivers/mbox/libdrivers__mbox.a(mbox_nrfx_ipc.c.obj)
  .rodata.str1.1
-                0x0001b2de       0x19 zephyr/drivers/mbox/libdrivers__mbox.a(mbox_nrfx_ipc.c.obj)
+                0x0001b2f2       0x19 zephyr/drivers/mbox/libdrivers__mbox.a(mbox_nrfx_ipc.c.obj)
  .rodata.drive_modes
-                0x0001b2de        0x9 zephyr/drivers/pinctrl/libdrivers__pinctrl.a(pinctrl_nrf.c.obj)
+                0x0001b2f2        0x9 zephyr/drivers/pinctrl/libdrivers__pinctrl.a(pinctrl_nrf.c.obj)
  .rodata.uarte_0_init.str1.1
-                0x0001b2e7       0x1f zephyr/drivers/serial/libdrivers__serial.a(uart_nrfx_uarte.c.obj)
+                0x0001b2fb       0x1f zephyr/drivers/serial/libdrivers__serial.a(uart_nrfx_uarte.c.obj)
  .rodata.str1.1
-                0x0001b2e7       0x1a zephyr/drivers/serial/libdrivers__serial.a(uart_nrfx_uarte.c.obj)
+                0x0001b2fb       0x1a zephyr/drivers/serial/libdrivers__serial.a(uart_nrfx_uarte.c.obj)
  .rodata.callback_ctrl.str1.1
-                0x0001b2e7       0x20 modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
+                0x0001b2fb       0x20 modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
  .rodata.dk_set_led.part.0.str1.1
-                0x0001b2e7       0x1b modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
+                0x0001b2fb       0x1b modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
  .rodata.button_pressed.str1.1
-                0x0001b2e7       0x1c modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
+                0x0001b2fb       0x1c modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
  .rodata.get_buttons.part.0.str1.1
-                0x0001b2e7       0x15 modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
+                0x0001b2fb       0x15 modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
  .rodata.dk_set_leds_state.part.0.str1.1
-                0x0001b2e7       0x16 modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
+                0x0001b2fb       0x16 modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
  .rodata.buttons_scan_fn.str1.1
-                0x0001b2e7       0x31 modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
+                0x0001b2fb       0x31 modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
  .rodata.dk_leds_init.str1.1
-                0x0001b2e7       0x1a modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
+                0x0001b2fb       0x1a modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
  .rodata.dk_buttons_init.str1.1
-                0x0001b2e7       0x4c modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
+                0x0001b2fb       0x4c modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
  .rodata.str1.1
-                0x0001b2e7       0x14 modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
+                0x0001b2fb       0x14 modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
  .rodata.port_offset.1
-                0x0001b2e7       0x10 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_gpiote.c.obj)
- .rodata.ports  0x0001b2f7        0x2 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_gpiote.c.obj)
+                0x0001b2fb       0x10 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_gpiote.c.obj)
+ .rodata.ports  0x0001b30b        0x2 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_gpiote.c.obj)
  .rodata.nrfx_saadc_internal_ain_psels
-                0x0001b2f9        0x5 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_saadc.c.obj)
+                0x0001b30d        0x5 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_saadc.c.obj)
  .rodata.nrfx_saadc_external_ain_psels
-                0x0001b2fe        0x8 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_saadc.c.obj)
+                0x0001b312        0x8 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_saadc.c.obj)
  .rodata.metal_bus_unregister.str1.1
-                0x0001b306       0x15 modules/libmetal/libmetal/lib/libmetal.a(device.c.obj)
+                0x0001b31a       0x15 modules/libmetal/libmetal/lib/libmetal.a(device.c.obj)
  .rodata.metal_bus_register.str1.1
-                0x0001b306       0x13 modules/libmetal/libmetal/lib/libmetal.a(device.c.obj)
+                0x0001b31a       0x13 modules/libmetal/libmetal/lib/libmetal.a(device.c.obj)
  .rodata.str1.1
-                0x0001b306        0x8 modules/libmetal/libmetal/lib/libmetal.a(device.c.obj)
+                0x0001b31a        0x8 modules/libmetal/libmetal/lib/libmetal.a(device.c.obj)
  .rodata.metal_zephyr_log_handler.str1.1
-                0x0001b306        0x3 modules/libmetal/libmetal/lib/libmetal.a(log.c.obj)
+                0x0001b31a        0x3 modules/libmetal/libmetal/lib/libmetal.a(log.c.obj)
  .rodata.str1.1
-                0x0001b306       0x98 modules/libmetal/libmetal/lib/libmetal.a(log.c.obj)
+                0x0001b31a       0x98 modules/libmetal/libmetal/lib/libmetal.a(log.c.obj)
  .rodata.virtqueue_free.str1.1
-                0x0001b306       0x22 modules/open-amp/open-amp/lib/libopen_amp.a(virtqueue.c.obj)
+                0x0001b31a       0x22 modules/open-amp/open-amp/lib/libopen_amp.a(virtqueue.c.obj)
  .rodata.rpmsg_virtio_buf_held_dec_test.str1.1
-                0x0001b306       0x21 modules/open-amp/open-amp/lib/libopen_amp.a(rpmsg_virtio.c.obj)
+                0x0001b31a       0x21 modules/open-amp/open-amp/lib/libopen_amp.a(rpmsg_virtio.c.obj)
  .rodata.rpmsg_init_vdev_with_config.str1.1
-                0x0001b306        0xf modules/open-amp/open-amp/lib/libopen_amp.a(rpmsg_virtio.c.obj)
+                0x0001b31a        0xf modules/open-amp/open-amp/lib/libopen_amp.a(rpmsg_virtio.c.obj)
  .rodata.k_sys_fatal_error_handler.str1.1
-                0x0001b306        0xf zephyr/kernel/libkernel.a(fatal.c.obj)
+                0x0001b31a        0xf zephyr/kernel/libkernel.a(fatal.c.obj)
  .rodata.z_fatal_error.str1.1
-                0x0001b306       0x77 zephyr/kernel/libkernel.a(fatal.c.obj)
+                0x0001b31a       0x77 zephyr/kernel/libkernel.a(fatal.c.obj)
  .rodata.str1.1
-                0x0001b306       0x4a zephyr/kernel/libkernel.a(fatal.c.obj)
+                0x0001b31a       0x4a zephyr/kernel/libkernel.a(fatal.c.obj)
  .rodata.z_init_cpu.str1.1
-                0x0001b306        0x5 zephyr/kernel/libkernel.a(init.c.obj)
+                0x0001b31a        0x5 zephyr/kernel/libkernel.a(init.c.obj)
  .rodata.z_cstart.str1.1
-                0x0001b306        0x5 zephyr/kernel/libkernel.a(init.c.obj)
+                0x0001b31a        0x5 zephyr/kernel/libkernel.a(init.c.obj)
  .rodata.str1.1
-                0x0001b306        0x3 zephyr/kernel/libkernel.a(init.c.obj)
+                0x0001b31a        0x3 zephyr/kernel/libkernel.a(init.c.obj)
  .rodata.str1.1
-                0x0001b306        0x9 zephyr/kernel/libkernel.a(system_work_q.c.obj)
+                0x0001b31a        0x9 zephyr/kernel/libkernel.a(system_work_q.c.obj)
  .rodata.CSWTCH.532
-                0x0001b306       0x13 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto.c.obj)
+                0x0001b31a       0x13 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto.c.obj)
  .rodata.__l_vfprintf.str1.1
-                0x0001b319        0xf C:/ncs/toolchains/5f5ef0cea0/opt/zephyr-sdk/gnu/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/14.3.0/../../../../arm-zephyr-eabi/lib/thumb/v8-m.main/nofp/space\libc.a(libc_tinystdio_vflprintf.c.o)
+                0x0001b32d        0xf C:/ncs/toolchains/5f5ef0cea0/opt/zephyr-sdk/gnu/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/14.3.0/../../../../arm-zephyr-eabi/lib/thumb/v8-m.main/nofp/space\libc.a(libc_tinystdio_vflprintf.c.o)
  *(SORT_BY_ALIGNMENT(.gnu.linkonce.r.*))
-                0x0001b490                        . = ALIGN (0x4)
- *fill*         0x0001b319        0x3 
+                0x0001b4a4                        . = ALIGN (0x4)
+ *fill*         0x0001b32d        0x3 
                 [!provide]                        PROVIDE (__eh_frame_start = 0x0)
                 [!provide]                        PROVIDE (__eh_frame_end = 0x0)
                 [!provide]                        PROVIDE (__eh_frame_hdr_start = 0x0)
@@ -8852,10 +8852,10 @@ rodata          0x00017eb0     0x346c
 
 /DISCARD/
  *(SORT_BY_ALIGNMENT(.eh_frame))
-                0x0001b31c                        __rodata_region_end = .
-                0x0001b320                        . = ALIGN (_region_min_align)
-                0x0001b320                        __rom_region_end = ((__rom_region_start + .) - ADDR (rom_start))
-                0x0001b320                        __rom_region_size = (__rom_region_end - __rom_region_start)
+                0x0001b330                        __rodata_region_end = .
+                0x0001b340                        . = ALIGN (_region_min_align)
+                0x0001b340                        __rom_region_end = ((__rom_region_start + .) - ADDR (rom_start))
+                0x0001b340                        __rom_region_size = (__rom_region_end - __rom_region_start)
 
 /DISCARD/
  *(SORT_BY_ALIGNMENT(.got.plt))
@@ -8866,7 +8866,7 @@ rodata          0x00017eb0     0x346c
                 0x20000000                        . = ALIGN (_region_min_align)
                 0x20000000                        _image_ram_start = .
 
-.ramfunc        0x20000000        0x0 load address 0x0001b31c
+.ramfunc        0x20000000        0x0 load address 0x0001b330
                 0x20000000                        __ramfunc_region_start = .
                 0x20000000                        . = ALIGN (_region_min_align)
                 0x20000000                        __ramfunc_start = .
@@ -8875,9 +8875,9 @@ rodata          0x00017eb0     0x346c
                 0x20000000                        . = ALIGN (_region_min_align)
                 0x20000000                        __ramfunc_end = .
                 0x00000000                        __ramfunc_size = (__ramfunc_end - __ramfunc_start)
-                0x0001b31c                        __ramfunc_load_start = LOADADDR (.ramfunc)
+                0x0001b330                        __ramfunc_load_start = LOADADDR (.ramfunc)
 
-datas           0x20000000      0x576 load address 0x0001b31c
+datas           0x20000000      0x576 load address 0x0001b330
                 0x20000000                        __data_region_start = .
                 0x20000000                        __data_start = .
  *(SORT_BY_ALIGNMENT(.data))
@@ -9041,10 +9041,10 @@ datas           0x20000000      0x576 load address 0x0001b31c
  *(SORT_BY_ALIGNMENT(.kernel.*))
                 0x20000576                        __data_end = .
                 0x00000576                        __data_size = (__data_end - __data_start)
-                0x0001b31c                        __data_load_start = LOADADDR (datas)
-                0x0001b31c                        __data_region_load_start = LOADADDR (datas)
+                0x0001b330                        __data_load_start = LOADADDR (datas)
+                0x0001b330                        __data_region_load_start = LOADADDR (datas)
 
-device_states   0x20000576       0x16 load address 0x0001b892
+device_states   0x20000576       0x16 load address 0x0001b8a6
                 0x20000578                        . = ALIGN (0x4)
  *fill*         0x20000576        0x2 
                 0x20000578                        __device_states_start = .
@@ -9063,7 +9063,7 @@ device_states   0x20000576       0x16 load address 0x0001b892
                 0x2000058c                        . = ALIGN (0x4)
 
 log_mpsc_pbuf_area
-                0x2000058c       0x38 load address 0x0001b8a8
+                0x2000058c       0x38 load address 0x0001b8bc
                 0x2000058c                        _log_mpsc_pbuf_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._log_mpsc_pbuf.static.*)))
  ._log_mpsc_pbuf.static.log_buffer_
@@ -9071,7 +9071,7 @@ log_mpsc_pbuf_area
                 0x200005c4                        _log_mpsc_pbuf_list_end = .
 
 log_msg_ptr_area
-                0x200005c4        0x4 load address 0x0001b8e0
+                0x200005c4        0x4 load address 0x0001b8f4
                 0x200005c4                        _log_msg_ptr_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._log_msg_ptr.static.*)))
  ._log_msg_ptr.static.log_msg_ptr_
@@ -9079,18 +9079,18 @@ log_msg_ptr_area
                 0x200005c8                        _log_msg_ptr_list_end = .
 
 log_dynamic_area
-                0x200005c8        0x0 load address 0x0001b8e4
+                0x200005c8        0x0 load address 0x0001b8f8
                 0x200005c8                        _log_dynamic_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._log_dynamic.static.*)))
                 0x200005c8                        _log_dynamic_list_end = .
 
-k_timer_area    0x200005c8        0x0 load address 0x0001b8e4
+k_timer_area    0x200005c8        0x0 load address 0x0001b8f8
                 0x200005c8                        _k_timer_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._k_timer.static.*)))
                 0x200005c8                        _k_timer_list_end = .
 
 k_mem_slab_area
-                0x200005c8       0x54 load address 0x0001b8e4
+                0x200005c8       0x54 load address 0x0001b8f8
                 0x200005c8                        _k_mem_slab_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._k_mem_slab.static.*)))
  ._k_mem_slab.static.att_slab_
@@ -9101,7 +9101,7 @@ k_mem_slab_area
                 0x20000600       0x1c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
                 0x2000061c                        _k_mem_slab_list_end = .
 
-k_heap_area     0x2000061c       0x14 load address 0x0001b938
+k_heap_area     0x2000061c       0x14 load address 0x0001b94c
                 0x2000061c                        _k_heap_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._k_heap.static.*)))
  ._k_heap.static._system_heap_
@@ -9109,7 +9109,7 @@ k_heap_area     0x2000061c       0x14 load address 0x0001b938
                 0x2000061c                _system_heap
                 0x20000630                        _k_heap_list_end = .
 
-k_mutex_area    0x20000630       0xa0 load address 0x0001b94c
+k_mutex_area    0x20000630       0xa0 load address 0x0001b960
                 0x20000630                        _k_mutex_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._k_mutex.static.*)))
  ._k_mutex.static.asym_mutex_int_
@@ -9138,27 +9138,27 @@ k_mutex_area    0x20000630       0xa0 load address 0x0001b94c
                 0x200006bc                sym_mutex_int
                 0x200006d0                        _k_mutex_list_end = .
 
-k_stack_area    0x200006d0        0x0 load address 0x0001b9ec
+k_stack_area    0x200006d0        0x0 load address 0x0001ba00
                 0x200006d0                        _k_stack_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._k_stack.static.*)))
                 0x200006d0                        _k_stack_list_end = .
 
-k_msgq_area     0x200006d0        0x0 load address 0x0001b9ec
+k_msgq_area     0x200006d0        0x0 load address 0x0001ba00
                 0x200006d0                        _k_msgq_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._k_msgq.static.*)))
                 0x200006d0                        _k_msgq_list_end = .
 
-k_mbox_area     0x200006d0        0x0 load address 0x0001b9ec
+k_mbox_area     0x200006d0        0x0 load address 0x0001ba00
                 0x200006d0                        _k_mbox_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._k_mbox.static.*)))
                 0x200006d0                        _k_mbox_list_end = .
 
-k_pipe_area     0x200006d0        0x0 load address 0x0001b9ec
+k_pipe_area     0x200006d0        0x0 load address 0x0001ba00
                 0x200006d0                        _k_pipe_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._k_pipe.static.*)))
                 0x200006d0                        _k_pipe_list_end = .
 
-k_sem_area      0x200006d0       0x30 load address 0x0001b9ec
+k_sem_area      0x200006d0       0x30 load address 0x0001ba00
                 0x200006d0                        _k_sem_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._k_sem.static.*)))
  ._k_sem.static.log_process_thread_sem_
@@ -9171,17 +9171,17 @@ k_sem_area      0x200006d0       0x30 load address 0x0001b9ec
                 0x200006f0       0x10 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
                 0x20000700                        _k_sem_list_end = .
 
-k_event_area    0x20000700        0x0 load address 0x0001ba1c
+k_event_area    0x20000700        0x0 load address 0x0001ba30
                 0x20000700                        _k_event_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._k_event.static.*)))
                 0x20000700                        _k_event_list_end = .
 
-k_queue_area    0x20000700        0x0 load address 0x0001ba1c
+k_queue_area    0x20000700        0x0 load address 0x0001ba30
                 0x20000700                        _k_queue_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._k_queue.static.*)))
                 0x20000700                        _k_queue_list_end = .
 
-k_fifo_area     0x20000700       0x10 load address 0x0001ba1c
+k_fifo_area     0x20000700       0x10 load address 0x0001ba30
                 0x20000700                        _k_fifo_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._k_fifo.static.*)))
  ._k_fifo.static.free_tx_
@@ -9189,24 +9189,24 @@ k_fifo_area     0x20000700       0x10 load address 0x0001ba1c
                 0x20000700                free_tx
                 0x20000710                        _k_fifo_list_end = .
 
-k_lifo_area     0x20000710        0x0 load address 0x0001ba2c
+k_lifo_area     0x20000710        0x0 load address 0x0001ba40
                 0x20000710                        _k_lifo_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._k_lifo.static.*)))
                 0x20000710                        _k_lifo_list_end = .
 
-k_condvar_area  0x20000710        0x0 load address 0x0001ba2c
+k_condvar_area  0x20000710        0x0 load address 0x0001ba40
                 0x20000710                        _k_condvar_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._k_condvar.static.*)))
                 0x20000710                        _k_condvar_list_end = .
 
 sys_mem_blocks_ptr_area
-                0x20000710        0x0 load address 0x0001ba2c
+                0x20000710        0x0 load address 0x0001ba40
                 0x20000710                        _sys_mem_blocks_ptr_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._sys_mem_blocks_ptr.static.*)))
                 0x20000710                        _sys_mem_blocks_ptr_list_end = .
 
 net_buf_pool_area
-                0x20000710      0x120 load address 0x0001ba2c
+                0x20000710      0x120 load address 0x0001ba40
                 0x20000710                        _net_buf_pool_list_start = .
  *(SORT_BY_NAME(SORT_BY_ALIGNMENT(._net_buf_pool.static.*)))
  ._net_buf_pool.static.acl_in_pool_
@@ -10077,162 +10077,162 @@ net_buf_pool_area
  .debug_abbrev  0x00022768       0xfb modules/nrf/subsys/nrf_security/src/drivers/nrf_oberon/liboberon_psa_driver.a(oberon_helpers.c.obj)
  .debug_abbrev  0x00022863      0x130 zephyr/arch/common/libisr_tables.a(isr_tables.c.obj)
 
-.debug_line     0x00000000    0x6f8ef
+.debug_line     0x00000000    0x70930
  *(SORT_BY_ALIGNMENT(.debug_line) SORT_BY_ALIGNMENT(.debug_line.*) SORT_BY_ALIGNMENT(.debug_line_end))
  .debug_line    0x00000000      0x111 zephyr/CMakeFiles/offsets.dir/./arch/arm/core/offsets/offsets.c.obj
- .debug_line    0x00000111      0xa34 app/libapp.a(main.c.obj)
- .debug_line    0x00000b45      0x5fb app/libapp.a(my_lbs.c.obj)
- .debug_line    0x00001140      0x62a app/libapp.a(adc.c.obj)
- .debug_line    0x0000176a     0x1f35 zephyr/libzephyr.a(heap.c.obj)
- .debug_line    0x0000369f     0x131d zephyr/libzephyr.a(cbprintf_packaged.c.obj)
- .debug_line    0x000049bc      0x3a8 zephyr/libzephyr.a(printk.c.obj)
- .debug_line    0x00004d64      0x3d9 zephyr/libzephyr.a(thread_entry.c.obj)
- .debug_line    0x0000513d      0x36b zephyr/libzephyr.a(assert.c.obj)
- .debug_line    0x000054a8     0x18e1 zephyr/libzephyr.a(mpsc_pbuf.c.obj)
- .debug_line    0x00006d89      0x4f7 zephyr/libzephyr.a(getopt.c.obj)
- .debug_line    0x00007280     0x1502 zephyr/libzephyr.a(onoff.c.obj)
- .debug_line    0x00008782      0x26d zephyr/libzephyr.a(notify.c.obj)
- .debug_line    0x000089ef      0x136 zephyr/libzephyr.a(last_section_id.c.obj)
- .debug_line    0x00008b25      0x381 zephyr/libzephyr.a(configs.c.obj)
- .debug_line    0x00008ea6      0x1e9 zephyr/libzephyr.a(thread_info.c.obj)
- .debug_line    0x0000908f     0x1add zephyr/libzephyr.a(ipc_service.c.obj)
- .debug_line    0x0000ab6c     0x145d zephyr/libzephyr.a(ipc_rpmsg_static_vrings.c.obj)
- .debug_line    0x0000bfc9      0x6c2 zephyr/libzephyr.a(ipc_rpmsg.c.obj)
- .debug_line    0x0000c68b      0x79d zephyr/libzephyr.a(ipc_static_vrings.c.obj)
- .debug_line    0x0000ce28     0x17e1 zephyr/libzephyr.a(log_core.c.obj)
- .debug_line    0x0000e609      0xbf8 zephyr/libzephyr.a(log_mgmt.c.obj)
- .debug_line    0x0000f201      0xb84 zephyr/libzephyr.a(log_msg.c.obj)
- .debug_line    0x0000fd85      0xb8e zephyr/libzephyr.a(log_output.c.obj)
- .debug_line    0x00010913      0x5f1 zephyr/libzephyr.a(log_backend_uart.c.obj)
- .debug_line    0x00010f04      0x2f7 zephyr/libzephyr.a(mem_attr.c.obj)
- .debug_line    0x000111fb      0x360 zephyr/libzephyr.a(gap_svc.c.obj)
- .debug_line    0x0001155b      0x1e3 zephyr/libzephyr.a(banner.c.obj)
- .debug_line    0x0001173e      0x21d zephyr/libzephyr.a(nrf_cc3xx_platform_abort_zephyr.c.obj)
- .debug_line    0x0001195b      0x7f4 zephyr/libzephyr.a(nrf_cc3xx_platform_mutex_zephyr.c.obj)
- .debug_line    0x0001214f      0x1bf zephyr/arch/common/libarch__common.a(init.c.obj)
- .debug_line    0x0001230e      0x15e zephyr/arch/common/libarch__common.a(xip.c.obj)
- .debug_line    0x0001246c      0x8ec zephyr/arch/arch/arm/core/libarch__arm__core.a(fatal.c.obj)
- .debug_line    0x00012d58       0xa3 zephyr/arch/arch/arm/core/libarch__arm__core.a(nmi.c.obj)
- .debug_line    0x00012dfb       0x63 zephyr/arch/arch/arm/core/libarch__arm__core.a(nmi_on_reset.S.obj)
- .debug_line    0x00012e5e      0x466 zephyr/arch/arch/arm/core/libarch__arm__core.a(tls.c.obj)
- .debug_line    0x000132c4     0x19d9 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fault.c.obj)
- .debug_line    0x00014c9d       0x70 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fault_s.S.obj)
- .debug_line    0x00014d0d       0x94 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(reset.S.obj)
- .debug_line    0x00014da1      0x694 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(scb.c.obj)
- .debug_line    0x00015435       0x75 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(svc.S.obj)
- .debug_line    0x000154aa      0x3ac zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(irq_manage.c.obj)
- .debug_line    0x00015856      0x32a zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(prep_c.c.obj)
- .debug_line    0x00015b80      0x622 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(thread.c.obj)
- .debug_line    0x000161a2      0x41b zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(cpu_idle.c.obj)
- .debug_line    0x000165bd      0x371 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(exc_exit.c.obj)
- .debug_line    0x0001692e      0x470 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(thread_abort.c.obj)
- .debug_line    0x00016d9e       0xa5 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(swap_helper.S.obj)
- .debug_line    0x00016e43      0x248 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(irq_init.c.obj)
- .debug_line    0x0001708b      0x269 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(isr_wrapper.c.obj)
- .debug_line    0x000172f4       0x71 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(__aeabi_read_tp.S.obj)
- .debug_line    0x00017365      0x334 zephyr/arch/arch/arm/core/cortex_m/cmse/libarch__arm__core__cortex_m__cmse.a(arm_core_cmse.c.obj)
- .debug_line    0x00017699      0x47e zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_core_mpu.c.obj)
- .debug_line    0x00017b17     0x12be zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_mpu.c.obj)
- .debug_line    0x00018dd5      0x234 zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_mpu_regions.c.obj)
- .debug_line    0x00019009      0x246 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(cbprintf.c.obj)
- .debug_line    0x0001924f       0x80 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(exit.c.obj)
- .debug_line    0x000192cf      0x2ed zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(stdio.c.obj)
- .debug_line    0x000195bc      0x6f3 zephyr/lib/libc/common/liblib__libc__common.a(malloc.c.obj)
- .debug_line    0x00019caf     0x1672 zephyr/lib/net_buf/liblib__net_buf.a(buf.c.obj)
- .debug_line    0x0001b321     0x18c9 zephyr/lib/net_buf/liblib__net_buf.a(buf_simple.c.obj)
- .debug_line    0x0001cbea      0x780 zephyr/soc/soc/nrf5340/libsoc__nordic.a(soc.c.obj)
- .debug_line    0x0001d36a      0x65c zephyr/soc/soc/nrf5340/libsoc__nordic.a(nrf53_cpunet_mgmt.c.obj)
- .debug_line    0x0001d9c6      0x23b zephyr/soc/soc/nrf5340/libsoc__nordic.a(gppi_init.c.obj)
- .debug_line    0x0001dc01      0x29a zephyr/soc/soc/nrf5340/libsoc__nordic.a(gpiote_nrfx.c.obj)
- .debug_line    0x0001de9b      0x34f zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(addr.c.obj)
- .debug_line    0x0001e1ea      0x26f zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(bt_str.c.obj)
- .debug_line    0x0001e459      0x3d1 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(long_wq.c.obj)
- .debug_line    0x0001e82a      0x755 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(uuid.c.obj)
- .debug_line    0x0001ef7f      0x4b5 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(addr.c.obj)
- .debug_line    0x0001f434      0x7d0 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(buf.c.obj)
- .debug_line    0x0001fc04      0x547 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(data.c.obj)
- .debug_line    0x0002014b     0x7556 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
- .debug_line    0x000276a1     0x163c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
- .debug_line    0x00028cdd     0x12ae zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(adv.c.obj)
- .debug_line    0x00029f8b      0xaa5 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(crypto_psa.c.obj)
- .debug_line    0x0002aa30     0x44ba zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
- .debug_line    0x0002eeea     0x22fc zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
- .debug_line    0x000311e6     0x56d8 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
- .debug_line    0x000368be     0x3714 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
- .debug_line    0x00039fd2      0x331 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt_gap_svc_validate.c.obj)
- .debug_line    0x0003a303      0x83c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(smp_null.c.obj)
- .debug_line    0x0003ab3f      0x329 zephyr/drivers/adc/libdrivers__adc.a(adc_common.c.obj)
- .debug_line    0x0003ae68     0x184f zephyr/drivers/adc/libdrivers__adc.a(adc_nrfx_saadc.c.obj)
- .debug_line    0x0003c6b7     0x10a5 zephyr/drivers/bluetooth/libdrivers__bluetooth.a(ipc.c.obj)
- .debug_line    0x0003d75c      0x3c7 zephyr/drivers/bluetooth/libdrivers__bluetooth.a(nrf53_support.c.obj)
- .debug_line    0x0003db23     0x15c6 zephyr/drivers/clock_control/libdrivers__clock_control.a(clock_control_nrf.c.obj)
- .debug_line    0x0003f0e9      0x3e9 zephyr/drivers/console/libdrivers__console.a(uart_console.c.obj)
- .debug_line    0x0003f4d2      0x2b9 zephyr/drivers/entropy/libdrivers__entropy.a(entropy_bt_hci.c.obj)
- .debug_line    0x0003f78b      0x34b zephyr/drivers/entropy/libdrivers__entropy.a(entropy_cc3xx.c.obj)
- .debug_line    0x0003fad6      0xf63 zephyr/drivers/gpio/libdrivers__gpio.a(gpio_nrfx.c.obj)
- .debug_line    0x00040a39      0xadb zephyr/drivers/mbox/libdrivers__mbox.a(mbox_nrfx_ipc.c.obj)
- .debug_line    0x00041514      0x1e2 zephyr/drivers/pinctrl/libdrivers__pinctrl.a(common.c.obj)
- .debug_line    0x000416f6      0x5ef zephyr/drivers/pinctrl/libdrivers__pinctrl.a(pinctrl_nrf.c.obj)
- .debug_line    0x00041ce5     0x11a6 zephyr/drivers/serial/libdrivers__serial.a(uart_nrfx_uarte.c.obj)
- .debug_line    0x00042e8b     0x172b zephyr/drivers/timer/libdrivers__timer.a(nrf_rtc_timer.c.obj)
- .debug_line    0x000445b6     0x1924 modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
- .debug_line    0x00045eda      0x2b0 modules/nrf/subsys/nrf_security/src/zephyr/libmbedtls_zephyr.a(mbedtls_heap.c.obj)
- .debug_line    0x0004618a      0x341 modules/nrf/subsys/nrf_security/src/zephyr/libmbedtls_zephyr.a(psa_crypto_init.c.obj)
- .debug_line    0x000464cb      0x33c modules/nrf/drivers/hw_cc3xx/lib..__nrf__drivers__hw_cc3xx.a(hw_cc3xx.c.obj)
- .debug_line    0x00046807      0x5b0 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(system_nrf5340_application.c.obj)
- .debug_line    0x00046db7      0x297 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_glue.c.obj)
- .debug_line    0x0004704e      0x293 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_flag32_allocator.c.obj)
- .debug_line    0x000472e1      0xc9e modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_gppi_dppi.c.obj)
- .debug_line    0x00047f7f      0x71a modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock.c.obj)
- .debug_line    0x00048699      0x71d modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_hfclk.c.obj)
- .debug_line    0x00048db6      0x687 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_hfclkaudio.c.obj)
- .debug_line    0x0004943d      0x6e5 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_hfclk192m.c.obj)
- .debug_line    0x00049b22      0x911 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_lfclk.c.obj)
- .debug_line    0x0004a433     0x252c modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_gpiote.c.obj)
- .debug_line    0x0004c95f      0x8b2 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_ipc.c.obj)
- .debug_line    0x0004d211     0x2796 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_saadc.c.obj)
- .debug_line    0x0004f9a7      0x82a modules/libmetal/libmetal/lib/libmetal.a(device.c.obj)
- .debug_line    0x000501d1      0x278 modules/libmetal/libmetal/lib/libmetal.a(init.c.obj)
- .debug_line    0x00050449      0x5f2 modules/libmetal/libmetal/lib/libmetal.a(io.c.obj)
- .debug_line    0x00050a3b      0x2a6 modules/libmetal/libmetal/lib/libmetal.a(device.c.obj)
- .debug_line    0x00050ce1      0x329 modules/libmetal/libmetal/lib/libmetal.a(init.c.obj)
- .debug_line    0x0005100a      0x2d3 modules/libmetal/libmetal/lib/libmetal.a(log.c.obj)
- .debug_line    0x000512dd      0x45a modules/open-amp/open-amp/lib/libopen_amp.a(virtio.c.obj)
- .debug_line    0x00051737      0xe7a modules/open-amp/open-amp/lib/libopen_amp.a(virtqueue.c.obj)
- .debug_line    0x000525b1      0xcbc modules/open-amp/open-amp/lib/libopen_amp.a(rpmsg.c.obj)
- .debug_line    0x0005326d     0x1781 modules/open-amp/open-amp/lib/libopen_amp.a(rpmsg_virtio.c.obj)
- .debug_line    0x000549ee      0x1b1 modules/open-amp/open-amp/lib/libopen_amp.a(utilities.c.obj)
- .debug_line    0x00054b9f      0x192 zephyr/kernel/libkernel.a(busy_wait.c.obj)
- .debug_line    0x00054d31      0x40b zephyr/kernel/libkernel.a(device.c.obj)
- .debug_line    0x0005513c      0xf09 zephyr/kernel/libkernel.a(fatal.c.obj)
- .debug_line    0x00056045      0xc6c zephyr/kernel/libkernel.a(init.c.obj)
- .debug_line    0x00056cb1      0xac4 zephyr/kernel/libkernel.a(kheap.c.obj)
- .debug_line    0x00057775      0xb7b zephyr/kernel/libkernel.a(mem_slab.c.obj)
- .debug_line    0x000582f0      0x37e zephyr/kernel/libkernel.a(idle.c.obj)
- .debug_line    0x0005866e      0xb5e zephyr/kernel/libkernel.a(mutex.c.obj)
- .debug_line    0x000591cc     0x1768 zephyr/kernel/libkernel.a(queue.c.obj)
- .debug_line    0x0005a934      0xae6 zephyr/kernel/libkernel.a(sem.c.obj)
- .debug_line    0x0005b41a      0x354 zephyr/kernel/libkernel.a(system_work_q.c.obj)
- .debug_line    0x0005b76e     0x2bf1 zephyr/kernel/libkernel.a(work.c.obj)
- .debug_line    0x0005e35f      0xc4d zephyr/kernel/libkernel.a(thread.c.obj)
- .debug_line    0x0005efac     0x411e zephyr/kernel/libkernel.a(sched.c.obj)
- .debug_line    0x000630ca      0x770 zephyr/kernel/libkernel.a(timeslicing.c.obj)
- .debug_line    0x0006383a      0x7f3 zephyr/kernel/libkernel.a(thread_monitor.c.obj)
- .debug_line    0x0006402d     0x11e4 zephyr/kernel/libkernel.a(timeout.c.obj)
- .debug_line    0x00065211     0x1097 zephyr/kernel/libkernel.a(timer.c.obj)
- .debug_line    0x000662a8      0x870 zephyr/kernel/libkernel.a(mempool.c.obj)
- .debug_line    0x00066b18       0x59 zephyr/kernel/libkernel.a(banner.c.obj)
- .debug_line    0x00066b71      0x920 modules/nrf/subsys/nrf_security/src/libmbedcrypto.a(memory_buffer_alloc.c.obj)
- .debug_line    0x00067491      0x2d3 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(threading_alt.c.obj)
- .debug_line    0x00067764      0x1e3 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(platform.c.obj)
- .debug_line    0x00067947      0x319 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(platform_util.c.obj)
- .debug_line    0x00067c60     0x4cd8 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto.c.obj)
- .debug_line    0x0006c938      0xb8c modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto_slot_management.c.obj)
- .debug_line    0x0006d4c4     0x119b modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto_driver_wrappers.c.obj)
- .debug_line    0x0006e65f      0x7fb modules/nrf/subsys/nrf_security/src/drivers/nrf_oberon/liboberon_psa_driver.a(oberon_mac.c.obj)
- .debug_line    0x0006ee5a      0x67e modules/nrf/subsys/nrf_security/src/drivers/nrf_oberon/liboberon_psa_driver.a(oberon_cipher.c.obj)
- .debug_line    0x0006f4d8      0x29d modules/nrf/subsys/nrf_security/src/drivers/nrf_oberon/liboberon_psa_driver.a(oberon_helpers.c.obj)
- .debug_line    0x0006f775      0x17a zephyr/arch/common/libisr_tables.a(isr_tables.c.obj)
+ .debug_line    0x00000111      0xaa6 app/libapp.a(main.c.obj)
+ .debug_line    0x00000bb7      0x634 app/libapp.a(my_lbs.c.obj)
+ .debug_line    0x000011eb      0x69c app/libapp.a(adc.c.obj)
+ .debug_line    0x00001887     0x1f6e zephyr/libzephyr.a(heap.c.obj)
+ .debug_line    0x000037f5     0x1356 zephyr/libzephyr.a(cbprintf_packaged.c.obj)
+ .debug_line    0x00004b4b      0x3a8 zephyr/libzephyr.a(printk.c.obj)
+ .debug_line    0x00004ef3      0x412 zephyr/libzephyr.a(thread_entry.c.obj)
+ .debug_line    0x00005305      0x36b zephyr/libzephyr.a(assert.c.obj)
+ .debug_line    0x00005670     0x191a zephyr/libzephyr.a(mpsc_pbuf.c.obj)
+ .debug_line    0x00006f8a      0x4f7 zephyr/libzephyr.a(getopt.c.obj)
+ .debug_line    0x00007481     0x1502 zephyr/libzephyr.a(onoff.c.obj)
+ .debug_line    0x00008983      0x26d zephyr/libzephyr.a(notify.c.obj)
+ .debug_line    0x00008bf0      0x136 zephyr/libzephyr.a(last_section_id.c.obj)
+ .debug_line    0x00008d26      0x3ba zephyr/libzephyr.a(configs.c.obj)
+ .debug_line    0x000090e0      0x1e9 zephyr/libzephyr.a(thread_info.c.obj)
+ .debug_line    0x000092c9     0x1b16 zephyr/libzephyr.a(ipc_service.c.obj)
+ .debug_line    0x0000addf     0x1508 zephyr/libzephyr.a(ipc_rpmsg_static_vrings.c.obj)
+ .debug_line    0x0000c2e7      0x734 zephyr/libzephyr.a(ipc_rpmsg.c.obj)
+ .debug_line    0x0000ca1b      0x848 zephyr/libzephyr.a(ipc_static_vrings.c.obj)
+ .debug_line    0x0000d263     0x181a zephyr/libzephyr.a(log_core.c.obj)
+ .debug_line    0x0000ea7d      0xbf8 zephyr/libzephyr.a(log_mgmt.c.obj)
+ .debug_line    0x0000f675      0xbbd zephyr/libzephyr.a(log_msg.c.obj)
+ .debug_line    0x00010232      0xb8e zephyr/libzephyr.a(log_output.c.obj)
+ .debug_line    0x00010dc0      0x62a zephyr/libzephyr.a(log_backend_uart.c.obj)
+ .debug_line    0x000113ea      0x2f7 zephyr/libzephyr.a(mem_attr.c.obj)
+ .debug_line    0x000116e1      0x360 zephyr/libzephyr.a(gap_svc.c.obj)
+ .debug_line    0x00011a41      0x1e3 zephyr/libzephyr.a(banner.c.obj)
+ .debug_line    0x00011c24      0x21d zephyr/libzephyr.a(nrf_cc3xx_platform_abort_zephyr.c.obj)
+ .debug_line    0x00011e41      0x82d zephyr/libzephyr.a(nrf_cc3xx_platform_mutex_zephyr.c.obj)
+ .debug_line    0x0001266e      0x1bf zephyr/arch/common/libarch__common.a(init.c.obj)
+ .debug_line    0x0001282d      0x15e zephyr/arch/common/libarch__common.a(xip.c.obj)
+ .debug_line    0x0001298b      0x925 zephyr/arch/arch/arm/core/libarch__arm__core.a(fatal.c.obj)
+ .debug_line    0x000132b0       0xa3 zephyr/arch/arch/arm/core/libarch__arm__core.a(nmi.c.obj)
+ .debug_line    0x00013353       0x63 zephyr/arch/arch/arm/core/libarch__arm__core.a(nmi_on_reset.S.obj)
+ .debug_line    0x000133b6      0x466 zephyr/arch/arch/arm/core/libarch__arm__core.a(tls.c.obj)
+ .debug_line    0x0001381c     0x1a12 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fault.c.obj)
+ .debug_line    0x0001522e       0x70 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fault_s.S.obj)
+ .debug_line    0x0001529e       0x94 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(reset.S.obj)
+ .debug_line    0x00015332      0x694 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(scb.c.obj)
+ .debug_line    0x000159c6       0x75 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(svc.S.obj)
+ .debug_line    0x00015a3b      0x3ac zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(irq_manage.c.obj)
+ .debug_line    0x00015de7      0x32a zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(prep_c.c.obj)
+ .debug_line    0x00016111      0x622 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(thread.c.obj)
+ .debug_line    0x00016733      0x41b zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(cpu_idle.c.obj)
+ .debug_line    0x00016b4e      0x371 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(exc_exit.c.obj)
+ .debug_line    0x00016ebf      0x470 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(thread_abort.c.obj)
+ .debug_line    0x0001732f       0xa5 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(swap_helper.S.obj)
+ .debug_line    0x000173d4      0x248 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(irq_init.c.obj)
+ .debug_line    0x0001761c      0x269 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(isr_wrapper.c.obj)
+ .debug_line    0x00017885       0x71 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(__aeabi_read_tp.S.obj)
+ .debug_line    0x000178f6      0x334 zephyr/arch/arch/arm/core/cortex_m/cmse/libarch__arm__core__cortex_m__cmse.a(arm_core_cmse.c.obj)
+ .debug_line    0x00017c2a      0x47e zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_core_mpu.c.obj)
+ .debug_line    0x000180a8     0x12f7 zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_mpu.c.obj)
+ .debug_line    0x0001939f      0x234 zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_mpu_regions.c.obj)
+ .debug_line    0x000195d3      0x246 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(cbprintf.c.obj)
+ .debug_line    0x00019819       0x80 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(exit.c.obj)
+ .debug_line    0x00019899      0x326 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(stdio.c.obj)
+ .debug_line    0x00019bbf      0x72c zephyr/lib/libc/common/liblib__libc__common.a(malloc.c.obj)
+ .debug_line    0x0001a2eb     0x16ab zephyr/lib/net_buf/liblib__net_buf.a(buf.c.obj)
+ .debug_line    0x0001b996     0x18c9 zephyr/lib/net_buf/liblib__net_buf.a(buf_simple.c.obj)
+ .debug_line    0x0001d25f      0x780 zephyr/soc/soc/nrf5340/libsoc__nordic.a(soc.c.obj)
+ .debug_line    0x0001d9df      0x65c zephyr/soc/soc/nrf5340/libsoc__nordic.a(nrf53_cpunet_mgmt.c.obj)
+ .debug_line    0x0001e03b      0x23b zephyr/soc/soc/nrf5340/libsoc__nordic.a(gppi_init.c.obj)
+ .debug_line    0x0001e276      0x29a zephyr/soc/soc/nrf5340/libsoc__nordic.a(gpiote_nrfx.c.obj)
+ .debug_line    0x0001e510      0x34f zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(addr.c.obj)
+ .debug_line    0x0001e85f      0x26f zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(bt_str.c.obj)
+ .debug_line    0x0001eace      0x3d1 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(long_wq.c.obj)
+ .debug_line    0x0001ee9f      0x755 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(uuid.c.obj)
+ .debug_line    0x0001f5f4      0x4b5 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(addr.c.obj)
+ .debug_line    0x0001faa9      0x7d0 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(buf.c.obj)
+ .debug_line    0x00020279      0x580 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(data.c.obj)
+ .debug_line    0x000207f9     0x758f zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+ .debug_line    0x00027d88     0x1675 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
+ .debug_line    0x000293fd     0x12e7 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(adv.c.obj)
+ .debug_line    0x0002a6e4      0xade zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(crypto_psa.c.obj)
+ .debug_line    0x0002b1c2     0x44f3 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
+ .debug_line    0x0002f6b5     0x2335 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
+ .debug_line    0x000319ea     0x5711 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+ .debug_line    0x000370fb     0x374d zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
+ .debug_line    0x0003a848      0x331 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt_gap_svc_validate.c.obj)
+ .debug_line    0x0003ab79      0x875 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(smp_null.c.obj)
+ .debug_line    0x0003b3ee      0x329 zephyr/drivers/adc/libdrivers__adc.a(adc_common.c.obj)
+ .debug_line    0x0003b717     0x1888 zephyr/drivers/adc/libdrivers__adc.a(adc_nrfx_saadc.c.obj)
+ .debug_line    0x0003cf9f     0x10de zephyr/drivers/bluetooth/libdrivers__bluetooth.a(ipc.c.obj)
+ .debug_line    0x0003e07d      0x3c7 zephyr/drivers/bluetooth/libdrivers__bluetooth.a(nrf53_support.c.obj)
+ .debug_line    0x0003e444     0x15ff zephyr/drivers/clock_control/libdrivers__clock_control.a(clock_control_nrf.c.obj)
+ .debug_line    0x0003fa43      0x422 zephyr/drivers/console/libdrivers__console.a(uart_console.c.obj)
+ .debug_line    0x0003fe65      0x2b9 zephyr/drivers/entropy/libdrivers__entropy.a(entropy_bt_hci.c.obj)
+ .debug_line    0x0004011e      0x34b zephyr/drivers/entropy/libdrivers__entropy.a(entropy_cc3xx.c.obj)
+ .debug_line    0x00040469      0xf63 zephyr/drivers/gpio/libdrivers__gpio.a(gpio_nrfx.c.obj)
+ .debug_line    0x000413cc      0xb14 zephyr/drivers/mbox/libdrivers__mbox.a(mbox_nrfx_ipc.c.obj)
+ .debug_line    0x00041ee0      0x1e2 zephyr/drivers/pinctrl/libdrivers__pinctrl.a(common.c.obj)
+ .debug_line    0x000420c2      0x5ef zephyr/drivers/pinctrl/libdrivers__pinctrl.a(pinctrl_nrf.c.obj)
+ .debug_line    0x000426b1     0x11df zephyr/drivers/serial/libdrivers__serial.a(uart_nrfx_uarte.c.obj)
+ .debug_line    0x00043890     0x172b zephyr/drivers/timer/libdrivers__timer.a(nrf_rtc_timer.c.obj)
+ .debug_line    0x00044fbb     0x195d modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
+ .debug_line    0x00046918      0x2b0 modules/nrf/subsys/nrf_security/src/zephyr/libmbedtls_zephyr.a(mbedtls_heap.c.obj)
+ .debug_line    0x00046bc8      0x341 modules/nrf/subsys/nrf_security/src/zephyr/libmbedtls_zephyr.a(psa_crypto_init.c.obj)
+ .debug_line    0x00046f09      0x33c modules/nrf/drivers/hw_cc3xx/lib..__nrf__drivers__hw_cc3xx.a(hw_cc3xx.c.obj)
+ .debug_line    0x00047245      0x5b0 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(system_nrf5340_application.c.obj)
+ .debug_line    0x000477f5      0x2d0 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_glue.c.obj)
+ .debug_line    0x00047ac5      0x293 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_flag32_allocator.c.obj)
+ .debug_line    0x00047d58      0xc9e modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_gppi_dppi.c.obj)
+ .debug_line    0x000489f6      0x71a modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock.c.obj)
+ .debug_line    0x00049110      0x71d modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_hfclk.c.obj)
+ .debug_line    0x0004982d      0x687 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_hfclkaudio.c.obj)
+ .debug_line    0x00049eb4      0x6e5 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_hfclk192m.c.obj)
+ .debug_line    0x0004a599      0x911 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_lfclk.c.obj)
+ .debug_line    0x0004aeaa     0x252c modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_gpiote.c.obj)
+ .debug_line    0x0004d3d6      0x8b2 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_ipc.c.obj)
+ .debug_line    0x0004dc88     0x2796 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_saadc.c.obj)
+ .debug_line    0x0005041e      0x8d5 modules/libmetal/libmetal/lib/libmetal.a(device.c.obj)
+ .debug_line    0x00050cf3      0x2ea modules/libmetal/libmetal/lib/libmetal.a(init.c.obj)
+ .debug_line    0x00050fdd      0x664 modules/libmetal/libmetal/lib/libmetal.a(io.c.obj)
+ .debug_line    0x00051641      0x2df modules/libmetal/libmetal/lib/libmetal.a(device.c.obj)
+ .debug_line    0x00051920      0x39b modules/libmetal/libmetal/lib/libmetal.a(init.c.obj)
+ .debug_line    0x00051cbb      0x30c modules/libmetal/libmetal/lib/libmetal.a(log.c.obj)
+ .debug_line    0x00051fc7      0x493 modules/open-amp/open-amp/lib/libopen_amp.a(virtio.c.obj)
+ .debug_line    0x0005245a      0xeec modules/open-amp/open-amp/lib/libopen_amp.a(virtqueue.c.obj)
+ .debug_line    0x00053346      0xd67 modules/open-amp/open-amp/lib/libopen_amp.a(rpmsg.c.obj)
+ .debug_line    0x000540ad     0x182c modules/open-amp/open-amp/lib/libopen_amp.a(rpmsg_virtio.c.obj)
+ .debug_line    0x000558d9      0x1b1 modules/open-amp/open-amp/lib/libopen_amp.a(utilities.c.obj)
+ .debug_line    0x00055a8a      0x192 zephyr/kernel/libkernel.a(busy_wait.c.obj)
+ .debug_line    0x00055c1c      0x40b zephyr/kernel/libkernel.a(device.c.obj)
+ .debug_line    0x00056027      0xf42 zephyr/kernel/libkernel.a(fatal.c.obj)
+ .debug_line    0x00056f69      0xca5 zephyr/kernel/libkernel.a(init.c.obj)
+ .debug_line    0x00057c0e      0xac4 zephyr/kernel/libkernel.a(kheap.c.obj)
+ .debug_line    0x000586d2      0xb7b zephyr/kernel/libkernel.a(mem_slab.c.obj)
+ .debug_line    0x0005924d      0x37e zephyr/kernel/libkernel.a(idle.c.obj)
+ .debug_line    0x000595cb      0xb5e zephyr/kernel/libkernel.a(mutex.c.obj)
+ .debug_line    0x0005a129     0x1768 zephyr/kernel/libkernel.a(queue.c.obj)
+ .debug_line    0x0005b891      0xae6 zephyr/kernel/libkernel.a(sem.c.obj)
+ .debug_line    0x0005c377      0x354 zephyr/kernel/libkernel.a(system_work_q.c.obj)
+ .debug_line    0x0005c6cb     0x2c2a zephyr/kernel/libkernel.a(work.c.obj)
+ .debug_line    0x0005f2f5      0xc86 zephyr/kernel/libkernel.a(thread.c.obj)
+ .debug_line    0x0005ff7b     0x4157 zephyr/kernel/libkernel.a(sched.c.obj)
+ .debug_line    0x000640d2      0x770 zephyr/kernel/libkernel.a(timeslicing.c.obj)
+ .debug_line    0x00064842      0x7f3 zephyr/kernel/libkernel.a(thread_monitor.c.obj)
+ .debug_line    0x00065035     0x11e4 zephyr/kernel/libkernel.a(timeout.c.obj)
+ .debug_line    0x00066219     0x10d0 zephyr/kernel/libkernel.a(timer.c.obj)
+ .debug_line    0x000672e9      0x870 zephyr/kernel/libkernel.a(mempool.c.obj)
+ .debug_line    0x00067b59       0x59 zephyr/kernel/libkernel.a(banner.c.obj)
+ .debug_line    0x00067bb2      0x920 modules/nrf/subsys/nrf_security/src/libmbedcrypto.a(memory_buffer_alloc.c.obj)
+ .debug_line    0x000684d2      0x2d3 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(threading_alt.c.obj)
+ .debug_line    0x000687a5      0x1e3 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(platform.c.obj)
+ .debug_line    0x00068988      0x319 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(platform_util.c.obj)
+ .debug_line    0x00068ca1     0x4cd8 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto.c.obj)
+ .debug_line    0x0006d979      0xb8c modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto_slot_management.c.obj)
+ .debug_line    0x0006e505     0x119b modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto_driver_wrappers.c.obj)
+ .debug_line    0x0006f6a0      0x7fb modules/nrf/subsys/nrf_security/src/drivers/nrf_oberon/liboberon_psa_driver.a(oberon_mac.c.obj)
+ .debug_line    0x0006fe9b      0x67e modules/nrf/subsys/nrf_security/src/drivers/nrf_oberon/liboberon_psa_driver.a(oberon_cipher.c.obj)
+ .debug_line    0x00070519      0x29d modules/nrf/subsys/nrf_security/src/drivers/nrf_oberon/liboberon_psa_driver.a(oberon_helpers.c.obj)
+ .debug_line    0x000707b6      0x17a zephyr/arch/common/libisr_tables.a(isr_tables.c.obj)
 
 .debug_frame    0x00000000     0xb798
  *(SORT_BY_ALIGNMENT(.debug_frame))
@@ -10386,163 +10386,163 @@ net_buf_pool_area
  .debug_frame   0x0000b738       0x2c C:/ncs/toolchains/5f5ef0cea0/opt/zephyr-sdk/gnu/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/14.3.0/thumb/v8-m.main/nofp/space\libgcc.a(_aeabi_uldivmod.o)
  .debug_frame   0x0000b764       0x34 C:/ncs/toolchains/5f5ef0cea0/opt/zephyr-sdk/gnu/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/14.3.0/thumb/v8-m.main/nofp/space\libgcc.a(_udivmoddi4.o)
 
-.debug_str      0x00000000    0x1f0e6
+.debug_str      0x00000000    0x1f203
  *(SORT_BY_ALIGNMENT(.debug_str))
- .debug_str     0x00000000    0x1f0e6 zephyr/CMakeFiles/offsets.dir/./arch/arm/core/offsets/offsets.c.obj
-                                0x3a0 (size before relaxing)
- .debug_str     0x0001f0e6     0x14f0 app/libapp.a(main.c.obj)
- .debug_str     0x0001f0e6      0xbfb app/libapp.a(my_lbs.c.obj)
- .debug_str     0x0001f0e6      0xac1 app/libapp.a(adc.c.obj)
- .debug_str     0x0001f0e6      0xe99 zephyr/libzephyr.a(heap.c.obj)
- .debug_str     0x0001f0e6      0xccc zephyr/libzephyr.a(cbprintf_packaged.c.obj)
- .debug_str     0x0001f0e6      0x5cf zephyr/libzephyr.a(printk.c.obj)
- .debug_str     0x0001f0e6      0x7f0 zephyr/libzephyr.a(thread_entry.c.obj)
- .debug_str     0x0001f0e6      0x3a3 zephyr/libzephyr.a(assert.c.obj)
- .debug_str     0x0001f0e6      0x7f9 zephyr/libzephyr.a(mpsc_pbuf.c.obj)
- .debug_str     0x0001f0e6      0x9c6 zephyr/libzephyr.a(getopt.c.obj)
- .debug_str     0x0001f0e6      0x853 zephyr/libzephyr.a(onoff.c.obj)
- .debug_str     0x0001f0e6      0x375 zephyr/libzephyr.a(notify.c.obj)
- .debug_str     0x0001f0e6      0x2a1 zephyr/libzephyr.a(last_section_id.c.obj)
- .debug_str     0x0001f0e6      0x212 zephyr/libzephyr.a(configs.c.obj)
- .debug_str     0x0001f0e6      0x750 zephyr/libzephyr.a(thread_info.c.obj)
- .debug_str     0x0001f0e6      0xc6f zephyr/libzephyr.a(ipc_service.c.obj)
- .debug_str     0x0001f0e6     0x194c zephyr/libzephyr.a(ipc_rpmsg_static_vrings.c.obj)
- .debug_str     0x0001f0e6      0xd70 zephyr/libzephyr.a(ipc_rpmsg.c.obj)
- .debug_str     0x0001f0e6      0xcb9 zephyr/libzephyr.a(ipc_static_vrings.c.obj)
- .debug_str     0x0001f0e6     0x1cff zephyr/libzephyr.a(log_core.c.obj)
- .debug_str     0x0001f0e6      0xfc0 zephyr/libzephyr.a(log_mgmt.c.obj)
- .debug_str     0x0001f0e6      0xc5a zephyr/libzephyr.a(log_msg.c.obj)
- .debug_str     0x0001f0e6      0xd1e zephyr/libzephyr.a(log_output.c.obj)
- .debug_str     0x0001f0e6      0xdf4 zephyr/libzephyr.a(log_backend_uart.c.obj)
- .debug_str     0x0001f0e6      0x5bb zephyr/libzephyr.a(mem_attr.c.obj)
- .debug_str     0x0001f0e6      0x963 zephyr/libzephyr.a(gap_svc.c.obj)
- .debug_str     0x0001f0e6      0x56e zephyr/libzephyr.a(banner.c.obj)
- .debug_str     0x0001f0e6      0x5ad zephyr/libzephyr.a(nrf_cc3xx_platform_abort_zephyr.c.obj)
- .debug_str     0x0001f0e6      0xd45 zephyr/libzephyr.a(nrf_cc3xx_platform_mutex_zephyr.c.obj)
- .debug_str     0x0001f0e6      0x2ef zephyr/arch/common/libarch__common.a(init.c.obj)
- .debug_str     0x0001f0e6      0x327 zephyr/arch/common/libarch__common.a(xip.c.obj)
- .debug_str     0x0001f0e6      0xa14 zephyr/arch/arch/arm/core/libarch__arm__core.a(fatal.c.obj)
- .debug_str     0x0001f0e6      0x2b1 zephyr/arch/arch/arm/core/libarch__arm__core.a(nmi.c.obj)
- .debug_str     0x0001f0e6       0x5f zephyr/arch/arch/arm/core/libarch__arm__core.a(nmi_on_reset.S.obj)
- .debug_str     0x0001f0e6      0x7fd zephyr/arch/arch/arm/core/libarch__arm__core.a(tls.c.obj)
- .debug_str     0x0001f0e6     0x145c zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fault.c.obj)
- .debug_str     0x0001f0e6       0x63 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fault_s.S.obj)
- .debug_str     0x0001f0e6       0x61 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(reset.S.obj)
- .debug_str     0x0001f0e6      0x628 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(scb.c.obj)
- .debug_str     0x0001f0e6       0x5f zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(svc.S.obj)
- .debug_str     0x0001f0e6      0x835 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(irq_manage.c.obj)
- .debug_str     0x0001f0e6      0x4f2 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(prep_c.c.obj)
- .debug_str     0x0001f0e6      0x7a6 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(thread.c.obj)
- .debug_str     0x0001f0e6      0x484 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(cpu_idle.c.obj)
- .debug_str     0x0001f0e6      0x6ef zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(exc_exit.c.obj)
- .debug_str     0x0001f0e6      0x739 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(thread_abort.c.obj)
- .debug_str     0x0001f0e6       0x67 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(swap_helper.S.obj)
- .debug_str     0x0001f0e6      0x6f9 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(irq_init.c.obj)
- .debug_str     0x0001f0e6      0x31d zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(isr_wrapper.c.obj)
- .debug_str     0x0001f0e6       0x6b zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(__aeabi_read_tp.S.obj)
- .debug_str     0x0001f0e6      0x435 zephyr/arch/arch/arm/core/cortex_m/cmse/libarch__arm__core__cortex_m__cmse.a(arm_core_cmse.c.obj)
- .debug_str     0x0001f0e6      0x981 zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_core_mpu.c.obj)
- .debug_str     0x0001f0e6     0x1108 zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_mpu.c.obj)
- .debug_str     0x0001f0e6      0x3dc zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_mpu_regions.c.obj)
- .debug_str     0x0001f0e6      0x34b zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(cbprintf.c.obj)
- .debug_str     0x0001f0e6      0x2b7 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(exit.c.obj)
- .debug_str     0x0001f0e6      0x59f zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(stdio.c.obj)
- .debug_str     0x0001f0e6      0x871 zephyr/lib/libc/common/liblib__libc__common.a(malloc.c.obj)
- .debug_str     0x0001f0e6      0xf1f zephyr/lib/net_buf/liblib__net_buf.a(buf.c.obj)
- .debug_str     0x0001f0e6      0xcbf zephyr/lib/net_buf/liblib__net_buf.a(buf_simple.c.obj)
- .debug_str     0x0001f0e6     0x12c0 zephyr/soc/soc/nrf5340/libsoc__nordic.a(soc.c.obj)
- .debug_str     0x0001f0e6      0xa88 zephyr/soc/soc/nrf5340/libsoc__nordic.a(nrf53_cpunet_mgmt.c.obj)
- .debug_str     0x0001f0e6      0x417 zephyr/soc/soc/nrf5340/libsoc__nordic.a(gppi_init.c.obj)
- .debug_str     0x0001f0e6      0x868 zephyr/soc/soc/nrf5340/libsoc__nordic.a(gpiote_nrfx.c.obj)
- .debug_str     0x0001f0e6      0x353 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(addr.c.obj)
- .debug_str     0x0001f0e6      0x2e2 zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(bt_str.c.obj)
- .debug_str     0x0001f0e6      0x9d4 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(long_wq.c.obj)
- .debug_str     0x0001f0e6      0x6e0 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(uuid.c.obj)
- .debug_str     0x0001f0e6      0x3a2 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(addr.c.obj)
- .debug_str     0x0001f0e6     0x16da zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(buf.c.obj)
- .debug_str     0x0001f0e6      0xa5a zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(data.c.obj)
- .debug_str     0x0001f0e6     0x3af2 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
- .debug_str     0x0001f0e6     0x1f65 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
- .debug_str     0x0001f0e6     0x2167 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(adv.c.obj)
- .debug_str     0x0001f0e6     0x104d zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(crypto_psa.c.obj)
- .debug_str     0x0001f0e6     0x3196 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
- .debug_str     0x0001f0e6     0x2289 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
- .debug_str     0x0001f0e6     0x30d0 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
- .debug_str     0x0001f0e6     0x318c zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
- .debug_str     0x0001f0e6      0x839 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt_gap_svc_validate.c.obj)
- .debug_str     0x0001f0e6     0x195f zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(smp_null.c.obj)
- .debug_str     0x0001f0e6      0x825 zephyr/drivers/adc/libdrivers__adc.a(adc_common.c.obj)
- .debug_str     0x0001f0e6     0x1fda zephyr/drivers/adc/libdrivers__adc.a(adc_nrfx_saadc.c.obj)
- .debug_str     0x0001f0e6     0x10cb zephyr/drivers/bluetooth/libdrivers__bluetooth.a(ipc.c.obj)
- .debug_str     0x0001f0e6      0xba4 zephyr/drivers/bluetooth/libdrivers__bluetooth.a(nrf53_support.c.obj)
- .debug_str     0x0001f0e6     0x214f zephyr/drivers/clock_control/libdrivers__clock_control.a(clock_control_nrf.c.obj)
- .debug_str     0x0001f0e6      0x5ae zephyr/drivers/console/libdrivers__console.a(uart_console.c.obj)
- .debug_str     0x0001f0e6      0x724 zephyr/drivers/entropy/libdrivers__entropy.a(entropy_bt_hci.c.obj)
- .debug_str     0x0001f0e6      0x710 zephyr/drivers/entropy/libdrivers__entropy.a(entropy_cc3xx.c.obj)
- .debug_str     0x0001f0e6     0x1767 zephyr/drivers/gpio/libdrivers__gpio.a(gpio_nrfx.c.obj)
- .debug_str     0x0001f0e6     0x1038 zephyr/drivers/mbox/libdrivers__mbox.a(mbox_nrfx_ipc.c.obj)
- .debug_str     0x0001f0e6      0x33c zephyr/drivers/pinctrl/libdrivers__pinctrl.a(common.c.obj)
- .debug_str     0x0001f0e6      0xfc0 zephyr/drivers/pinctrl/libdrivers__pinctrl.a(pinctrl_nrf.c.obj)
- .debug_str     0x0001f0e6     0x1c48 zephyr/drivers/serial/libdrivers__serial.a(uart_nrfx_uarte.c.obj)
- .debug_str     0x0001f0e6     0x17c4 zephyr/drivers/timer/libdrivers__timer.a(nrf_rtc_timer.c.obj)
- .debug_str     0x0001f0e6     0x16b8 modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
- .debug_str     0x0001f0e6      0x5ec modules/nrf/subsys/nrf_security/src/zephyr/libmbedtls_zephyr.a(mbedtls_heap.c.obj)
- .debug_str     0x0001f0e6      0x5f0 modules/nrf/subsys/nrf_security/src/zephyr/libmbedtls_zephyr.a(psa_crypto_init.c.obj)
- .debug_str     0x0001f0e6      0x7d1 modules/nrf/drivers/hw_cc3xx/lib..__nrf__drivers__hw_cc3xx.a(hw_cc3xx.c.obj)
- .debug_str     0x0001f0e6      0xe0e modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(system_nrf5340_application.c.obj)
- .debug_str     0x0001f0e6      0x32a modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_glue.c.obj)
- .debug_str     0x0001f0e6      0x36e modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_flag32_allocator.c.obj)
- .debug_str     0x0001f0e6      0xba5 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_gppi_dppi.c.obj)
- .debug_str     0x0001f0e6     0x14ac modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock.c.obj)
- .debug_str     0x0001f0e6     0x1134 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_hfclk.c.obj)
- .debug_str     0x0001f0e6     0x1093 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_hfclkaudio.c.obj)
- .debug_str     0x0001f0e6     0x114d modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_hfclk192m.c.obj)
- .debug_str     0x0001f0e6     0x11a9 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_lfclk.c.obj)
- .debug_str     0x0001f0e6     0x2610 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_gpiote.c.obj)
- .debug_str     0x0001f0e6      0xf2a modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_ipc.c.obj)
- .debug_str     0x0001f0e6     0x2c07 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_saadc.c.obj)
- .debug_str     0x0001f0e6      0xa92 modules/libmetal/libmetal/lib/libmetal.a(device.c.obj)
- .debug_str     0x0001f0e6      0x457 modules/libmetal/libmetal/lib/libmetal.a(init.c.obj)
- .debug_str     0x0001f0e6      0x4af modules/libmetal/libmetal/lib/libmetal.a(io.c.obj)
- .debug_str     0x0001f0e6      0x73d modules/libmetal/libmetal/lib/libmetal.a(device.c.obj)
- .debug_str     0x0001f0e6      0x892 modules/libmetal/libmetal/lib/libmetal.a(init.c.obj)
- .debug_str     0x0001f0e6      0x5d3 modules/libmetal/libmetal/lib/libmetal.a(log.c.obj)
- .debug_str     0x0001f0e6      0xa09 modules/open-amp/open-amp/lib/libopen_amp.a(virtio.c.obj)
- .debug_str     0x0001f0e6      0xc04 modules/open-amp/open-amp/lib/libopen_amp.a(virtqueue.c.obj)
- .debug_str     0x0001f0e6      0x8b2 modules/open-amp/open-amp/lib/libopen_amp.a(rpmsg.c.obj)
- .debug_str     0x0001f0e6     0x12b4 modules/open-amp/open-amp/lib/libopen_amp.a(rpmsg_virtio.c.obj)
- .debug_str     0x0001f0e6      0x2e5 modules/open-amp/open-amp/lib/libopen_amp.a(utilities.c.obj)
- .debug_str     0x0001f0e6      0x2ca zephyr/kernel/libkernel.a(busy_wait.c.obj)
- .debug_str     0x0001f0e6      0x3e9 zephyr/kernel/libkernel.a(device.c.obj)
- .debug_str     0x0001f0e6      0xde6 zephyr/kernel/libkernel.a(fatal.c.obj)
- .debug_str     0x0001f0e6     0x144e zephyr/kernel/libkernel.a(init.c.obj)
- .debug_str     0x0001f0e6      0x93c zephyr/kernel/libkernel.a(kheap.c.obj)
- .debug_str     0x0001f0e6      0xc72 zephyr/kernel/libkernel.a(mem_slab.c.obj)
- .debug_str     0x0001f0e6      0x3bb zephyr/kernel/libkernel.a(idle.c.obj)
- .debug_str     0x0001f0e6      0xd4f zephyr/kernel/libkernel.a(mutex.c.obj)
- .debug_str     0x0001f0e6      0xd40 zephyr/kernel/libkernel.a(queue.c.obj)
- .debug_str     0x0001f0e6      0xa27 zephyr/kernel/libkernel.a(sem.c.obj)
- .debug_str     0x0001f0e6      0x8de zephyr/kernel/libkernel.a(system_work_q.c.obj)
- .debug_str     0x0001f0e6     0x123a zephyr/kernel/libkernel.a(work.c.obj)
- .debug_str     0x0001f0e6      0xed4 zephyr/kernel/libkernel.a(thread.c.obj)
- .debug_str     0x0001f0e6     0x17d2 zephyr/kernel/libkernel.a(sched.c.obj)
- .debug_str     0x0001f0e6      0xab8 zephyr/kernel/libkernel.a(timeslicing.c.obj)
- .debug_str     0x0001f0e6      0x94f zephyr/kernel/libkernel.a(thread_monitor.c.obj)
- .debug_str     0x0001f0e6      0x965 zephyr/kernel/libkernel.a(timeout.c.obj)
- .debug_str     0x0001f0e6      0xb10 zephyr/kernel/libkernel.a(timer.c.obj)
- .debug_str     0x0001f0e6      0xa53 zephyr/kernel/libkernel.a(mempool.c.obj)
- .debug_str     0x0001f0e6      0x290 zephyr/kernel/libkernel.a(banner.c.obj)
- .debug_str     0x0001f0e6      0x595 modules/nrf/subsys/nrf_security/src/libmbedcrypto.a(memory_buffer_alloc.c.obj)
- .debug_str     0x0001f0e6      0x4a4 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(threading_alt.c.obj)
- .debug_str     0x0001f0e6      0x3a3 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(platform.c.obj)
- .debug_str     0x0001f0e6      0x52c modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(platform_util.c.obj)
- .debug_str     0x0001f0e6     0x3099 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto.c.obj)
- .debug_str     0x0001f0e6      0xbc4 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto_slot_management.c.obj)
- .debug_str     0x0001f0e6     0x1b70 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto_driver_wrappers.c.obj)
- .debug_str     0x0001f0e6      0x7c0 modules/nrf/subsys/nrf_security/src/drivers/nrf_oberon/liboberon_psa_driver.a(oberon_mac.c.obj)
- .debug_str     0x0001f0e6      0x672 modules/nrf/subsys/nrf_security/src/drivers/nrf_oberon/liboberon_psa_driver.a(oberon_cipher.c.obj)
- .debug_str     0x0001f0e6      0x301 modules/nrf/subsys/nrf_security/src/drivers/nrf_oberon/liboberon_psa_driver.a(oberon_helpers.c.obj)
- .debug_str     0x0001f0e6      0x3b6 zephyr/arch/common/libisr_tables.a(isr_tables.c.obj)
+ .debug_str     0x00000000    0x1f203 zephyr/CMakeFiles/offsets.dir/./arch/arm/core/offsets/offsets.c.obj
+                                0x3d9 (size before relaxing)
+ .debug_str     0x0001f203     0x1562 app/libapp.a(main.c.obj)
+ .debug_str     0x0001f203      0xc6d app/libapp.a(my_lbs.c.obj)
+ .debug_str     0x0001f203      0xb33 app/libapp.a(adc.c.obj)
+ .debug_str     0x0001f203      0xed2 zephyr/libzephyr.a(heap.c.obj)
+ .debug_str     0x0001f203      0xd05 zephyr/libzephyr.a(cbprintf_packaged.c.obj)
+ .debug_str     0x0001f203      0x608 zephyr/libzephyr.a(printk.c.obj)
+ .debug_str     0x0001f203      0x829 zephyr/libzephyr.a(thread_entry.c.obj)
+ .debug_str     0x0001f203      0x3dc zephyr/libzephyr.a(assert.c.obj)
+ .debug_str     0x0001f203      0x832 zephyr/libzephyr.a(mpsc_pbuf.c.obj)
+ .debug_str     0x0001f203      0x9ff zephyr/libzephyr.a(getopt.c.obj)
+ .debug_str     0x0001f203      0x88c zephyr/libzephyr.a(onoff.c.obj)
+ .debug_str     0x0001f203      0x3ae zephyr/libzephyr.a(notify.c.obj)
+ .debug_str     0x0001f203      0x2da zephyr/libzephyr.a(last_section_id.c.obj)
+ .debug_str     0x0001f203      0x284 zephyr/libzephyr.a(configs.c.obj)
+ .debug_str     0x0001f203      0x789 zephyr/libzephyr.a(thread_info.c.obj)
+ .debug_str     0x0001f203      0xca8 zephyr/libzephyr.a(ipc_service.c.obj)
+ .debug_str     0x0001f203     0x1985 zephyr/libzephyr.a(ipc_rpmsg_static_vrings.c.obj)
+ .debug_str     0x0001f203      0xda9 zephyr/libzephyr.a(ipc_rpmsg.c.obj)
+ .debug_str     0x0001f203      0xcf2 zephyr/libzephyr.a(ipc_static_vrings.c.obj)
+ .debug_str     0x0001f203     0x1d38 zephyr/libzephyr.a(log_core.c.obj)
+ .debug_str     0x0001f203      0xff9 zephyr/libzephyr.a(log_mgmt.c.obj)
+ .debug_str     0x0001f203      0xc93 zephyr/libzephyr.a(log_msg.c.obj)
+ .debug_str     0x0001f203      0xd57 zephyr/libzephyr.a(log_output.c.obj)
+ .debug_str     0x0001f203      0xe2d zephyr/libzephyr.a(log_backend_uart.c.obj)
+ .debug_str     0x0001f203      0x5f4 zephyr/libzephyr.a(mem_attr.c.obj)
+ .debug_str     0x0001f203      0x99c zephyr/libzephyr.a(gap_svc.c.obj)
+ .debug_str     0x0001f203      0x5a7 zephyr/libzephyr.a(banner.c.obj)
+ .debug_str     0x0001f203      0x5e6 zephyr/libzephyr.a(nrf_cc3xx_platform_abort_zephyr.c.obj)
+ .debug_str     0x0001f203      0xd7e zephyr/libzephyr.a(nrf_cc3xx_platform_mutex_zephyr.c.obj)
+ .debug_str     0x0001f203      0x328 zephyr/arch/common/libarch__common.a(init.c.obj)
+ .debug_str     0x0001f203      0x360 zephyr/arch/common/libarch__common.a(xip.c.obj)
+ .debug_str     0x0001f203      0xa4d zephyr/arch/arch/arm/core/libarch__arm__core.a(fatal.c.obj)
+ .debug_str     0x0001f203      0x2ea zephyr/arch/arch/arm/core/libarch__arm__core.a(nmi.c.obj)
+ .debug_str     0x0001f203       0x98 zephyr/arch/arch/arm/core/libarch__arm__core.a(nmi_on_reset.S.obj)
+ .debug_str     0x0001f203      0x836 zephyr/arch/arch/arm/core/libarch__arm__core.a(tls.c.obj)
+ .debug_str     0x0001f203     0x1495 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fault.c.obj)
+ .debug_str     0x0001f203       0x9c zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(fault_s.S.obj)
+ .debug_str     0x0001f203       0x9a zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(reset.S.obj)
+ .debug_str     0x0001f203      0x661 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(scb.c.obj)
+ .debug_str     0x0001f203       0x98 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(svc.S.obj)
+ .debug_str     0x0001f203      0x86e zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(irq_manage.c.obj)
+ .debug_str     0x0001f203      0x52b zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(prep_c.c.obj)
+ .debug_str     0x0001f203      0x7df zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(thread.c.obj)
+ .debug_str     0x0001f203      0x4bd zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(cpu_idle.c.obj)
+ .debug_str     0x0001f203      0x728 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(exc_exit.c.obj)
+ .debug_str     0x0001f203      0x772 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(thread_abort.c.obj)
+ .debug_str     0x0001f203       0xa0 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(swap_helper.S.obj)
+ .debug_str     0x0001f203      0x732 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(irq_init.c.obj)
+ .debug_str     0x0001f203      0x356 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(isr_wrapper.c.obj)
+ .debug_str     0x0001f203       0xa4 zephyr/arch/arch/arm/core/cortex_m/libarch__arm__core__cortex_m.a(__aeabi_read_tp.S.obj)
+ .debug_str     0x0001f203      0x46e zephyr/arch/arch/arm/core/cortex_m/cmse/libarch__arm__core__cortex_m__cmse.a(arm_core_cmse.c.obj)
+ .debug_str     0x0001f203      0x9ba zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_core_mpu.c.obj)
+ .debug_str     0x0001f203     0x1141 zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_mpu.c.obj)
+ .debug_str     0x0001f203      0x415 zephyr/arch/arch/arm/core/mpu/libarch__arm__core__mpu.a(arm_mpu_regions.c.obj)
+ .debug_str     0x0001f203      0x384 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(cbprintf.c.obj)
+ .debug_str     0x0001f203      0x2f0 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(exit.c.obj)
+ .debug_str     0x0001f203      0x5d8 zephyr/lib/libc/picolibc/liblib__libc__picolibc.a(stdio.c.obj)
+ .debug_str     0x0001f203      0x8aa zephyr/lib/libc/common/liblib__libc__common.a(malloc.c.obj)
+ .debug_str     0x0001f203      0xf58 zephyr/lib/net_buf/liblib__net_buf.a(buf.c.obj)
+ .debug_str     0x0001f203      0xcf8 zephyr/lib/net_buf/liblib__net_buf.a(buf_simple.c.obj)
+ .debug_str     0x0001f203     0x12f9 zephyr/soc/soc/nrf5340/libsoc__nordic.a(soc.c.obj)
+ .debug_str     0x0001f203      0xac1 zephyr/soc/soc/nrf5340/libsoc__nordic.a(nrf53_cpunet_mgmt.c.obj)
+ .debug_str     0x0001f203      0x450 zephyr/soc/soc/nrf5340/libsoc__nordic.a(gppi_init.c.obj)
+ .debug_str     0x0001f203      0x8a1 zephyr/soc/soc/nrf5340/libsoc__nordic.a(gpiote_nrfx.c.obj)
+ .debug_str     0x0001f203      0x38c zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(addr.c.obj)
+ .debug_str     0x0001f203      0x31b zephyr/subsys/bluetooth/common/libsubsys__bluetooth__common.a(bt_str.c.obj)
+ .debug_str     0x0001f203      0xa0d zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(long_wq.c.obj)
+ .debug_str     0x0001f203      0x719 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(uuid.c.obj)
+ .debug_str     0x0001f203      0x3db zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(addr.c.obj)
+ .debug_str     0x0001f203     0x1713 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(buf.c.obj)
+ .debug_str     0x0001f203      0xa93 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(data.c.obj)
+ .debug_str     0x0001f203     0x3b2b zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(hci_core.c.obj)
+ .debug_str     0x0001f203     0x1f9e zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(id.c.obj)
+ .debug_str     0x0001f203     0x21a0 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(adv.c.obj)
+ .debug_str     0x0001f203     0x1086 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(crypto_psa.c.obj)
+ .debug_str     0x0001f203     0x31cf zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(conn.c.obj)
+ .debug_str     0x0001f203     0x22c2 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(l2cap.c.obj)
+ .debug_str     0x0001f203     0x3109 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(att.c.obj)
+ .debug_str     0x0001f203     0x31c5 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt.c.obj)
+ .debug_str     0x0001f203      0x872 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(gatt_gap_svc_validate.c.obj)
+ .debug_str     0x0001f203     0x1998 zephyr/subsys/bluetooth/host/libsubsys__bluetooth__host.a(smp_null.c.obj)
+ .debug_str     0x0001f203      0x85e zephyr/drivers/adc/libdrivers__adc.a(adc_common.c.obj)
+ .debug_str     0x0001f203     0x2013 zephyr/drivers/adc/libdrivers__adc.a(adc_nrfx_saadc.c.obj)
+ .debug_str     0x0001f203     0x1104 zephyr/drivers/bluetooth/libdrivers__bluetooth.a(ipc.c.obj)
+ .debug_str     0x0001f203      0xbdd zephyr/drivers/bluetooth/libdrivers__bluetooth.a(nrf53_support.c.obj)
+ .debug_str     0x0001f203     0x2188 zephyr/drivers/clock_control/libdrivers__clock_control.a(clock_control_nrf.c.obj)
+ .debug_str     0x0001f203      0x5e7 zephyr/drivers/console/libdrivers__console.a(uart_console.c.obj)
+ .debug_str     0x0001f203      0x75d zephyr/drivers/entropy/libdrivers__entropy.a(entropy_bt_hci.c.obj)
+ .debug_str     0x0001f203      0x749 zephyr/drivers/entropy/libdrivers__entropy.a(entropy_cc3xx.c.obj)
+ .debug_str     0x0001f203     0x17a0 zephyr/drivers/gpio/libdrivers__gpio.a(gpio_nrfx.c.obj)
+ .debug_str     0x0001f203     0x1071 zephyr/drivers/mbox/libdrivers__mbox.a(mbox_nrfx_ipc.c.obj)
+ .debug_str     0x0001f203      0x375 zephyr/drivers/pinctrl/libdrivers__pinctrl.a(common.c.obj)
+ .debug_str     0x0001f203      0xff9 zephyr/drivers/pinctrl/libdrivers__pinctrl.a(pinctrl_nrf.c.obj)
+ .debug_str     0x0001f203     0x1c81 zephyr/drivers/serial/libdrivers__serial.a(uart_nrfx_uarte.c.obj)
+ .debug_str     0x0001f203     0x17fd zephyr/drivers/timer/libdrivers__timer.a(nrf_rtc_timer.c.obj)
+ .debug_str     0x0001f203     0x16f1 modules/nrf/lib/dk_buttons_and_leds/lib..__nrf__lib__dk_buttons_and_leds.a(dk_buttons_and_leds.c.obj)
+ .debug_str     0x0001f203      0x625 modules/nrf/subsys/nrf_security/src/zephyr/libmbedtls_zephyr.a(mbedtls_heap.c.obj)
+ .debug_str     0x0001f203      0x629 modules/nrf/subsys/nrf_security/src/zephyr/libmbedtls_zephyr.a(psa_crypto_init.c.obj)
+ .debug_str     0x0001f203      0x80a modules/nrf/drivers/hw_cc3xx/lib..__nrf__drivers__hw_cc3xx.a(hw_cc3xx.c.obj)
+ .debug_str     0x0001f203      0xe47 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(system_nrf5340_application.c.obj)
+ .debug_str     0x0001f203      0x363 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_glue.c.obj)
+ .debug_str     0x0001f203      0x3a7 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_flag32_allocator.c.obj)
+ .debug_str     0x0001f203      0xbde modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_gppi_dppi.c.obj)
+ .debug_str     0x0001f203     0x14e5 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock.c.obj)
+ .debug_str     0x0001f203     0x116d modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_hfclk.c.obj)
+ .debug_str     0x0001f203     0x10cc modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_hfclkaudio.c.obj)
+ .debug_str     0x0001f203     0x1186 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_hfclk192m.c.obj)
+ .debug_str     0x0001f203     0x11e2 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_clock_lfclk.c.obj)
+ .debug_str     0x0001f203     0x2649 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_gpiote.c.obj)
+ .debug_str     0x0001f203      0xf63 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_ipc.c.obj)
+ .debug_str     0x0001f203     0x2c40 modules/hal_nordic/modules/hal_nordic/nrfx/libnrfx.a(nrfx_saadc.c.obj)
+ .debug_str     0x0001f203      0xacb modules/libmetal/libmetal/lib/libmetal.a(device.c.obj)
+ .debug_str     0x0001f203      0x490 modules/libmetal/libmetal/lib/libmetal.a(init.c.obj)
+ .debug_str     0x0001f203      0x4e8 modules/libmetal/libmetal/lib/libmetal.a(io.c.obj)
+ .debug_str     0x0001f203      0x776 modules/libmetal/libmetal/lib/libmetal.a(device.c.obj)
+ .debug_str     0x0001f203      0x8cb modules/libmetal/libmetal/lib/libmetal.a(init.c.obj)
+ .debug_str     0x0001f203      0x60c modules/libmetal/libmetal/lib/libmetal.a(log.c.obj)
+ .debug_str     0x0001f203      0xa42 modules/open-amp/open-amp/lib/libopen_amp.a(virtio.c.obj)
+ .debug_str     0x0001f203      0xc3d modules/open-amp/open-amp/lib/libopen_amp.a(virtqueue.c.obj)
+ .debug_str     0x0001f203      0x8eb modules/open-amp/open-amp/lib/libopen_amp.a(rpmsg.c.obj)
+ .debug_str     0x0001f203     0x12ed modules/open-amp/open-amp/lib/libopen_amp.a(rpmsg_virtio.c.obj)
+ .debug_str     0x0001f203      0x31e modules/open-amp/open-amp/lib/libopen_amp.a(utilities.c.obj)
+ .debug_str     0x0001f203      0x303 zephyr/kernel/libkernel.a(busy_wait.c.obj)
+ .debug_str     0x0001f203      0x422 zephyr/kernel/libkernel.a(device.c.obj)
+ .debug_str     0x0001f203      0xe1f zephyr/kernel/libkernel.a(fatal.c.obj)
+ .debug_str     0x0001f203     0x1487 zephyr/kernel/libkernel.a(init.c.obj)
+ .debug_str     0x0001f203      0x975 zephyr/kernel/libkernel.a(kheap.c.obj)
+ .debug_str     0x0001f203      0xcab zephyr/kernel/libkernel.a(mem_slab.c.obj)
+ .debug_str     0x0001f203      0x3f4 zephyr/kernel/libkernel.a(idle.c.obj)
+ .debug_str     0x0001f203      0xd88 zephyr/kernel/libkernel.a(mutex.c.obj)
+ .debug_str     0x0001f203      0xd79 zephyr/kernel/libkernel.a(queue.c.obj)
+ .debug_str     0x0001f203      0xa60 zephyr/kernel/libkernel.a(sem.c.obj)
+ .debug_str     0x0001f203      0x917 zephyr/kernel/libkernel.a(system_work_q.c.obj)
+ .debug_str     0x0001f203     0x1273 zephyr/kernel/libkernel.a(work.c.obj)
+ .debug_str     0x0001f203      0xf0d zephyr/kernel/libkernel.a(thread.c.obj)
+ .debug_str     0x0001f203     0x180b zephyr/kernel/libkernel.a(sched.c.obj)
+ .debug_str     0x0001f203      0xaf1 zephyr/kernel/libkernel.a(timeslicing.c.obj)
+ .debug_str     0x0001f203      0x988 zephyr/kernel/libkernel.a(thread_monitor.c.obj)
+ .debug_str     0x0001f203      0x99e zephyr/kernel/libkernel.a(timeout.c.obj)
+ .debug_str     0x0001f203      0xb49 zephyr/kernel/libkernel.a(timer.c.obj)
+ .debug_str     0x0001f203      0xa8c zephyr/kernel/libkernel.a(mempool.c.obj)
+ .debug_str     0x0001f203      0x2c9 zephyr/kernel/libkernel.a(banner.c.obj)
+ .debug_str     0x0001f203      0x5ce modules/nrf/subsys/nrf_security/src/libmbedcrypto.a(memory_buffer_alloc.c.obj)
+ .debug_str     0x0001f203      0x4dd modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(threading_alt.c.obj)
+ .debug_str     0x0001f203      0x3dc modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(platform.c.obj)
+ .debug_str     0x0001f203      0x565 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(platform_util.c.obj)
+ .debug_str     0x0001f203     0x30d2 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto.c.obj)
+ .debug_str     0x0001f203      0xbfd modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto_slot_management.c.obj)
+ .debug_str     0x0001f203     0x1ba9 modules/nrf/subsys/nrf_security/src/core/nrf_oberon/libpsa_core.a(psa_crypto_driver_wrappers.c.obj)
+ .debug_str     0x0001f203      0x7f9 modules/nrf/subsys/nrf_security/src/drivers/nrf_oberon/liboberon_psa_driver.a(oberon_mac.c.obj)
+ .debug_str     0x0001f203      0x6ab modules/nrf/subsys/nrf_security/src/drivers/nrf_oberon/liboberon_psa_driver.a(oberon_cipher.c.obj)
+ .debug_str     0x0001f203      0x33a modules/nrf/subsys/nrf_security/src/drivers/nrf_oberon/liboberon_psa_driver.a(oberon_helpers.c.obj)
+ .debug_str     0x0001f203      0x3ef zephyr/arch/common/libisr_tables.a(isr_tables.c.obj)
 
 .debug_loc      0x00000000    0x866be
  *(SORT_BY_ALIGNMENT(.debug_loc))
@@ -11452,10 +11452,10 @@ net_buf_pool_area
                 0x00003aa9       0x22 C:/ncs/toolchains/5f5ef0cea0/opt/zephyr-sdk/gnu/arm-zephyr-eabi/bin/../lib/gcc/arm-zephyr-eabi/14.3.0/thumb/v8-m.main/nofp/space\libgcc.a(_arm_fixunsdfsi.o)
  *(SORT_BY_ALIGNMENT(.gnu.attributes))
 
-.last_section   0x0001bb4c        0x4
+.last_section   0x0001bb60        0x4
  *(SORT_BY_ALIGNMENT(.last_section))
- .last_section  0x0001bb4c        0x4 zephyr/libzephyr.a(last_section_id.c.obj)
-                0x0001bb50                        _flash_used = ((LOADADDR (.last_section) + SIZEOF (.last_section)) - __rom_region_start)
+ .last_section  0x0001bb60        0x4 zephyr/libzephyr.a(last_section_id.c.obj)
+                0x0001bb64                        _flash_used = ((LOADADDR (.last_section) + SIZEOF (.last_section)) - __rom_region_start)
 
 bss             0x20000830     0x246c
                 0x20000830                        . = ALIGN (0x4)

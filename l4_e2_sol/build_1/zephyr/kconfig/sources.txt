@@ -1,9 +1,3 @@
-C:\l4_e2_sol\Kconfig.sysbuild
-C:\l4_e2_sol\build_1\Kconfig\Kconfig.sysbuild.modules
-C:\l4_e2_sol\build_1\Kconfig\boards\Kconfig.nrf5340dk
-C:\l4_e2_sol\build_1\Kconfig\boards\Kconfig.sysbuild
-C:\l4_e2_sol\build_1\Kconfig\soc\Kconfig.soc
-C:\l4_e2_sol\build_1\Kconfig\soc\Kconfig.sysbuild
 C:\ncs\v3.4.2\nrf\soc\nordic\Kconfig.soc
 C:\ncs\v3.4.2\nrf\soc\nordic\Kconfig.sysbuild
 C:\ncs\v3.4.2\nrf\soc\nordic\common\vpr\Kconfig.sysbuild
@@ -516,3 +510,9 @@ C:\ncs\v3.4.2\zephyr\soc\xlnx\zynq7000\Kconfig.soc
 C:\ncs\v3.4.2\zephyr\soc\xlnx\zynq7000\xc7zxxx\Kconfig.soc
 C:\ncs\v3.4.2\zephyr\soc\xlnx\zynq7000\xc7zxxxs\Kconfig.soc
 C:\ncs\v3.4.2\zephyr\soc\xlnx\zynqmp\Kconfig.soc
+C:\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\Kconfig.sysbuild
+C:\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\Kconfig\Kconfig.sysbuild.modules
+C:\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\Kconfig\boards\Kconfig.nrf5340dk
+C:\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\Kconfig\boards\Kconfig.sysbuild
+C:\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\Kconfig\soc\Kconfig.soc
+C:\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\Kconfig\soc\Kconfig.sysbuild

@@ -4,6 +4,6 @@
 
 method=source_dir
 command=
-source_dir=C:/l4_e2_sol
+source_dir=C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol
 work_dir=
 

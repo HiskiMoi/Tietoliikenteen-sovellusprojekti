@@ -1,4 +1,4 @@
-# Install script for directory: C:/l4_e2_sol
+# Install script for directory: C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,13 +39,13 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/l4_e2_sol/build_1/l4_e2_sol/zephyr/cmake_install.cmake")
+  include("C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/l4_e2_sol/zephyr/cmake_install.cmake")
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/l4_e2_sol/build_1/l4_e2_sol/install_local_manifest.txt"
+  file(WRITE "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/l4_e2_sol/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 if(CMAKE_INSTALL_COMPONENT)
@@ -61,6 +61,6 @@ else()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/l4_e2_sol/build_1/l4_e2_sol/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/l4_e2_sol/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

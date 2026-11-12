@@ -7,7 +7,7 @@
       "operation": {
         "chip_erase_mode": "ERASE_RANGES_TOUCHED_BY_FIRMWARE",
         "firmware": {
-          "file": "C:\\l4_e2_sol\\build_1\\ipc_radio\\zephyr\\zephyr.hex"
+          "file": "C:\\tieoliikenteen_projekti\\Tietoliikenteen-sovellusprojekti\\l4_e2_sol\\build_1\\ipc_radio\\zephyr\\zephyr.hex"
         },
         "type": "program",
         "verify": "VERIFY_READ"

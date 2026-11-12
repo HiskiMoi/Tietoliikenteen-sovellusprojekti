@@ -39,42 +39,42 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/l4_e2_sol/build_1/ipc_radio/modules/nrf/ext/cmake_install.cmake")
+  include("C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/modules/nrf/ext/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/l4_e2_sol/build_1/ipc_radio/modules/nrf/lib/cmake_install.cmake")
+  include("C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/modules/nrf/lib/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/l4_e2_sol/build_1/ipc_radio/modules/nrf/samples/cmake_install.cmake")
+  include("C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/modules/nrf/samples/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/l4_e2_sol/build_1/ipc_radio/modules/nrf/subsys/cmake_install.cmake")
+  include("C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/modules/nrf/subsys/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/l4_e2_sol/build_1/ipc_radio/modules/nrf/modules/cmake_install.cmake")
+  include("C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/modules/nrf/modules/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/l4_e2_sol/build_1/ipc_radio/modules/nrf/drivers/cmake_install.cmake")
+  include("C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/modules/nrf/drivers/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/l4_e2_sol/build_1/ipc_radio/modules/nrf/tests/cmake_install.cmake")
+  include("C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/modules/nrf/tests/cmake_install.cmake")
 endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/l4_e2_sol/build_1/ipc_radio/modules/nrf/install_local_manifest.txt"
+  file(WRITE "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/modules/nrf/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

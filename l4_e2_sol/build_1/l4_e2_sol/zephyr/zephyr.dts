@@ -429,39 +429,39 @@
 				interrupts = < 0xe 0x1 >;        /* in zephyr\dts\arm\nordic\nrf5340_cpuapp_peripherals.dtsi:275 */
 				#io-channel-cells = < 0x1 >;     /* in zephyr\dts\arm\nordic\nrf5340_cpuapp_peripherals.dtsi:277 */
 				zephyr,pm-device-runtime-auto;   /* in zephyr\dts\arm\nordic\nrf5340_cpuapp_peripherals.dtsi:278 */
-				status = "okay";                 /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:26 */
-				#address-cells = < 0x1 >;        /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:27 */
-				#size-cells = < 0x0 >;           /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:28 */
+				status = "okay";                 /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:26 */
+				#address-cells = < 0x1 >;        /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:27 */
+				#size-cells = < 0x0 >;           /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:28 */
 				phandle = < 0x16 >;              /* in zephyr\boards\nordic\nrf5340dk\nrf5340_cpuapp_common.dtsi:33 */
 
-				/* node '/soc/peripheral@50000000/adc@e000/channel@0' defined in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:30 */
+				/* node '/soc/peripheral@50000000/adc@e000/channel@0' defined in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:30 */
 				channel@0 {
-					reg = < 0x0 >;                         /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:31 */
-					zephyr,gain = "ADC_GAIN_1_6";          /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:32 */
-					zephyr,reference = "ADC_REF_INTERNAL"; /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:33 */
-					zephyr,acquisition-time = < 0x0 >;     /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:34 */
-					zephyr,input-positive = < 0x0 >;       /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:35 */
-					zephyr,resolution = < 0xc >;           /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:36 */
+					reg = < 0x0 >;                         /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:31 */
+					zephyr,gain = "ADC_GAIN_1_6";          /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:32 */
+					zephyr,reference = "ADC_REF_INTERNAL"; /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:33 */
+					zephyr,acquisition-time = < 0x0 >;     /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:34 */
+					zephyr,input-positive = < 0x0 >;       /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:35 */
+					zephyr,resolution = < 0xc >;           /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:36 */
 				};
 
-				/* node '/soc/peripheral@50000000/adc@e000/channel@1' defined in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:39 */
+				/* node '/soc/peripheral@50000000/adc@e000/channel@1' defined in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:39 */
 				channel@1 {
-					reg = < 0x1 >;                         /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:40 */
-					zephyr,gain = "ADC_GAIN_1_6";          /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:41 */
-					zephyr,reference = "ADC_REF_INTERNAL"; /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:42 */
-					zephyr,acquisition-time = < 0x0 >;     /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:43 */
-					zephyr,input-positive = < 0x1 >;       /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:44 */
-					zephyr,resolution = < 0xc >;           /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:45 */
+					reg = < 0x1 >;                         /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:40 */
+					zephyr,gain = "ADC_GAIN_1_6";          /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:41 */
+					zephyr,reference = "ADC_REF_INTERNAL"; /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:42 */
+					zephyr,acquisition-time = < 0x0 >;     /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:43 */
+					zephyr,input-positive = < 0x1 >;       /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:44 */
+					zephyr,resolution = < 0xc >;           /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:45 */
 				};
 
-				/* node '/soc/peripheral@50000000/adc@e000/channel@2' defined in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:49 */
+				/* node '/soc/peripheral@50000000/adc@e000/channel@2' defined in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:49 */
 				channel@2 {
-					reg = < 0x2 >;                         /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:50 */
-					zephyr,gain = "ADC_GAIN_1_6";          /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:51 */
-					zephyr,reference = "ADC_REF_INTERNAL"; /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:52 */
-					zephyr,acquisition-time = < 0x0 >;     /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:53 */
-					zephyr,input-positive = < 0x2 >;       /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:54 */
-					zephyr,resolution = < 0xc >;           /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:55 */
+					reg = < 0x2 >;                         /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:50 */
+					zephyr,gain = "ADC_GAIN_1_6";          /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:51 */
+					zephyr,reference = "ADC_REF_INTERNAL"; /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:52 */
+					zephyr,acquisition-time = < 0x0 >;     /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:53 */
+					zephyr,input-positive = < 0x2 >;       /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:54 */
+					zephyr,resolution = < 0xc >;           /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:55 */
 				};
 			};
 
@@ -1301,10 +1301,10 @@
 		};
 	};
 
-	/* node '/zephyr,user' defined in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:18 */
+	/* node '/zephyr,user' defined in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:18 */
 	zephyr,user {
 		io-channels = < &adc 0x0 >,
 		              < &adc 0x1 >,
-		              < &adc 0x2 >; /* in ..\..\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:19 */
+		              < &adc 0x2 >; /* in ..\..\tieoliikenteen_projekti\Tietoliikenteen-sovellusprojekti\l4_e2_sol\build_1\l4_e2_sol\zephyr\nrf5340dk_nrf5340_cpuapp.overlay:19 */
 	};
 };

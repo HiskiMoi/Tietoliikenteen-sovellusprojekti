@@ -22,5 +22,5 @@ set(CONFIG_TF_PSA_CRYPTO_USER_CONFIG_FILE nrf-psa-crypto-user-config.h)
 
 # This file is populated with the generated include-folders for PSA interface (for main app, ns-services) as
 # well as the include-folder for library build of the crypto toolbo with or without TF-M
-set(PSA_CRYPTO_CONFIG_INTERFACE_PATH    C:/l4_e2_sol/build_1/l4_e2_sol/generated/interface_nrf_security_psa CACHE STRING "Path used for generated PSA crypto configuratiosn for the interface")
-set(PSA_CRYPTO_CONFIG_LIBRARY_PATH      C:/l4_e2_sol/build_1/l4_e2_sol/generated/library_nrf_security_psa CACHE STRING "Path used for generated PSA crypto for library builds")
+set(PSA_CRYPTO_CONFIG_INTERFACE_PATH    C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/l4_e2_sol/generated/interface_nrf_security_psa CACHE STRING "Path used for generated PSA crypto configuratiosn for the interface")
+set(PSA_CRYPTO_CONFIG_LIBRARY_PATH      C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/l4_e2_sol/generated/library_nrf_security_psa CACHE STRING "Path used for generated PSA crypto for library builds")

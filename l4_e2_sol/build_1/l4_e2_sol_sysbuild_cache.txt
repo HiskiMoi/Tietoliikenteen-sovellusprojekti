@@ -1,5 +1,5 @@
-APPLICATION_BINARY_DIR:PATH=C:/l4_e2_sol/build_1
-APP_DIR:PATH=c:/l4_e2_sol
+APPLICATION_BINARY_DIR:PATH=C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1
+APP_DIR:PATH=c:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol
 BOARD_DIR:PATH=C:/ncs/v3.4.2/zephyr/boards/nordic/nrf5340dk
 BOARD_DIRECTORIES:INTERNAL=C:/ncs/v3.4.2/zephyr/boards/nordic/nrf5340dk
 BUILD_INFO_SYNC:INTERNAL=instant
@@ -26,7 +26,7 @@ _Python3_INTERPRETER_PROPERTIES:INTERNAL=Python;3;12;4;64;<none>;cp312-win_amd64
 _Python3_INTERPRETER_SIGNATURE:INTERNAL=176439bfb5ca3ea440fc636d02f38dd6
 _Python3_NumPy_REASON_FAILURE:INTERNAL=
 ipc_radio_EXTRA_CONF_FILE:STRING=;C:/ncs/v3.4.2/nrf/applications/ipc_radio/overlay-bt_hci_ipc.conf
-sysbuild_toplevel_BINARY_DIR:STATIC=C:/l4_e2_sol/build_1
+sysbuild_toplevel_BINARY_DIR:STATIC=C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1
 sysbuild_toplevel_IS_TOP_LEVEL:STATIC=ON
 sysbuild_toplevel_SOURCE_DIR:STATIC=C:/ncs/v3.4.2/zephyr/share/sysbuild
 BOARD:STRING=nrf5340dk/nrf5340/cpuapp

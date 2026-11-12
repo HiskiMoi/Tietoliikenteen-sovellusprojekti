@@ -42,11 +42,11 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/l4_e2_sol/build_1/ipc_radio/CMakeFiles/pkgRedirects/ZephyrBuildConfig.cmake"
+        path: "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/CMakeFiles/pkgRedirects/ZephyrBuildConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/l4_e2_sol/build_1/ipc_radio/CMakeFiles/pkgRedirects/zephyrbuild-config.cmake"
+        path: "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/CMakeFiles/pkgRedirects/zephyrbuild-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -170,11 +170,11 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/l4_e2_sol/build_1/ipc_radio/CMakeFiles/pkgRedirects/ZephyrAppConfig.cmake"
+        path: "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/CMakeFiles/pkgRedirects/ZephyrAppConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/l4_e2_sol/build_1/ipc_radio/CMakeFiles/pkgRedirects/zephyrapp-config.cmake"
+        path: "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/CMakeFiles/pkgRedirects/zephyrapp-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -419,11 +419,11 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/l4_e2_sol/build_1/ipc_radio/CMakeFiles/pkgRedirects/Zephyr-sdkConfig.cmake"
+        path: "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/CMakeFiles/pkgRedirects/Zephyr-sdkConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/l4_e2_sol/build_1/ipc_radio/CMakeFiles/pkgRedirects/zephyr-sdk-config.cmake"
+        path: "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/CMakeFiles/pkgRedirects/zephyr-sdk-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -2550,7 +2550,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
       
       The C compiler identification is GNU, found in:
-        C:/l4_e2_sol/build_1/ipc_radio/CMakeFiles/4.2.1/CompilerIdC/a.out
+        C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/CMakeFiles/4.2.1/CompilerIdC/a.out
       
   -
     kind: "find-v1"
@@ -3851,7 +3851,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
       
       The CXX compiler identification is GNU, found in:
-        C:/l4_e2_sol/build_1/ipc_radio/CMakeFiles/4.2.1/CompilerIdCXX/a.out
+        C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/CMakeFiles/4.2.1/CompilerIdCXX/a.out
       
   -
     kind: "find-v1"
@@ -5331,8 +5331,8 @@ events:
     checks:
       - "Looking for include file stdatomic.h"
     directories:
-      source: "C:/l4_e2_sol/build_1/ipc_radio/CMakeFiles/CMakeScratch/TryCompile-u6x1yh"
-      binary: "C:/l4_e2_sol/build_1/ipc_radio/CMakeFiles/CMakeScratch/TryCompile-u6x1yh"
+      source: "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/CMakeFiles/CMakeScratch/TryCompile-6lev3x"
+      binary: "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/CMakeFiles/CMakeScratch/TryCompile-6lev3x"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -5342,12 +5342,12 @@ events:
       variable: "HAVE_STDATOMIC_H"
       cached: true
       stdout: |
-        Change Dir: 'C:/l4_e2_sol/build_1/ipc_radio/CMakeFiles/CMakeScratch/TryCompile-u6x1yh'
+        Change Dir: 'C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/CMakeFiles/CMakeScratch/TryCompile-6lev3x'
         
-        Run Build Command(s): C:/ncs/toolchains/5f5ef0cea0/opt/bin/ninja.exe -v cmTC_aef52
-        [1/2] C:\\ncs\\toolchains\\5f5ef0cea0\\opt\\zephyr-sdk\\gnu\\arm-zephyr-eabi\\bin\\arm-zephyr-eabi-gcc.exe   -c -o CMakeFiles/cmTC_aef52.dir/HAVE_STDATOMIC_H.c.obj -c C:/l4_e2_sol/build_1/ipc_radio/CMakeFiles/CMakeScratch/TryCompile-u6x1yh/HAVE_STDATOMIC_H.c
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\ncs\\toolchains\\5f5ef0cea0\\opt\\zephyr-sdk\\gnu\\arm-zephyr-eabi\\bin\\arm-zephyr-eabi-gcc.exe -c  CMakeFiles/cmTC_aef52.dir/HAVE_STDATOMIC_H.c.obj -o cmTC_aef52   && cd ."
-        arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_aef52.dir/HAVE_STDATOMIC_H.c.obj: linker input file unused because linking not done
+        Run Build Command(s): C:/ncs/toolchains/5f5ef0cea0/opt/bin/ninja.exe -v cmTC_f3937
+        [1/2] C:\\ncs\\toolchains\\5f5ef0cea0\\opt\\zephyr-sdk\\gnu\\arm-zephyr-eabi\\bin\\arm-zephyr-eabi-gcc.exe   -c -o CMakeFiles/cmTC_f3937.dir/HAVE_STDATOMIC_H.c.obj -c C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/CMakeFiles/CMakeScratch/TryCompile-6lev3x/HAVE_STDATOMIC_H.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\ncs\\toolchains\\5f5ef0cea0\\opt\\zephyr-sdk\\gnu\\arm-zephyr-eabi\\bin\\arm-zephyr-eabi-gcc.exe -c  CMakeFiles/cmTC_f3937.dir/HAVE_STDATOMIC_H.c.obj -o cmTC_f3937   && cd ."
+        arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_f3937.dir/HAVE_STDATOMIC_H.c.obj: linker input file unused because linking not done
         
       exitCode: 0
   -
@@ -5359,8 +5359,8 @@ events:
     checks:
       - "Looking for include file fcntl.h"
     directories:
-      source: "C:/l4_e2_sol/build_1/ipc_radio/CMakeFiles/CMakeScratch/TryCompile-8asd07"
-      binary: "C:/l4_e2_sol/build_1/ipc_radio/CMakeFiles/CMakeScratch/TryCompile-8asd07"
+      source: "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/CMakeFiles/CMakeScratch/TryCompile-0o84t0"
+      binary: "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/CMakeFiles/CMakeScratch/TryCompile-0o84t0"
     cmakeVariables:
       CMAKE_C_FLAGS: " -Wall -Wextra"
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -5370,12 +5370,12 @@ events:
       variable: "HAVE_FCNTL_H"
       cached: true
       stdout: |
-        Change Dir: 'C:/l4_e2_sol/build_1/ipc_radio/CMakeFiles/CMakeScratch/TryCompile-8asd07'
+        Change Dir: 'C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/CMakeFiles/CMakeScratch/TryCompile-0o84t0'
         
-        Run Build Command(s): C:/ncs/toolchains/5f5ef0cea0/opt/bin/ninja.exe -v cmTC_a9313
-        [1/2] C:\\ncs\\toolchains\\5f5ef0cea0\\opt\\zephyr-sdk\\gnu\\arm-zephyr-eabi\\bin\\arm-zephyr-eabi-gcc.exe   -Wall -Wextra -c -o CMakeFiles/cmTC_a9313.dir/HAVE_FCNTL_H.c.obj -c C:/l4_e2_sol/build_1/ipc_radio/CMakeFiles/CMakeScratch/TryCompile-8asd07/HAVE_FCNTL_H.c
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\ncs\\toolchains\\5f5ef0cea0\\opt\\zephyr-sdk\\gnu\\arm-zephyr-eabi\\bin\\arm-zephyr-eabi-gcc.exe -Wall -Wextra -c  CMakeFiles/cmTC_a9313.dir/HAVE_FCNTL_H.c.obj -o cmTC_a9313   && cd ."
-        arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_a9313.dir/HAVE_FCNTL_H.c.obj: linker input file unused because linking not done
+        Run Build Command(s): C:/ncs/toolchains/5f5ef0cea0/opt/bin/ninja.exe -v cmTC_2be84
+        [1/2] C:\\ncs\\toolchains\\5f5ef0cea0\\opt\\zephyr-sdk\\gnu\\arm-zephyr-eabi\\bin\\arm-zephyr-eabi-gcc.exe   -Wall -Wextra -c -o CMakeFiles/cmTC_2be84.dir/HAVE_FCNTL_H.c.obj -c C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/CMakeFiles/CMakeScratch/TryCompile-0o84t0/HAVE_FCNTL_H.c
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && C:\\ncs\\toolchains\\5f5ef0cea0\\opt\\zephyr-sdk\\gnu\\arm-zephyr-eabi\\bin\\arm-zephyr-eabi-gcc.exe -Wall -Wextra -c  CMakeFiles/cmTC_2be84.dir/HAVE_FCNTL_H.c.obj -o cmTC_2be84   && cd ."
+        arm-zephyr-eabi-gcc.exe: warning: CMakeFiles/cmTC_2be84.dir/HAVE_FCNTL_H.c.obj: linker input file unused because linking not done
         
       exitCode: 0
   -
@@ -6257,11 +6257,11 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/l4_e2_sol/build_1/ipc_radio/CMakeFiles/pkgRedirects/ZephyrConfig.cmake"
+        path: "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/CMakeFiles/pkgRedirects/ZephyrConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/l4_e2_sol/build_1/ipc_radio/CMakeFiles/pkgRedirects/zephyr-config.cmake"
+        path: "C:/tieoliikenteen_projekti/Tietoliikenteen-sovellusprojekti/l4_e2_sol/build_1/ipc_radio/CMakeFiles/pkgRedirects/zephyr-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
